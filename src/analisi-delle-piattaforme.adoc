@@ -4,6 +4,24 @@
 
 == Features
 
+Multi-Client:: È possibile gestire diversi template e diversi URL per mostrare a
+ciascun client una piattaforma diversa con una singola installazione di
+FormaLMS. Questa feature è potenzialmente utile se, per esempio pensando al
+contesto universitario (si veda <<formalms-possibili-contesti-duso>>), si vuole
+gestire un'unica installazione di FormaLMS (quella dell'università) da dividere
+in più piattaforme (quelle dei dipartimenti). 
+ 
+Estensibile attraverso plugins:: Se la piattaforma non consente di gestire delle
+operazioni che sono necessarie per il sistema che si sta progettando, è
+possibile estendere le funzionalità di FormaLMS attraverso plugin e script
+personalizzati. Se non dovesse essere disponibile un plugin che gestisca
+l'operazione necessaria, è pur sempre possibile realizzarne uno _ad-hoc_.
+
+Integrazione:: È possibile integrare la piattaforma di e-learning con il proprio
+software gesionale attraverso API native e connettori, rendendo quindi il
+sistema creato con FormaLMS parte del proprio ecosistema digitale.
+
+[#formalms-possibili-contesti-duso]
 == Possibili contesti d'uso
 
 L'LMS _FormaLMS_ risulta essere molto versatile. È infatti possibile utilizzarlo
