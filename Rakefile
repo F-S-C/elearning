@@ -15,11 +15,19 @@ def build_asciidoc(source, opts = {})
   content = File.read source
 
   lang_url = "https://raw.githubusercontent.com/asciidoctor/asciidoctor/master/data/locale/attributes-#{YAML.load_file("document.yml")["lang"]}.adoc"
-  puts
   content.sub!(/^(= .*?\n)/, "\\1#{Net::HTTP.get(URI.parse(lang_url))}\n")
-  puts content
-  # gets
-  Asciidoctor.convert content, backend: opts[:backend], safe: :unsafe, attributes: { "doctype" => "article", "title-page" => true, "media" => "prepress", "pdf-themesdir" => "themes", "pdf-theme" => "article", "author" => authors[:names], "toc" => "auto" }, to_dir: "out", to_file: opts[:dest], mkdirs: true
+
+  attributes = {
+    "doctype" => "article",
+    "title-page" => true,
+    "media" => "prepress",
+    "pdf-themesdir" => "themes",
+    "pdf-theme" => "article",
+    "author" => authors[:names],
+    "toc" => "auto",
+  }
+  
+  Asciidoctor.convert content, backend: opts[:backend], safe: :unsafe, attributes: attributes, to_dir: "out", to_file: opts[:dest], mkdirs: true
 end
 
 task :default => [:features] do
