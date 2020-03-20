@@ -16,6 +16,10 @@ operazioni che sono necessarie per il sistema che si sta progettando, è
 possibile estendere le funzionalità di FormaLMS attraverso plugin e script
 personalizzati. Se non dovesse essere disponibile un plugin che gestisca
 l'operazione necessaria, è pur sempre possibile realizzarne uno _ad-hoc_.
++
+Caricare un plugin è, inoltre, molto semplice: basta effettuare l'accesso alla
+piattaforma (come amministratore), andare nella pagina di amministrazione e
+scegliere dal menu la voce "`Configurazione > Plugin`".
 
 Integrazione:: È possibile integrare la piattaforma di e-learning con il proprio
 software gesionale attraverso API native e connettori, rendendo quindi il
