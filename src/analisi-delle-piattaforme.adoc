@@ -4,39 +4,40 @@
 
 == Features
 
-Layout reattivo:: L'incredibile successo commerciale di smartphone e di altri vari 
-dispositivi hanno obbligato i designer a fronteggiare il problema delle differenti 
-risoluzioni dei monitor. Proprio per queste continue evoluzioni della tecnologia i
-siti web devono essere reattivi. La piattoforma fornisce un layout reattivo e 
-un'interfaccia nuovissima con aspetto moderno progettata per un'esperienza utente 
-facile e coinvolgente.
+Layout reattivo:: L'incredibile successo commerciale di smartphone e di altri
+vari dispositivi hanno obbligato i designer a fronteggiare il problema delle
+differenti risoluzioni dei monitor. Proprio per queste continue evoluzioni della
+tecnologia i siti web devono essere reattivi. La piattoforma fornisce un layout
+reattivo e un'interfaccia nuovissima con aspetto moderno progettata per
+un'esperienza utente facile e coinvolgente.
 
-Controllo totale sui corsi:: Un'ottima caratteristica per un sito di E-learning è la
-possibilità di gestire i corsi. La piattoforma, appunto, fornisce i mezzi necessari 
-per la gestione degli insegnamenti e della condivisione dei suoi materiali. Permette,
-inoltre, di monitorare le attività con un sistema di tracciamento avanzato e compatibilità SCORM.
+Controllo totale sui corsi:: Un'ottima caratteristica per un sito di E-learning
+è la possibilità di gestire i corsi. La piattoforma, appunto, fornisce i mezzi
+necessari per la gestione degli insegnamenti e della condivisione dei suoi
+materiali. Permette, inoltre, di monitorare le attività con un sistema di
+tracciamento avanzato e compatibilità SCORM.
 
-Certificati PDF automatici:: L'apprendimento formale, un tipo di apprendimento che si 
-sviluppa nell’ambito di un contesto strutturato e organizzato, conduce ad una forma
-di riconoscimento ufficiale.
-La piattaforma permette la generazione automatica di certificati PDF al completamento 
-dei corsi, con modelli grafici personalizzabili illimitati.
+Certificati PDF automatici:: L'apprendimento formale, un tipo di apprendimento
+che si sviluppa nell’ambito di un contesto strutturato e organizzato, conduce ad
+una forma di riconoscimento ufficiale. La piattaforma permette la generazione
+automatica di certificati PDF al completamento dei corsi, con modelli grafici
+personalizzabili illimitati.
 
-E-commerce integrato:: La piattaforma presenta una funzionalità di e-commerce 
-integrata che permette di vendere i propri corsi con facilità, senza preoccuparsi
-di adottare soluzioni esterne. 
+E-commerce integrato:: La piattaforma presenta una funzionalità di e-commerce
+integrata che permette di vendere i propri corsi con facilità, senza
+preoccuparsi di adottare soluzioni esterne. 
 
-Notifiche automatiche:: La piattaforma presenta un sistema di notifica automatico
-in grado di avvisare quando l'utente compie un azione rilevante:
-la sua registrazione, l'iscrizione o il completamento di un corso.
-Le notifiche possono essere inviate via sms o tramite e-mail.
-Nel caso di alcuni tipi di notifiche è possibile impostare quanto prima/dopo devono
-essere inviate, oltre che a messaggi personalizzati.
+Notifiche automatiche:: La piattaforma presenta un sistema di notifica
+automatico in grado di avvisare quando l'utente compie un azione rilevante: la
+sua registrazione, l'iscrizione o il completamento di un corso. Le notifiche
+possono essere inviate via sms o tramite e-mail. Nel caso di alcuni tipi di
+notifiche è possibile impostare quanto prima/dopo devono essere inviate, oltre
+che a messaggi personalizzati.
 
-Comunicazione tra utenti:: La piattaforma consente agli utenti registrati di 
-comunicare attraverso l'utilizzo di forum, permettendo a coloro che sono registrati
-agli stessi corsi di interagire tra loro. Inoltre è presente un sistema di messaggistica
-privato.
+Comunicazione tra utenti:: La piattaforma consente agli utenti registrati di
+comunicare attraverso l'utilizzo di forum, permettendo a coloro che sono
+registrati agli stessi corsi di interagire tra loro. Inoltre è presente un
+sistema di messaggistica privato.
 
 Multi-Client:: È possibile gestire diversi template e diversi URL per mostrare a
 ciascun client una piattaforma diversa con una singola installazione di
