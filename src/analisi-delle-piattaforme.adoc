@@ -1,4 +1,4 @@
-= Analisi della piattaforma: FormaLMS
+= Analisi della piattaforma: forma.lms
 
 == Installazione
 
@@ -6,14 +6,14 @@
 
 Multi-Client:: È possibile gestire diversi template e diversi URL per mostrare a
 ciascun client una piattaforma diversa con una singola installazione di
-FormaLMS. Questa feature è potenzialmente utile se, per esempio pensando al
+forma.lms. Questa feature è potenzialmente utile se, per esempio pensando al
 contesto universitario (si veda <<formalms-possibili-contesti-duso>>), si vuole
-gestire un'unica installazione di FormaLMS (quella dell'università) da dividere
+gestire un'unica installazione di forma.lms (quella dell'università) da dividere
 in più piattaforme (quelle dei dipartimenti). 
  
 Estensibile attraverso plugins:: Se la piattaforma non consente di gestire delle
 operazioni che sono necessarie per il sistema che si sta progettando, è
-possibile estendere le funzionalità di FormaLMS attraverso plugin e script
+possibile estendere le funzionalità di forma.lms attraverso plugin e script
 personalizzati. Se non dovesse essere disponibile un plugin che gestisca
 l'operazione necessaria, è pur sempre possibile realizzarne uno _ad-hoc_.
 +
@@ -23,15 +23,15 @@ scegliere dal menu la voce "`Configurazione > Plugin`".
 
 Integrazione:: È possibile integrare la piattaforma di e-learning con il proprio
 software gesionale attraverso API native e connettori, rendendo quindi il
-sistema creato con FormaLMS parte del proprio ecosistema digitale.
+sistema creato con forma.lms parte del proprio ecosistema digitale.
 
 [#formalms-possibili-contesti-duso]
 == Possibili contesti d'uso
 
-L'LMS _FormaLMS_ risulta essere molto versatile. È infatti possibile utilizzarlo
+L'LMS _forma.lms_ risulta essere molto versatile. È infatti possibile utilizzarlo
 per diversi contesti. Di seguito se ne riportano tre, ritenuti più utili.
 
-Università:: Le features di FormaLMS si adattano bene al contesto universitario.
+Università:: Le features di forma.lms si adattano bene al contesto universitario.
 La gestione dei corsi e degli utenti permette di mappare in modo naturale il
 mondo delle lezioni accademiche a quello del LMS. Inoltre, la gestione
 automatica di certificati consente anche la generazione di attestati di laurea
@@ -40,23 +40,23 @@ creazione di un'intera facoltà online. Inoltre, la gestione dei _webinar_ (con
 relativi attestati) consente di tenere seminari online, simulando l'ambiente
 universitario.
 
-Accademie di varia tipologia:: Le features di FormaLMS si adattano ai contesti
+Accademie di varia tipologia:: Le features di forma.lms si adattano ai contesti
 di accademie di varia tipologia (per esempio, accademie musicali). È quindi
 possibile gestire diversi corsi (per esempio, nel caso di accademie musicali, è
 possibile creare un corso per ogni strumento e grado di conoscenza necessaria).
 Anche in questo caso, la gestione automatica dei certificati permette di
 rilasciare certificazioni più o meno ufficiali di superamento o frequenza dei
 corsi. Il tutto si incastra perfettamente con il motore di e-commerce incluso in
-FormaLMS che consente di limitare l'accesso ai corsi previo pagamento.
+forma.lms che consente di limitare l'accesso ai corsi previo pagamento.
 
-Scuole private e/o professionali:: Le features di e-commerce di FormaLMS sono
+Scuole private e/o professionali:: Le features di e-commerce di forma.lms sono
 perfette per il mondo delle scuole private e/o professionali. Si permette quindi
 di creare dei corsi accessibili a pagamento (con rilascio di certificati).
 Inoltre, è possibile tenere seminari di formazione (si pensi a un possibile
 seminario di sicurezza sul lavoro) anch'essi a pagamento (o gratuiti) senza
 alcuna difficoltà.
 
-Condivisione delle conoscenze:: Le features di FormaLMS permettono di costruire
+Condivisione delle conoscenze:: Le features di forma.lms permettono di costruire
 un sistema che funga da luogo di incontro tra diversi utenti: è infatti
 possibile progettare e realizzare (con uno sforzo relativamente piccolo) un
 sistema che consenta agli utenti stessi di creare corsi e seminari, a pagamento
