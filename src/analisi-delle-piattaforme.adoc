@@ -4,6 +4,24 @@
 
 == Features
 
+Layout reattivo:: L'incredibile successo commerciale di smartphone e di altri vari 
+dispositivi hanno obbligato i designer a fronteggiare il problema delle differenti 
+risoluzioni dei monitor. Proprio per queste continue evoluzioni della tecnologia i
+siti web devono essere reattivi. La piattoforma fornisce un layout reattivo e 
+un'interfaccia nuovissima con aspetto moderno progettata per un'esperienza utente 
+facile e coinvolgente.
+
+Controllo totale sui corsi:: Un'ottima caratteristica per un sito di E-learning è la
+possibilità di gestire i corsi. La piattoforma, appunto, fornisce i mezzi necessari 
+per la gestione degli insegnamenti e della condivisione dei suoi materiali. Permette,
+inoltre, di monitorare le attività con un sistema di tracciamento avanzato e compatibilità SCORM.
+
+Certificati PDF automatici:: L'apprendimento formale, un tipo di apprendimento che si 
+sviluppa nell’ambito di un contesto strutturato e organizzato, conduce ad una forma
+di riconoscimento ufficiale.
+La piattaforma permette la generazione automatica di certificati PDF al completamento 
+dei corsi, con modelli grafici personalizzabili illimitati.
+
 Multi-Client:: È possibile gestire diversi template e diversi URL per mostrare a
 ciascun client una piattaforma diversa con una singola installazione di
 forma.lms. Questa feature è potenzialmente utile se, per esempio pensando al
