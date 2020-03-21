@@ -40,6 +40,7 @@ end
 task :features do
   print "Building 'features'..."
   $stdout.flush
-  build_asciidoc "src/analisi-delle-piattaforme.adoc", dest: "relazione-preliminare.pdf"
+  authors = YAML.load_file("document.yml")["authors"].each_with_index.map { |a, i| a["surname"] }
+  build_asciidoc "src/analisi-delle-piattaforme.adoc", dest: "formalms-#{authors.join('-')}.pdf"
   puts "    Done"
 end
