@@ -1,7 +1,7 @@
-require "asciidoc_publishing_toolbox"
 require "pathname"
 require "asciidoctor"
 require "asciidoctor-pdf"
+require "asciidoc_publishing_toolbox"
 require "yaml"
 require "net/http"
 
@@ -30,7 +30,7 @@ def build_asciidoc(source, opts = {})
   Asciidoctor.convert content, backend: opts[:backend], safe: :unsafe, attributes: attributes, to_dir: "out", to_file: opts[:dest], mkdirs: true
 end
 
-task :default => [:features] do
+task :default do
   print "Building main document..."
   $stdout.flush
   AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname

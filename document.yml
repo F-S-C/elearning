@@ -22,3 +22,7 @@ lang: it
 copyright:
   fromYear: 2020
   holder: FSC -- Five Students of Computer Science
+  text: >-
+    "`forma.lms`" è un marchio registrato di
+    https://www.formalms.org/association.html[forma.association]. Il team FSC
+    non è affiliato in alcun modo a forma.association.
