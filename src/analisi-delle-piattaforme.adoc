@@ -61,4 +61,8 @@ un sistema che funga da luogo di incontro tra diversi utenti: è infatti
 possibile progettare e realizzare (con uno sforzo relativamente piccolo) un
 sistema che consenta agli utenti stessi di creare corsi e seminari, a pagamento
 e non, e di usufruirne. Inoltre è possibile rilasciare certificati di
-partecipazione (generati automaticamente). Questo tipo di contesto è altamente competitivo dal punto di vista commerciale e un sistema simile si affiancherebbe a sistemi già esistenti come https://www.udemy.com/[Udemy], https://www.coursera.org/[Coursera], https://www.skillshare.com/[SkillShare], https://www.docety.com/[Docety] e altri.
+partecipazione (generati automaticamente). Questo tipo di contesto è altamente
+competitivo dal punto di vista commerciale e un sistema simile si affiancherebbe
+a sistemi già esistenti come https://www.udemy.com/[Udemy],
+https://www.coursera.org/[Coursera], https://www.skillshare.com/[SkillShare],
+https://www.docety.com/[Docety] e altri.
