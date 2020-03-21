@@ -4,6 +4,22 @@
 
 == Features
 
+E-commerce integrato:: La piattaforma presenta una funzionalità di e-commerce 
+integrata che permette di vendere i propri corsi con facilità, senza preoccuparsi
+di adottare soluzioni esterne. 
+
+Notifiche automatiche:: La piattaforma presenta un sistema di notifica automatico
+in grado di avvisare quando l'utente compie un azione rilevante:
+la sua registrazione, l'iscrizione o il completamento di un corso.
+Le notifiche possono essere inviate via sms o tramite e-mail.
+Nel caso di alcuni tipi di notifiche è possibile impostare quanto prima/dopo devono
+essere inviate, oltre che a messaggi personalizzati.
+
+Comunicazione tra utenti:: La piattaforma consente agli utenti registrati di 
+comunicare attraverso l'utilizzo di forum, permettendo a coloro che sono registrati
+agli stessi corsi di interagire tra loro. Inoltre è presente un sistema di messaggistica
+privato.
+
 Multi-Client:: È possibile gestire diversi template e diversi URL per mostrare a
 ciascun client una piattaforma diversa con una singola installazione di
 forma.lms. Questa feature è potenzialmente utile se, per esempio pensando al
