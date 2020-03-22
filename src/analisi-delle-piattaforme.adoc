@@ -34,6 +34,10 @@ Inoltre, si ha la possibilità di pianificare l'invio regolare di questi report 
 
 Ruoli e competenze:: E' possibile creare delle competenze che possono essere assegnate agli utenti. Ogni competenza può essere impostata a "Punteggio" o essere semplicemente assegnata. Inoltre la piattaforma mette a disposizione più tipologie che si dividono in: Competenze, Attitudini e Conoscenze. Oltre alle competenze c'è la possibilità di creare dei Gruppi e ad ogni gruppo si possono creare dei Ruoli. Ogni ruolo può essere assegnato a uno o più utenti e può contenere una o più competenze che sono assegnate automaticamente ad ogni utente inserito.
 
+Aluee:: La piattaforma permette di creare più corsi, divisibili in macro-gruppi, che possono contenere uno o più utenti. Ogni corso può essere duplicato permettendo di creare più "Aulee" dello stesso corso con gli stessi contenuti ma utenti diversi.
+
+Cataloghi e corsi:: I corsi possono essere divisi in categorie permettendo di organizzarli. Si possono creare anche categorie e percorsi formativi, per offrire agli utenti diverse scelte di formazione.
+
 E-commerce integrato:: La piattaforma presenta una funzionalità di e-commerce
 integrata che permette di vendere i propri corsi con facilità, senza
 preoccuparsi di adottare soluzioni esterne. 
