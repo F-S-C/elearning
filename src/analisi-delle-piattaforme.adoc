@@ -23,6 +23,15 @@ una forma di riconoscimento ufficiale. La piattaforma permette la generazione
 automatica di certificati PDF al completamento dei corsi, con modelli grafici
 personalizzabili illimitati.
 
+Creazione di Webinar:: La piattaforma form.lms supporta il webinar (WEB semINAR), ovvero seminario online. Grazie ad esso, si ha la comodità di partecipare a videoconferenze da casa con l'efficacia e l'interattività tipiche di un evento in presenza (_che possono essere lezioni, seminari, riunioni, etc..._). Il webinar è uno strumento che sfrutta la modalità sincrona, ma può essere sfruttato in modalità asincrona attraverso la registrazione dell'evento per poi essere visionato in ore o giorni differenti.
+Un altro vantaggio per chi organizza una videoconferenza è quello di poter illustrare, ai partecipanti della stessa,  slides e documenti in diretta.
+
+Gestione flessibile degli utenti:: Gli utenti possono essere organizzati, attraverso organigrammi, in gruppi o in base a ruoli. È possibile gestire gli amminastratori assegnandoli autorizzazioni speciali. 
+Inoltre, un altro vantaggio è quello di poter importare, esportare e modificare più utenti con un solo clic.
+
+Report personalizzati:: La piattaforma permette di creare facilmente innumerevoli report personalizzati attraverso un semplice wizard che guida l'utente passo dopo passo.
+Inoltre, si ha la possibilità di pianificare l'invio regolare di questi report agli amministratori e/o agli utenti presenti nel corso.
+
 E-commerce integrato:: La piattaforma presenta una funzionalità di e-commerce
 integrata che permette di vendere i propri corsi con facilità, senza
 preoccuparsi di adottare soluzioni esterne. 
