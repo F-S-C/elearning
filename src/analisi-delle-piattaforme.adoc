@@ -1,6 +1,21 @@
 = Analisi della piattaforma: forma.lms
 
 == Installazione
+L'installazione è molto semplice in quanto forma.lms mette a disposizione un tool automatico che si avvia appena si entra per la prima volta nel sito.
+
+Di seguito si riportano i passaggi da seguire per procedere all'installazione della piattaforma sul computer locale:
+
+1. *Download di forma:* Il primo passaggio riguarda il download del pacchetto che contiene forma. Basta visitare il sito https://www.formalms.org/download.html[FormaLMS] e cliccare sul puslante di Download.
+
+2. *Estrazione del pacchetto:* Una volta scaricato il pacchetto `formalms-v2.x.y.z.zip` (il nome del file può variare in base alla versione che si sta scaricando) basta estrarre la cartella `formalms` all'interno di un webserver (ad esempio nella cartella `htdocs`, nel caso di un server https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.0.33/[XAMPP]).
+
+3. *Creazione del database:* Una volta copiata la cartella all'interno del webserver, basta avviare i servizi dal pannello di controllo dello stesso per poi visitare il link http://localhost/phpmyadmin da cui si può creare un database che verrà richiesto durante l'installazione di forma.
+
+4. *Installazione di forma:* Adesso basta visitare il link http://localhost/formalms/install/ e seguire i passaggi dell'installazione automatica.
+
+5. *Modifiche finali per la sicurezza:* Una volta terminata l'installazione si consiglia di recarsi all'interno di `formalms`, cartella copiata precedentemente nel webserver, per poi cancellare la cartella `install`.
+
+Seguiti i passaggi è possibile utilizzare la piattaforma sul proprio pc locale.
 
 == Features
 
