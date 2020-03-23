@@ -1,19 +1,36 @@
 = Analisi della piattaforma: forma.lms
 
 == Installazione
-L'installazione è molto semplice in quanto forma.lms mette a disposizione un tool automatico che si avvia appena si entra per la prima volta nel sito.
 
-Di seguito si riportano i passaggi da seguire per procedere all'installazione della piattaforma sul computer locale:
+L'installazione è molto semplice in quanto forma.lms mette a disposizione un
+tool automatico che si avvia appena si entra per la prima volta nel sito.
 
-1. *Download di forma:* Il primo passaggio riguarda il download del pacchetto che contiene forma. Basta visitare il sito https://www.formalms.org/download.html[FormaLMS] e cliccare sul puslante di Download.
+Di seguito si riportano i passaggi da seguire per procedere all'installazione
+della piattaforma sul computer locale utilizzando la piattaforma
+https://www.apachefriends.org/it/index.html[XAMPP]:
 
-2. *Estrazione del pacchetto:* Una volta scaricato il pacchetto `formalms-v2.x.y.z.zip` (il nome del file può variare in base alla versione che si sta scaricando) basta estrarre la cartella `formalms` all'interno di un webserver (ad esempio nella cartella `htdocs`, nel caso di un server https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.0.33/[XAMPP]).
+. *Download di forma:* Il primo passaggio riguarda il download del pacchetto che
+contiene forma. Basta visitare il sito
+https://www.formalms.org/download.html[FormaLMS] e cliccare sul puslante di
+Download.
 
-3. *Creazione del database:* Una volta copiata la cartella all'interno del webserver, basta avviare i servizi dal pannello di controllo dello stesso per poi visitare il link http://localhost/phpmyadmin da cui si può creare un database che verrà richiesto durante l'installazione di forma.
+. *Estrazione del pacchetto:* Una volta scaricato il pacchetto
+`formalms-v2.x.y.z.zip` (il nome del file può variare in base alla versione che
+si sta scaricando) basta estrarre la cartella `formalms` all'interno di un
+webserver (ad esempio nella cartella `htdocs`, nel caso di un server XAMPP).
 
-4. *Installazione di forma:* Adesso basta visitare il link http://localhost/formalms/install/ e seguire i passaggi dell'installazione automatica.
+. *Creazione del database:* Una volta copiata la cartella all'interno del
+webserver, basta avviare i servizi dal pannello di controllo dello stesso per
+poi visitare il link http://localhost/phpmyadmin da cui si può creare un
+database che verrà richiesto durante l'installazione di forma.
 
-5. *Modifiche finali per la sicurezza:* Una volta terminata l'installazione si consiglia di recarsi all'interno di `formalms`, cartella copiata precedentemente nel webserver, per poi cancellare la cartella `install`.
+. *Installazione di forma:* Adesso basta visitare il link
+http://localhost/formalms/install/ e seguire i passaggi dell'installazione
+automatica.
+
+. *Modifiche finali per la sicurezza:* Una volta terminata l'installazione si
+consiglia di recarsi all'interno di `formalms`, cartella copiata precedentemente
+nel webserver, per poi cancellare la cartella `install`.
 
 Seguiti i passaggi è possibile utilizzare la piattaforma sul proprio pc locale.
 
@@ -38,20 +55,44 @@ una forma di riconoscimento ufficiale. La piattaforma permette la generazione
 automatica di certificati PDF al completamento dei corsi, con modelli grafici
 personalizzabili illimitati.
 
-Creazione di Webinar:: La piattaforma form.lms supporta il webinar (WEB semINAR), ovvero seminario online. Grazie ad esso, si ha la comodità di partecipare a videoconferenze da casa con l'efficacia e l'interattività tipiche di un evento in presenza (_che possono essere lezioni, seminari, riunioni, etc..._). Il webinar è uno strumento che sfrutta la modalità sincrona, ma può essere sfruttato in modalità asincrona attraverso la registrazione dell'evento per poi essere visionato in ore o giorni differenti.
-Un altro vantaggio per chi organizza una videoconferenza è quello di poter illustrare, ai partecipanti della stessa,  slides e documenti in diretta.
+Creazione di Webinar:: La piattaforma form.lms supporta il webinar (WEB
+semINAR), ovvero seminario online. Grazie ad esso, si ha la comodità di
+partecipare a videoconferenze da casa con l'efficacia e l'interattività tipiche
+di un evento in presenza (_che possono essere lezioni, seminari, riunioni,
+etc..._). Il webinar è uno strumento che sfrutta la modalità sincrona, ma può
+essere sfruttato in modalità asincrona attraverso la registrazione dell'evento
+per poi essere visionato in ore o giorni differenti. Un altro vantaggio per chi
+organizza una videoconferenza è quello di poter illustrare, ai partecipanti
+della stessa,  slides e documenti in diretta.
 
-Gestione flessibile degli utenti:: Gli utenti possono essere organizzati, attraverso organigrammi, in gruppi o in base a ruoli. È possibile gestire gli amminastratori assegnandoli autorizzazioni speciali. 
-Inoltre, un altro vantaggio è quello di poter importare, esportare e modificare più utenti con un solo clic.
+Gestione flessibile degli utenti:: Gli utenti possono essere organizzati,
+attraverso organigrammi, in gruppi o in base a ruoli. È possibile gestire gli
+amminastratori assegnandoli autorizzazioni speciali. Inoltre, un altro vantaggio
+è quello di poter importare, esportare e modificare più utenti con un solo clic.
 
-Report personalizzati:: La piattaforma permette di creare facilmente innumerevoli report personalizzati attraverso un semplice wizard che guida l'utente passo dopo passo.
-Inoltre, si ha la possibilità di pianificare l'invio regolare di questi report agli amministratori e/o agli utenti presenti nel corso.
+Report personalizzati:: La piattaforma permette di creare facilmente
+innumerevoli report personalizzati attraverso un semplice wizard che guida
+l'utente passo dopo passo. Inoltre, si ha la possibilità di pianificare l'invio
+regolare di questi report agli amministratori e/o agli utenti presenti nel
+corso.
 
-Ruoli e competenze:: E' possibile creare delle competenze che possono essere assegnate agli utenti. Ogni competenza può essere impostata a "Punteggio" o essere semplicemente assegnata. Inoltre la piattaforma mette a disposizione più tipologie che si dividono in: Competenze, Attitudini e Conoscenze. Oltre alle competenze c'è la possibilità di creare dei Gruppi e ad ogni gruppo si possono creare dei Ruoli. Ogni ruolo può essere assegnato a uno o più utenti e può contenere una o più competenze che sono assegnate automaticamente ad ogni utente inserito.
+Ruoli e competenze:: È possibile creare delle competenze che possono essere
+assegnate agli utenti. Ogni competenza può essere impostata a "`Punteggio`" o
+essere semplicemente assegnata. Inoltre la piattaforma mette a disposizione più
+tipologie che si dividono in: Competenze, Attitudini e Conoscenze. Oltre alle
+competenze c'è la possibilità di creare dei Gruppi e ad ogni gruppo si possono
+creare dei Ruoli. Ogni ruolo può essere assegnato a uno o più utenti e può
+contenere una o più competenze che sono assegnate automaticamente ad ogni utente
+inserito.
 
-Aluee:: La piattaforma permette di creare più corsi, divisibili in macro-gruppi, che possono contenere uno o più utenti. Ogni corso può essere duplicato permettendo di creare più "Aulee" dello stesso corso con gli stessi contenuti ma utenti diversi.
+Aule:: La piattaforma permette di creare più corsi, divisibili in macro-gruppi,
+che possono contenere uno o più utenti. Ogni corso può essere duplicato
+permettendo di creare più "`Aulee`" dello stesso corso con gli stessi contenuti
+ma utenti diversi.
 
-Cataloghi e corsi:: I corsi possono essere divisi in categorie permettendo di organizzarli. Si possono creare anche categorie e percorsi formativi, per offrire agli utenti diverse scelte di formazione.
+Cataloghi e corsi:: I corsi possono essere divisi in categorie permettendo di
+organizzarli. Si possono creare anche categorie e percorsi formativi, per
+offrire agli utenti diverse scelte di formazione.
 
 E-commerce integrato:: La piattaforma presenta una funzionalità di e-commerce
 integrata che permette di vendere i propri corsi con facilità, senza
