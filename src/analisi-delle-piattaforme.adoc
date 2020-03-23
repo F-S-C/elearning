@@ -113,9 +113,9 @@ sistema di messaggistica privato.
 Multi-Client:: È possibile gestire diversi template e diversi URL per mostrare a
 ciascun client una piattaforma diversa con una singola installazione di
 forma.lms. Questa feature è potenzialmente utile se, per esempio pensando al
-contesto universitario (si veda <<formalms-possibili-contesti-duso>>), si vuole
-gestire un'unica installazione di forma.lms (quella dell'università) da dividere
-in più piattaforme (quelle dei dipartimenti). 
+contesto universitario (si veda la <<formalms-possibili-contesti-duso>>), si
+vuole gestire un'unica installazione di forma.lms (quella dell'università) da
+dividere in più piattaforme (quelle dei dipartimenti). 
  
 Estensibile attraverso plugins:: Se la piattaforma non consente di gestire delle
 operazioni che sono necessarie per il sistema che si sta progettando, è

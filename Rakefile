@@ -25,6 +25,10 @@ def build_asciidoc(source, opts = {})
     "pdf-theme" => "article",
     "author" => authors[:names],
     "toc" => "auto",
+    "sectnums" => true,
+    "sectnumsdepth" => true,
+    "xrefstyle" => "full",
+    "section-refsig" => "Sezione",
   }
   
   Asciidoctor.convert content, backend: opts[:backend], safe: :unsafe, attributes: attributes, to_dir: "out", to_file: opts[:dest], mkdirs: true
