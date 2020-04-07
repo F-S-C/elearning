@@ -31,7 +31,7 @@ def build_asciidoc(source, opts = {})
     "section-refsig" => "Sezione",
   }
   
-  Asciidoctor.convert content, backend: opts[:backend], safe: :unsafe, attributes: attributes, to_dir: "out", to_file: opts[:dest], mkdirs: true
+  Asciidoctor.convert content, backend: opts[:backend], safe: :unsafe, attributes: attributes, to_dir: "docs", to_file: opts[:dest], mkdirs: true
 end
 
 task :default do
