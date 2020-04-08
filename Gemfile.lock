@@ -5,7 +5,7 @@ GEM
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
     afm (0.2.2)
-    asciidoc_publishing_toolbox (0.1.11.alpha)
+    asciidoc_publishing_toolbox (0.1.13.alpha)
       asciidoctor (~> 2.0, >= 2.0.10)
       asciidoctor-pdf (~> 1.5, >= 1.5.3)
       json_schemer (~> 0.2, >= 0.2.10)
@@ -37,8 +37,6 @@ GEM
       uri_template (~> 0.7)
     mini_portile2 (2.4.0)
     nokogiri (1.10.9)
-      mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.9-x64-mingw32)
       mini_portile2 (~> 2.4.0)
     pdf-core (0.7.0)
     pdf-reader (2.4.0)
@@ -74,10 +72,9 @@ GEM
 
 PLATFORMS
   ruby
-  x64-mingw32
 
 DEPENDENCIES
-  asciidoc_publishing_toolbox (>= 0.1.5.alpha)
+  asciidoc_publishing_toolbox (>= 0.1.13.alpha)
   rake (~> 13.0)
 
 BUNDLED WITH
