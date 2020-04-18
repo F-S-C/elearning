@@ -34,11 +34,11 @@ def build_asciidoc(source, opts = {})
   Asciidoctor.convert content, backend: opts[:backend], safe: :unsafe, attributes: attributes, to_dir: "docs", to_file: opts[:dest], mkdirs: true
 end
 
-task :default do
+task :default => %w(features) do
   print "Building main document..."
   $stdout.flush
   AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname
-  puts "    Done"
+  puts "\r✓ Builded main document   "
 end
 
 task :features do
@@ -46,5 +46,5 @@ task :features do
   $stdout.flush
   authors = YAML.load_file("document.yml")["authors"].each_with_index.map { |a, i| a["surname"] }
   build_asciidoc "src/analisi-delle-piattaforme.adoc", dest: "formalms-#{authors.join('-')}.pdf"
-  puts "    Done"
+  puts "\r✓ Builded 'features'   "
 end
