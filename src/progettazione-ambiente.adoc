@@ -4,86 +4,103 @@
 
 === Analisi dei bisogni
 
-Il committente è un'accademia musicale. Il sistema deve essere una piattaforma di e-learning per tale accademia.
+Il committente è un'accademia musicale ("`X`"). Il sistema deve essere una piattaforma di e-learning per tale accademia.
+
+NB: I corsi sono come in Udemy: pacchetti aggiornati dai docenti (vi è un'unico corso di chitarra).
 
 [faq]
-Quali sono le esigenze che motivano l’attività della comunità sia a livello di singoli individui sia a livello dell’organizzazione alla quale la CdP farà riferimento?::  L'accademia musicale "X" vuole creare un sistema di e-learning per i propri studenti. I bisogni evidenziati sono vari:
+Quali sono le esigenze che motivano l’attività della comunità sia a livello di singoli individui sia a livello dell’organizzazione alla quale la CdP farà riferimento?::  L'accademia musicale "`X`" vuole creare un sistema di e-learning per i propri studenti. I bisogni evidenziati sono vari:
 * L'organizzazione sente la necessità di far proseguire le lezioni (e gli studenti sentono la necessità di usufruirne) in un periodo di emergenza internazionale, in modo da limitare l'impatto sul piano economico. 
 * Si vuole permettere agli studenti lavoratori (o in altro modo impossibilitati alla frequenza fisica dei corsi) di coltivare le proprie passioni e migliorare costantemente le proprie abilità.
 * Si vuole permettere di adattare il processo di apprendimento alle proprie caratteristiche e modalità di apprendimento.
 
 Qual è il contesto nel quale la comunità si troverà ad operare?:: Il contesto è quello di un'accademia musicale. Tutti gli studenti sono consapevoli del percorso di studi intrapreso e della quantità di impegno necessaria. Inoltre, deve essere garantita un'ufficialità del percorso.
 
-Quali sono gli obiettivi che la comunità si propone di conseguire?:: Gli obiettivi principali riguardano la possibilità di studiare a prescindere dalla disponibilità temporale e dalla locazione geografica. GLi obiettivi precisi sono poi vari in base allo specifico corso. I corsi possono però essere divisi in due macrocategorie: teorici (teoria musicale) e pratici (imparare uno strumento musicale).
+Quali sono gli obiettivi che la comunità si propone di conseguire?:: Gli obiettivi principali riguardano la possibilità di studiare a prescindere dalla disponibilità temporale e dalla locazione geografica. Gli obiettivi precisi sono poi vari in base allo specifico corso. I corsi possono però essere divisi in due macrocategorie: teorici (teoria musicale) e pratici (imparare uno strumento musicale).
 
 === Caratterizzazione della comunità
 
 [faq]
-Qual è il profilo di riferimento dei futuri membri della CdP? Geograficamente sono dislocati sullo stesso fuso orario? Quali competenze informatiche possiedono?:: ANS
+Qual è il profilo di riferimento dei futuri membri della CdP? Geograficamente sono dislocati sullo stesso fuso orario? Quali competenze informatiche possiedono?:: I membri della CdP sono divisibili in allievi e maestri. Gli allievi sono a loro volta suddivisi per livello di competenze in ambito musicale. Geograficamente la CdP non ha un centro ben preciso, ma si suppone che i membri della CdP siano italiani (o conoscano la lingua italiana) data la realtà tendenzialmente ben circoscritta di un'accademia musicale. Le competenze informatiche sono miste, ma è logico supporre una minima competenza basilare nell'uso di un browser internet.
 
-Qual è il dominio di conoscenza della CdP? Quali sono gli interessi e le problematiche comuni tra i futuri membri della CdP? Sono disponibili manuali? Vi sono procedure codificate?:: ANS
+Qual è il dominio di conoscenza della CdP? Quali sono gli interessi e le problematiche comuni tra i futuri membri della CdP? Sono disponibili manuali? Vi sono procedure codificate?:: Il dominio di conoscenaza è la musica. I membri della CdP sono tutti, in varia misura, interessati a migliorare le proprie conoscenze in tale campo. Problematiche comuni riguardano la padronanza del linguaggio (sia tecnico che non, si pensi a dei bambini), il tempo che si può dedicare all'apprendimento. __Non vi sono manuali e procedure codificate, se non quelle dettate dalla teoria musicale.__
 
-In che modo coloro che faranno parte della CdP comunicano e collaborano attualmente? Solo online o anche in presenza? Se online, comunicano in modalità sincrona o asincrona? Con quali strumenti?:: ANS
-
+In che modo coloro che faranno parte della CdP comunicano e collaborano attualmente? Solo online o anche in presenza? Se online, comunicano in modalità sincrona o asincrona? Con quali strumenti?:: Attualmente, si possono tenere lezioni di gruppo in una struttura ed è possibile collaborare incontrandosi. Inoltre, gli allievi sono attualmente liberi di contattarsi a piacere con varie metodologie. Attualmente le lezioni sono in presenza, le comunicazioni sono sia online che non. Le comunicazioni online sono sia sincrone che asincrone, ma principalmente sincrone (Whatsapp, Telegram, Facebook, etc).
 
 == Dimensione gestionale
 
 === Flussi di comunicazione
 
 [faq]
-La comunicazione riguarda solo scambi verbali o anche la condivisione di documenti?:: ANS
+La comunicazione riguarda solo scambi verbali o anche la condivisione di documenti?:: Entrambi
 
-I membri della CdP dovranno prendere delle decisioni? fissare appuntamenti? esprimere una preferenza o accettare una proposta?:: ANS
+I membri della CdP dovranno prendere delle decisioni? fissare appuntamenti? esprimere una preferenza o accettare una proposta?:: I membri della CdP non devono prendere decisioni se non riguardanti i corsi da intraprendere. Devono inoltre poter fissare appuntamenti con i docenti (es: lezioni aggiuntive, richieste di chiarimenti, approndimenti, etc). Devono poter esprimere preferenze e proposte dai docenti, se questi lo ritengono utile.
 
-In che modo i contenuti di una discussione possono alimentare la base di conoscenze condivise della comunità? Organizzandole e classificandole in base all’argomento? Mettendo a disposizione di tutti delle sintesi conclusive?:: ANS
+In che modo i contenuti di una discussione possono alimentare la base di conoscenze condivise della comunità? Organizzandole e classificandole in base all’argomento? Mettendo a disposizione di tutti delle sintesi conclusive?:: Il modo migliore di aliminare la base di conoscenza della CdP in questo ambito è quello di organizzare e classificare le discussioni in base a un argomento, lasciando la possibilità allo studente di scegliere il livello a cui arrivare.
 
 === Definizione della conoscenza comunitaria
 
 [faq]
-Elaborare una mappa concettuale del dominio di conoscenza della CdP in modo tale da specificare argomenti, categorie e sottocategorie utili alla classificazione e all’organizzazione dei documenti nei quali saranno formalizzate le conoscenze della comunità.:: ANS
+Elaborare una mappa concettuale del dominio di conoscenza della CdP in modo tale da specificare argomenti, categorie e sottocategorie utili alla classificazione e all’organizzazione dei documenti nei quali saranno formalizzate le conoscenze della comunità.:: __ANS__
 
-Definire le procedure per la codifica delle conoscenze che emergono nel corso delle interazioni tra i membri della CdP.:: ANS
+Definire le procedure per la codifica delle conoscenze che emergono nel corso delle interazioni tra i membri della CdP.:: __ANS__
 
-Creare una libreria di oggetti cognitivi utilizzando i documenti raccolti nella fase preliminare della progettazione.:: ANS
+Creare una libreria di oggetti cognitivi utilizzando i documenti raccolti nella fase preliminare della progettazione.:: __ANS__
 
-Predisporre moduli e percorsi di autoformazione affinché i nuovi membri della comunità possano rapidamente allineare le proprie conoscenze con quelle degli altri utenti.:: ANS
+Predisporre moduli e percorsi di autoformazione affinché i nuovi membri della comunità possano rapidamente allineare le proprie conoscenze con quelle degli altri utenti.:: __ANS__
 
 === Definizione della struttura organizzativa
 
-ANS
+Soggetto promotore:: L'accademia musicale "`X`"
+
+Community manager:: Personale di segreteria
+
+Content manager:: I docenti interni all'accademia
+
+Esperto:: Altri docenti (interni o esterni) o ospiti
+
+System Administrator:: Il team FSC
 
 === Avvio della comunità
 
-ANS
+Dimensionamento della comunità:: La comunità non ha limiti prestabiliti nella sua dimensione, tuttavia si lascia la libertà al docente di organizzare le proprie lezioni nei modi più consoni e con limiti di utenti a piacere (eventualmente dividendo tutti i participanti in più "`gruppi`", pur restando un unico corso).
+
+Definizione di una guida per i partecipanti:: __Si fornisce il manuale utente del sistema, nonché delle note dei docenti all'interno del corso.__
+
+Assegnazione dei ruoli chiave e formazione:: I docenti sono gli insegnanti già appartenenti all'accademia, e sono automaticamente iscritti (e aggiornati) dalla segreteria. Eventuali iscrizioni al sistema, sono da considerarsi "`studenti`".
+
+Meeting iniziale e consolidamento del gruppo:: _Riunione del 25 aprile 2020 dalle 16:00?_
 
 === Gestione
 
 [faq]
-Come controllare l’adozione degli strumenti tecnologici più adatti alle esigenze di comunicazione e collaborazione online?:: ANS
+Come controllare l’adozione degli strumenti tecnologici più adatti alle esigenze di comunicazione e collaborazione online?:: Il gruppo di system administration ha la responsabilità di mantenere sempre aggiornato e sicuro il sistema.
 
-Come anticipare e prevenire problemi tecnici legati all’uso della rete?:: ANS
+Come anticipare e prevenire problemi tecnici legati all’uso della rete?:: V. risposta precedente.
 
-Come curare l’accoglienza facendo in modo che i partecipanti si sentano i benvenuti?:: ANS
+Come curare l’accoglienza facendo in modo che i partecipanti si sentano i benvenuti?:: Durante le fasi di registrazione al sistema e ai corsi, si mostreranno messaggi di benvenuto/bentornato.
 
-Come curare il processo di orientamento?:: ANS
+Come curare il processo di orientamento?:: _ANS?_
 
-Come sviluppare il senso di appartenenza alla comunità?:: ANS
+Come sviluppare il senso di appartenenza alla comunità?:: _Attraverso forum, metodi di messaggistica e attraverso dirette condivise per sperimentare le conoscenze acquisite._
 
-Come fare in modo che ciascuno si senta coinvolto?:: ANS
+Come fare in modo che ciascuno si senta coinvolto?:: _V. sopra_
 
-Come prevenire eventuali situazioni critiche?:: ANS
+Come prevenire eventuali situazioni critiche?:: _Attraverso un sistema di gestione di segnalazioni alla segreteria._
 
-Come alimentare e mantenere interessante l’interazione tra i membri della comunità?:: ANS
+Come alimentare e mantenere interessante l’interazione tra i membri della comunità?:: _Attraverso forum, messaggistica e videolezioni._
 
 === Monitoraggio e valutazione
 
 [faq]
-Quali indicatori prendere in esame? Il numero di messaggi scambiati? di documenti prodotti?:: ANS
+Quali indicatori prendere in esame? Il numero di messaggi scambiati? di documenti prodotti?:: Numero di post attivi e commenti sui form, numero di documenti prodotti, rapporto fra numero di iscritti ai corsi e iscritti alla piattaforma.
 
-Qual è il grado di usabilità dell’ambiente online?:: ANS
+Qual è il grado di usabilità dell’ambiente online?:: Il sistema deve essere utilizzabile dalla maggior parte degli utenti. Deve, per quanto possibile e compatibile con la documentazione a disposizione dei docenti, essere garantito un alto grado di accessibilità delle risorse.
 
-È utile sottoporre periodicamente agli utenti dei questionari di gradimento?:: ANS
+È utile sottoporre periodicamente agli utenti dei questionari di gradimento?:: Sì, al termine di "`periodi`" di insegnamento (per esempio, semestri) e al termine dei corsi stessi.
 
-Quali scadenze dare all’attività di valutazione?:: ANS
+Quali scadenze dare all’attività di valutazione?:: La definizione delle scadenze delle attività di valutazione è lasciata al docente. In generale, si considera un tempo di 6 mesi dall'iscrizione.
 
 == Dimensione tecnologica
+
+_Analisi e scelta delle piattaforme._
