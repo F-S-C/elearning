@@ -34,7 +34,15 @@ def build_asciidoc(source, opts = {})
   Asciidoctor.convert content, backend: opts[:backend], safe: :unsafe, attributes: attributes, to_dir: "docs", to_file: opts[:dest], mkdirs: true
 end
 
-task :default => %w(features) do
+def build_phase(phase_name, input, output)
+  print "Building '#{phase_name}'..."
+  $stdout.flush
+  authors = YAML.load_file("document.yml")["authors"].each_with_index.map { |a, i| a["surname"] }
+  build_asciidoc "src/#{input}.adoc", dest: "#{output}.pdf"
+  puts "\r✓ Builded '#{phase_name}'   "
+end
+
+task :default => %w(features ambiente) do
   print "Building main document..."
   $stdout.flush
   AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname
@@ -42,9 +50,9 @@ task :default => %w(features) do
 end
 
 task :features do
-  print "Building 'features'..."
-  $stdout.flush
-  authors = YAML.load_file("document.yml")["authors"].each_with_index.map { |a, i| a["surname"] }
-  build_asciidoc "src/analisi-delle-piattaforme.adoc", dest: "formalms-#{authors.join('-')}.pdf"
-  puts "\r✓ Builded 'features'   "
+  build_phase 'features', 'analisi-delle-piattaforme', 'formalms-fsc'
+end
+
+task :ambiente do
+  build_phase 'ambiente', 'progettazione-ambiente', 'progettazione-ambiente-fsc'
 end

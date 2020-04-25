@@ -1,0 +1,89 @@
+= Progettazione ambiente
+
+== Fase preliminare
+
+=== Analisi dei bisogni
+
+Il committente è un'accademia musicale. Il sistema deve essere una piattaforma di e-learning per tale accademia.
+
+[faq]
+Quali sono le esigenze che motivano l’attività della comunità sia a livello di singoli individui sia a livello dell’organizzazione alla quale la CdP farà riferimento?::  L'accademia musicale "X" vuole creare un sistema di e-learning per i propri studenti. I bisogni evidenziati sono vari:
+* L'organizzazione sente la necessità di far proseguire le lezioni (e gli studenti sentono la necessità di usufruirne) in un periodo di emergenza internazionale, in modo da limitare l'impatto sul piano economico. 
+* Si vuole permettere agli studenti lavoratori (o in altro modo impossibilitati alla frequenza fisica dei corsi) di coltivare le proprie passioni e migliorare costantemente le proprie abilità.
+* Si vuole permettere di adattare il processo di apprendimento alle proprie caratteristiche e modalità di apprendimento.
+
+Qual è il contesto nel quale la comunità si troverà ad operare?:: Il contesto è quello di un'accademia musicale. Tutti gli studenti sono consapevoli del percorso di studi intrapreso e della quantità di impegno necessaria. Inoltre, deve essere garantita un'ufficialità del percorso.
+
+Quali sono gli obiettivi che la comunità si propone di conseguire?:: Gli obiettivi principali riguardano la possibilità di studiare a prescindere dalla disponibilità temporale e dalla locazione geografica. GLi obiettivi precisi sono poi vari in base allo specifico corso. I corsi possono però essere divisi in due macrocategorie: teorici (teoria musicale) e pratici (imparare uno strumento musicale).
+
+=== Caratterizzazione della comunità
+
+[faq]
+Qual è il profilo di riferimento dei futuri membri della CdP? Geograficamente sono dislocati sullo stesso fuso orario? Quali competenze informatiche possiedono?:: ANS
+
+Qual è il dominio di conoscenza della CdP? Quali sono gli interessi e le problematiche comuni tra i futuri membri della CdP? Sono disponibili manuali? Vi sono procedure codificate?:: ANS
+
+In che modo coloro che faranno parte della CdP comunicano e collaborano attualmente? Solo online o anche in presenza? Se online, comunicano in modalità sincrona o asincrona? Con quali strumenti?:: ANS
+
+
+== Dimensione gestionale
+
+=== Flussi di comunicazione
+
+[faq]
+La comunicazione riguarda solo scambi verbali o anche la condivisione di documenti?:: ANS
+
+I membri della CdP dovranno prendere delle decisioni? fissare appuntamenti? esprimere una preferenza o accettare una proposta?:: ANS
+
+In che modo i contenuti di una discussione possono alimentare la base di conoscenze condivise della comunità? Organizzandole e classificandole in base all’argomento? Mettendo a disposizione di tutti delle sintesi conclusive?:: ANS
+
+=== Definizione della conoscenza comunitaria
+
+[faq]
+Elaborare una mappa concettuale del dominio di conoscenza della CdP in modo tale da specificare argomenti, categorie e sottocategorie utili alla classificazione e all’organizzazione dei documenti nei quali saranno formalizzate le conoscenze della comunità.:: ANS
+
+Definire le procedure per la codifica delle conoscenze che emergono nel corso delle interazioni tra i membri della CdP.:: ANS
+
+Creare una libreria di oggetti cognitivi utilizzando i documenti raccolti nella fase preliminare della progettazione.:: ANS
+
+Predisporre moduli e percorsi di autoformazione affinché i nuovi membri della comunità possano rapidamente allineare le proprie conoscenze con quelle degli altri utenti.:: ANS
+
+=== Definizione della struttura organizzativa
+
+ANS
+
+=== Avvio della comunità
+
+ANS
+
+=== Gestione
+
+[faq]
+Come controllare l’adozione degli strumenti tecnologici più adatti alle esigenze di comunicazione e collaborazione online?:: ANS
+
+Come anticipare e prevenire problemi tecnici legati all’uso della rete?:: ANS
+
+Come curare l’accoglienza facendo in modo che i partecipanti si sentano i benvenuti?:: ANS
+
+Come curare il processo di orientamento?:: ANS
+
+Come sviluppare il senso di appartenenza alla comunità?:: ANS
+
+Come fare in modo che ciascuno si senta coinvolto?:: ANS
+
+Come prevenire eventuali situazioni critiche?:: ANS
+
+Come alimentare e mantenere interessante l’interazione tra i membri della comunità?:: ANS
+
+=== Monitoraggio e valutazione
+
+[faq]
+Quali indicatori prendere in esame? Il numero di messaggi scambiati? di documenti prodotti?:: ANS
+
+Qual è il grado di usabilità dell’ambiente online?:: ANS
+
+È utile sottoporre periodicamente agli utenti dei questionari di gradimento?:: ANS
+
+Quali scadenze dare all’attività di valutazione?:: ANS
+
+== Dimensione tecnologica
