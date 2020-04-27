@@ -22,6 +22,7 @@ def build_asciidoc(source, opts = {})
     "title-page" => true,
     "media" => "prepress",
     "pdf-themesdir" => "themes",
+    "pdf-fontsdir" => "GEM_FONTS_DIR,themes/fonts/",
     "pdf-theme" => "article",
     "author" => authors[:names],
     "toc" => "auto",
@@ -42,7 +43,9 @@ def build_phase(phase_name, input, output)
   puts "\r✓ Builded '#{phase_name}'   "
 end
 
-task :default => %w(features ambiente) do
+task :default => %w(features ambiente main)
+
+task :main do
   print "Building main document..."
   $stdout.flush
   AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname
