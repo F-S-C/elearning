@@ -3,25 +3,23 @@
 == Modificare le impostazioni del corso
 
 
-Una volta entrati nel corso, per modificare le sue impostazioni, basterà 
-premere sull'ingranaggio cerchiato in rosso per aprire un menù a tendina
+Una volta entrati nel corso, per modificare le sue impostazioni, basterà premere
+sull'ingranaggio cerchiato in rosso per aprire un menù a tendina
 (<<img-docente-modifica>>).
 
 [#img-docente-modifica]
 .Pagina del corso "`Pianoforte avanzato`" (1/2)
 image::images/modifica_corso/1.png[]
 
-Cliccando successivamente su "`Impostazioni`" si aprirà la pagina per 
-modificare le informazioni del corso
-(<<img-docente-modifica2>>).
+Cliccando successivamente su "`Impostazioni`" si aprirà la pagina per modificare
+le informazioni del corso (<<img-docente-modifica2>>).
 
 [#img-docente-modifica2]
 .Pagina del corso "`Pianoforte avanzato`" (2/2)
 image::images/modifica_corso/2.png[]
 
-Una volta modificate le informazioni, per salvarle, basterà cliccare su
-"`Salva e visualizza`"
-(<<img-docente-modifica3>>).
+Una volta modificate le informazioni, per salvarle, basterà cliccare su "`Salva
+e visualizza`" (<<img-docente-modifica3>>).
 
 [#img-docente-modifica3]
 .Pagina per la modifica delle impostazioni
@@ -37,7 +35,7 @@ cliccare su "`Partecipanti`" nel menù che si trova nel menù a sinistra
 .Pagina del corso "`Pianoforte avanzato`"
 image::images/visualizzazione_partecipanti/1.png[]
 
-Una volta avvenuto il click, apparirà la pagina in cui potranno essere 
+Una volta avvenuto il click, apparirà la pagina in cui potranno essere
 visualizzati tutti i partecipanti al proprio corso
 (<<img-docente-partecipanti2>>).
 
@@ -47,9 +45,9 @@ image::images/visualizzazione_partecipanti/2.png[]
 
 == Presdisporre delle sotto-classi del corso
 
-Nella pagina della visualizzazione dei partecipanti è possibile anche creare dei sotto gruppi del corso.
-Cliccando sul simbolo dell'ingranaggio a destra, verrà visualizzato un menù a tendina
-(<<img-docente-creazioneGruppi>>).
+Nella pagina della visualizzazione dei partecipanti è possibile anche creare dei
+sotto gruppi del corso. Cliccando sul simbolo dell'ingranaggio a destra, verrà
+visualizzato un menù a tendina (<<img-docente-creazioneGruppi>>).
 
 [#img-docente-creazioneGruppi]
 .Pagina per la visualizzazione dei partecipanti (1/2)
@@ -62,25 +60,25 @@ Successivamente, bisogna cliccare su "`Gruppi`"
 .Pagina per la visualizzazione dei partecipanti (2/2)
 image::images/creazione_gruppi/2.png[]
 
-Cliccando su "`Gruppi`", il sito vi porterà nella seguente pagina.
-Questa pagina vi permette di creare un gruppo cliccando su "`Crea gruppo`"
+Cliccando su "`Gruppi`", il sito vi porterà nella seguente pagina. Questa pagina
+vi permette di creare un gruppo cliccando su "`Crea gruppo`"
 (<<img-docente-creazioneGruppi3>>).
 
 [#img-docente-creazioneGruppi3]
 .Pagina per la visualizzazione dei gruppi (1/2)
 image::images/creazione_gruppi/3.png[]
 
-Una volta immesse tutte le informazioni del gruppo, per il completamento dell'operazione,
- basterà cliccare su "`Salva modifiche`"
- (<<img-docente-creazioneGruppi4>>).
+Una volta immesse tutte le informazioni del gruppo, per il completamento
+dell'operazione, basterà cliccare su "`Salva modifiche`"
+(<<img-docente-creazioneGruppi4>>).
 
 [#img-docente-creazioneGruppi4]
 .Pagina per la creazione di un gruppo
 image::images/creazione_gruppi/4.png[]
 
 
-Creato il gruppo, vi basterà selezionarlo e cliccare su "`Aggiungi/rimuovi utenti`" 
-per aggiungere o rimuovere partecipanti
+Creato il gruppo, vi basterà selezionarlo e cliccare su "`Aggiungi/rimuovi
+utenti`" per aggiungere o rimuovere partecipanti
 (<<img-docente-creazioneGruppi5>>).
 
 [#img-docente-creazioneGruppi5]
@@ -88,9 +86,8 @@ per aggiungere o rimuovere partecipanti
 image::images/creazione_gruppi/5.png[]
 
 
-Vi uscirà una schermata in cui, appunto, si potrà aggiungere o rimuovere 
-partecipanti con molta facilità
-(<<img-docente-creazioneGruppi6>>).
+Vi uscirà una schermata in cui, appunto, si potrà aggiungere o rimuovere
+partecipanti con molta facilità (<<img-docente-creazioneGruppi6>>).
 
 [#img-docente-creazioneGruppi6]
 .Pagina per l'aggiunta o rimozione di utenti in un gruppo
