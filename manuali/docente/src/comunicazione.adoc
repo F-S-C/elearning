@@ -1,6 +1,40 @@
 = Comunicazione
 
 == Effettuare comunicazioni agli studenti (e rispondere)
+Per effettuare comunicazioni agli studenti è necessario entrare nella _dashboard_ del corso di cui si è _docente_ (<<img-docente-dash-comunicazioni>>). 
+
+Successivamente, cliccare su "`Partecipanti`" (cerchio rosso) nella sidebar presente alla sinistra.
+Nel caso in cui non fosse presente, basta cliccare sul pulsante _Menù_ (cerchio viola) per farla apparire.
+
+[#img-docente-dash-comunicazioni]
+.Dashboard corso
+image::images/effettuare_comunicazioni_agli_studenti/1.JPG[]
+
+Apparirà la lista dei partecipanti al corso (<<img-docente-partecipanti>>).
+
+Cliccare sulla _checkbox_ (cerchio rosso).
+
+[#img-docente-partecipanti]
+.Partecipanti corso
+image::images/effettuare_comunicazioni_agli_studenti/2.png[]
+
+Cliccare su "`Scegli...`" e poi su "`Invia un messaggio`" (come mostrato <<img-docente-invia-messaggio>>).
+
+[#img-docente-invia-messaggio]
+.Invia un messaggio ai partecipanti
+image::images/effettuare_comunicazioni_agli_studenti/3.JPG[]
+
+Inserire la comunicazione desiderata e cliccare su "`Invia messaggio a...`" (<<img-docente-inserisci-messaggio>>) per inviare la comunicazione.
+
+[#img-docente-inserisci-messaggio]
+.Inserisci messaggio da inviare ai partecipanti
+image::images/effettuare_comunicazioni_agli_studenti/4.png[]
+
+Sarà possibile visualizzare le risposte dei singoli partecipanti e, eventualmente, rispondere cliccando sul pulsante di _chat_ in alto a destra (<<img-docente-messaggio-partecipante>>).
+
+[#img-docente-messaggio-partecipante]
+.Chat con partecipante
+image::images/effettuare_comunicazioni_agli_studenti/3.JPG[]
 
 == Partecipare ai forum
 
