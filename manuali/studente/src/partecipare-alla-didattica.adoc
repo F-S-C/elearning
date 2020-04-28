@@ -1,5 +1,71 @@
 = Partecipare alla didattica
 
+== Iscriversi a un corso
+
+L'iscrizione ad un corso è una procedura semplice da effettuare.
+
+Lo studente, una volta trovato il corso al quale intende iscriversi, verifica
+attraverso l'apposita icona che le iscrizioni siano aperte, con o senza chiave
+di accesso.
+
+[#img-studente-home]
+.Sezione Home Corsi
+image::images/home.jpg[]
+
+Sarà richiesta una chiave di accesso nel caso in cui il corso non sia con
+iscrizione spontanea.
+
+In tal caso, basterà inserirla e premere sul pulsante "`Iscrivimi`" per accedere
+al corso.
+
+[#img-studente-corso-chiuso]
+.Sezione corso con corso chiuso
+image::images/corso_chiuso.jpg[]
+
+Nel caso in cui il corso sia ad iscrizione libera, non sarà richiesta alcuna
+chiave e si potrà direttamente accedere al corso mediante il medesimo pulsante
+"`Iscrivimi`"
+
+[#img-studente-iscrizione-spontanea]
+.Sezione Home Iscrizione Corso 2
+image::images/corso_libero.jpg[]
+
+
+== Disiscriversi da un corso
+
+Per cancellare la propria iscrizione da un corso è necessario per prima cosa
+entrare nella pagina del corso.
+
+[#img-studente-cancella-corso-1]
+.Sezione Home Cancella Iscrizione 1
+image::images/cancella1.jpg[]
+
+In seguito, cliccare sul pulsante a forma di ingranaggio e selezionare l'opzione
+"`Disiscrivimi dal corso`", confermando la propria scelta.
+
+[#img-studente-cancella-corso-2]
+.Sezione Home Cancella Iscrizione 2
+image::images/cancella2.jpg[]
+
+
+== Accedere ai materiali
+
+Iscrivendosi ad un corso si ha accesso ai materiali messi a disposizione dal
+docente per gli studenti.
+
+È possibile visualizzare tale materiale dalla pagina del corso.
+
+Nel caso del prossimo esempio, è presente una pagina da visualizzare e un power
+point che è possibile scaricare.
+
+[#img-studente-materiale-corso1]
+.Sezione Corso Materiale 1
+image::images/corso1.jpg[]
+
+[#img-studente-materiale-corso2]
+.Sezione Corso Materiale 2
+image::images/corso2.jpg[]
+
 [#sect-studente-partecipa-webinar]
 == Partecipare a webinar e conferenze live
 
