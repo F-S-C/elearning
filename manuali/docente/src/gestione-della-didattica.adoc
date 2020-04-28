@@ -3,7 +3,7 @@
 == Organizzare esami e test
 Per organizzare un'esame o test è necessario entrare nella _dashboard_ del corso di cui si è _docente_. 
 
-Successivamente, cliccare su "`Aggiungi una attività o risorsa`" in corrispondenza dell'argomento in cui inserire l'esame o test (<<img-docente-dash-corso-esamitest>>).
+Successivamente, cliccare su "`Aggiungi una attività o una risorsa`" in corrispondenza dell'argomento in cui inserire l'esame o test (<<img-docente-dash-corso-esamitest>>).
 
 [#img-docente-dash-corso-esamitest]
 .Dashboard corso
@@ -57,13 +57,13 @@ Per confermare l'inserimento della domanda, cliccare sul pulsante "`Salva modifi
 == Organizzare le consegne
 Per organizzare una consegna è necessario entrare nella _dashboard_ del corso di cui si è _docente_.
 
-Successivamente, cliccare su "`Aggiungi una attività o risorsa`" in corrispondenza dell'argomento in cui inserire la consegna (<<img-docente-dash-corso-consegne>>).
+Successivamente, cliccare su "`Aggiungi una attività o una risorsa`" in corrispondenza dell'argomento in cui inserire la consegna (<<img-docente-dash-corso-consegne>>).
 
 [#img-docente-dash-corso-consegne]
 .Dashboard corso
 image::images/organizzare_le_consegne/1.JPG[]
 
-Selezionare _Compito_ nella lista attività e cliccare sul pulsante "`Aggiungi`" (<<img-docente-aggiungi-quiz>>).
+Selezionare _Compito_ nella lista attività e cliccare sul pulsante "`Aggiungi`" (<<img-docente-aggiungi-consegna>>).
 
 [#img-docente-aggiungi-consegna]
 .Aggiungi una consegna
