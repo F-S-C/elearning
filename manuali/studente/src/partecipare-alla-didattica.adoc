@@ -35,6 +35,38 @@ Il procedimento per partecipare a ricevimenti o lezioni in diretta è identico a
 quello per partecipare a conferenze o webinar live, descritto in dettaglio nella
 <<sect-studente-partecipa-webinar>>.
 
+== Effettuare consegne
+
+Alcuni docenti potrebbero richiedere di consegnare alcuni esercizi. Per farlo, è
+necessario aprire l'area predisposta dal docente per inviare dei file in
+relazione a uno specifico compito, come nell'esempio di
+<<img-studente-link-consegna>>.
+
+[#img-studente-link-consegna]
+.Link all'area per consegnare uno specifico compito di uno specifico argomento
+image::images/consegna/consegna-1.png[]
+
+Successivamente, è possibile aggiungere una consegna cliccando il tasto
+evidenziato in figura <<img-studente-pagina-consegna>>.
+
+[#img-studente-pagina-consegna]
+.Pagina della consegna
+image::images/consegna/consegna-2.png[]
+
+Da questa stessa pagina è, inoltre, possibile modificare una consegna
+precedentemente effettuata (se non già valutata e se non si è superata la
+scadenza per la consegna). Il procedimento è identico e cambia solo il testo del
+bottone di <<img-studente-pagina-consegna>>.
+
+Cliccare il bottone di cui sopra, aprirà la pagina di
+<<img-studente-file-consegna>>, in cui è possibile caricare i propri file da
+consegnare. Una volta caricati, basterà cliccare sul tasto "`Salva modifiche`"
+per confermare la consegna.
+
+[#img-studente-file-consegna]
+.Pagina di caricamento dei file per la consegna
+image::images/consegna/consegna-3.png[]
+
 == Partecipare a un esame, una verifica o un test
 
 === Partecipare a esami in diretta
