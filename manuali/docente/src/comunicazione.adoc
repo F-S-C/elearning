@@ -1,1 +1,64 @@
 = Comunicazione
+
+== Organizzare dei webinar e delle conferenze live
+Partendo dalla pagina del corso (si veda <<img-docente-paginacorso>>), si seleziona l'ingranaggio e, accedendo al menu a tendina, si sceglie la voce "`Attiva modifica`" (si veda <<img-docente-impostazioni>>). Da qui la pagina del corso risulterà essere modificabile.
+
+Il passo successivo è quello di selezionare "`Aggiungi una attività o una risorsa`" come in <<img-docente-modificacorso>>. 
+A questo punto, viene visualizzato un modale con le possibili risorse e attività da inserire. Si scelga la voce "`BigBlueButtonBN`" per poter creare un webinar con i propri studenti all'interno del proprio corso (si veda <<img-docente-selezionewebinar>>) e si clicca il bottone "`Aggiungi`".
+[#img-docente-selezionewebinar]
+.Voce da selezionare per poter effettuare una conferenza live
+image::images/creazione_webinar/1.jpg[]
+
+Fatto ciò, è possibile settare il nome della stanza, la sessione quando inizia con dati specifici (data e ora), condizioni di accesso e così via, per poi andare a cliccare sulla voce "`Salva e visualizza`" (si veda <<img-docente-settingwebinar>>). Oppure, se si seleziona la voce "`Salva e torna al corso`" si avrà questo risultato <<img-docente-corsowebinar>>.
+[#img-docente-settingwebinar]
+.Settaggio delle impostazioni del webinar che si sta creando
+image::images/creazione_webinar/2.jpg[]
+[#img-docente-corsowebinar]
+.Visualizzazione corso dopo aver creato il webinar
+image::images/creazione_webinar/4.jpg[]
+
+Quello che viene visualizzato è la pagina per poter accedere al webinar, ovviamente nell'esempio di <<img-docente-visualizzazionewebinar>> si è scelto di lasciare libero l'orario di accesso. Quindi, selezionando sul bottone "`Unisciti alla sessione`" si accede alla videoconferenza.
+[#img-docente-visualizzazionewebinar]
+.Scelta di unirsi al webinar
+image::images/creazione_webinar/3.jpg[]
+
+L'interfaccia della video conferenza si presenterà in questo modo (si veda <<img-docente-sceltawebinar>>) avendo la possibilità di accedere come ascoltatore oppure presentatore. In questo caso, in quanto docente, si sceglie di accedere alla conferenza con l'audio attivo.
+[#img-docente-sceltawebinar]
+.Impostazione audio per la conferenza live
+image::images/creazione_webinar/5.jpg[]
+
+La conferenza si presenterà nel modo raffigurato in <<img-docente-interfacciawebinar>>.
+[#img-docente-interfacciawebinar]
+.Interfaccia webinar
+image::images/creazione_webinar/6.jpg[]
+
+Ovviamente, durante la conferenza, sulla piattaforma viene visualizzato che la sessione è iniziata visualizzando i moderatori e i partecipanti presenti (si veda <<img-docente-sessionewebinar>>). Inoltre, come docente, è possibile terminare la sessione cliccando sulla voce "`Fine sessione`" (si veda <<img-docente-finewebinar>>).
+[#img-docente-sessionewebinar]
+.Visualizzazione sul corso del webinar in corso
+image::images/creazione_webinar/7.jpg[]
+[#img-docente-finewebinar]
+.Scelta di chiusura della conferenza
+image::images/creazione_webinar/8.jpg[]
+
+== Organizzare degli incontri e delle lezioni live mediante dei calendari
+Per poter organizzare e creare, quindi, un evento che può essere un compito, che può essere una lezione live o degli incontri per poter discutere insieme a studenti e a docenti ospiti, si procede nella seguente maniera.
+
+Dopo aver selezionato l'hambuger menu (si veda <<img-docente-menucalendario>> dove viene cerchiato), viene visualizzato il menu principale dove è presente la voce "`Calendario`" per andarla a selezionare (si veda <<img-docente-menucalendario>>).
+[#img-docente-menucalendario]
+.Selezione della voce Calendario per visualizzare e/o creare eventi
+image::images/incontri_calendario/1.jpg[]
+
+Viene visualizzato il calendario del mese corrente. È possibile ovviamente esportare il calendario, per poter avere traccia degli eventi organizzati, cambiare la visualizzazione del mese e, quello che al momento è importante, creare un nuovo evento andando a selezionare l'apposita voce, come in <<img-docente-calendario>>.
+[#img-docente-calendario]
+.Visualizzazione del calendario. Selezionare "Nuovo evento" per crearne uno
+image::images/incontri_calendario/2.jpg[]
+
+Dopo aver selezionato l'apposita voce, compare un modale che permette di impostare i dettagli dell'evento che si vuole creare tra cui il titolo dell'evento la data e l'ora, tipo di evento e soprattutto a quale corso fa riferimento questo evento (ovvero videolezione, possibile inserimento di contenuti importanti, e così via). Una volta settato e personalizzato l'evento, si procede al salvataggio selezionando la voce "`Salva`", come mostrato in <<img-docente-impostazionievento>>.
+[#img-docente-impostazionievento]
+.Settaggio delle informazioni dell'evento che si sta creando
+image::images/incontri_calendario/3.jpg[]
+
+Dopo aver salvato, compare l'evento appena creato all'interno del calendario come riportato in <<img-docente-calendarioevento>>.
+[#img-docente-calendarioevento]
+.Visualizzazione dell'evento all'interno del calendario
+image::images/incontri_calendario/4.jpg[]
