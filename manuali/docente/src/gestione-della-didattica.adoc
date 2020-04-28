@@ -18,7 +18,7 @@ image::images/organizzare_esami_test/2.JPG[]
 Si aprirà la videata (<<img-docente-creazione-quiz>>) con tutti i campi da compilare tra cui:
 
 -  _Nome_ (che è un campo obbligatorio) e _Descrizione_;
-- La sezione _Durata_: nella quale si possono selezionare le date dell'eventuale apertura e chiusura del quiz, il tempo dato a disposizione e la scadenza;
+- La sezione _Durata_ nella quale si possono selezionare le date dell'eventuale apertura e chiusura del quiz, il tempo dato a disposizione e la scadenza;
 - La sezione _Valutazione_ in cui è possibile indicare una _Categoria della valutazione_ (utile se sono presenti esami "`standard`"), il punteggio per la sufficienza e i tentativi permessi.
 
 [#img-docente-creazione-quiz]
