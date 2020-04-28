@@ -2,15 +2,18 @@
 
 == Comunicare con altri membri (studenti o docenti)
 
-La comunicazione con altri utenti o docenti viene effettuata attraverso l'apposita icona situata in alto a destra vicino al proprio profilo.
+La comunicazione con altri utenti o docenti viene effettuata attraverso
+l'apposita icona situata in alto a destra vicino al proprio profilo.
 
-Cliccando su di essa si accederà alla chat e sarà possibile ricercare utenti, aggiungerli alla propria lista di contatti e far partire una conversazione.
+Cliccando su di essa si accederà alla chat e sarà possibile ricercare utenti,
+aggiungerli alla propria lista di contatti e far partire una conversazione.
 
 [#img-studente-chatHome]
 .Sezione Chat nella Home
 image::images/home_chat.jpg[]
 
-Nella relativa barra di ricerca è possibile cercare un utente attraverso il suo nome e aggiungerlo ai propri contatti.
+Nella relativa barra di ricerca è possibile cercare un utente attraverso il suo
+nome e aggiungerlo ai propri contatti.
 
 [#img-studente-cercaContatto]
 .Sezione Chat Cerca Contatto
@@ -20,7 +23,8 @@ image::images/cerca_alessandro.jpg[]
 .Sezione Chat Aggiungi Contatto
 image::images/aggiungi_contatti.jpg[]
 
-E' possibile anche utilizzare una chat "~con se stessi~" per scrivere appunti o salvarsi delle note da utilizzare in seguito.
+È possibile anche utilizzare una chat "`con se stessi`" per scrivere appunti o
+salvarsi delle note da utilizzare in seguito.
 
 [#img-studente-chatPersonale]
 .Sezione Chat Personale
@@ -28,19 +32,24 @@ image::images/chat_personale.jpg[]
 
 == Partecipare ai forum
 
-Per poter partecipare ad un forum è necessario essere iscritti al corso relativo a tale forum.
+Per poter partecipare ad un forum è necessario essere iscritti al corso relativo
+a tale forum.
 
-Una volta entrati nela pagina del corso, cliccando sul pulsante *Annunci* si potrà entrare nella sezione dei forum del corso.
+Una volta entrati nela pagina del corso, cliccando sul pulsante "`Annunci`" si
+potrà entrare nella sezione dei forum del corso.
 
-Sarà possibile rispondere a degli argomenti già creati da altri utenti, oppure crearne di propri.
+Sarà possibile rispondere a degli argomenti già creati da altri utenti, oppure
+crearne di propri.
 
-Per creare un proprio annuncio basta cliccare sul pulsante *Aggiungi nuovo argomento* 
+Per creare un proprio annuncio basta cliccare sul pulsante "`Aggiungi nuovo
+argomento`" 
 
 [#img-studente-home-annunci]
 .Sezione Annunci
 image::images/home annuncio.jpg[]
 
-Successivamente, compilare i campi richiesti inserendo un titolo ed una descrizione, e premere sul pulsante *Invia al forum* .
+Successivamente, compilare i campi richiesti inserendo un titolo ed una
+descrizione, e premere sul pulsante "`Invia al forum`".
 
 [#img-studente-aggiungi-annuncio]
 .Sezione Annunci Nuovo Annuncio
