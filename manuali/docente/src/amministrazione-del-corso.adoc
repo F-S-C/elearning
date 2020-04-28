@@ -28,7 +28,7 @@ image::images/modifica_corso/3.png[]
 == Visualizzare i partecipanti del proprio corso
 
 Una volta entrati nel proprio corso, per visualizzare i partecipanti, basterà
-cliccare su "`Partecipanti`" nel menù che si trova nel menù a sinistra
+cliccare su "`Partecipanti`" nel menù che si trova a sinistra
 (<<img-docente-partecipanti>>).
 
 [#img-docente-partecipanti]
@@ -36,7 +36,7 @@ cliccare su "`Partecipanti`" nel menù che si trova nel menù a sinistra
 image::images/visualizzazione_partecipanti/1.png[]
 
 Una volta avvenuto il click, apparirà la pagina in cui potranno essere
-visualizzati tutti i partecipanti al proprio corso
+visualizzati tutti i partecipanti del proprio corso
 (<<img-docente-partecipanti2>>).
 
 [#img-docente-partecipanti2]
