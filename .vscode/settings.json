@@ -1,5 +1,0 @@
-{
-    "yaml.schemas": {
-        "https://asciidoc-publishing-toolbox.github.io/document-schema/schemas/document.schema.json":["document.yml"]
-    }
-}
