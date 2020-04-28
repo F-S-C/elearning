@@ -21,3 +21,5 @@ chapters:
 lang: en
 copyright:
   fromYear: 2020
+options:
+  target: github

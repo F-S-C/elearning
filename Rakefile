@@ -58,9 +58,10 @@ task :manuali do
   $stdout.flush
   AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname + 'manuali/studente'
   AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname + 'manuali/docente'
-  FileUtils.mkdir_p Pathname.new(__FILE__).dirname + 'docs/manuali/'
-  FileUtils.mv Dir.glob(Pathname.new(__FILE__).dirname + 'manuali/studente/out/*'), Pathname.new(__FILE__).dirname + 'docs/manuali', force: true
-  FileUtils.mv Dir.glob(Pathname.new(__FILE__).dirname + 'manuali/docente/out/*'), Pathname.new(__FILE__).dirname + 'docs/manuali', force: true
+  FileUtils.mkdir_p Pathname.new(__FILE__).dirname + 'docs/manuali/docente'
+  FileUtils.mkdir_p Pathname.new(__FILE__).dirname + 'docs/manuali/studente'
+  FileUtils.mv Dir.glob(Pathname.new(__FILE__).dirname + 'manuali/studente/docs/*'), Pathname.new(__FILE__).dirname + 'docs/manuali/studente', force: true
+  FileUtils.mv Dir.glob(Pathname.new(__FILE__).dirname + 'manuali/docente/docs/*'), Pathname.new(__FILE__).dirname + 'docs/manuali/docente/', force: true
   puts "\r✓ Builded manuali   "
 end
 
