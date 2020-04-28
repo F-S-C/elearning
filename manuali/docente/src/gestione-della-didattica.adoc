@@ -1,6 +1,84 @@
 = Gestione della didattica
 
+== Creare del nuovo materiale
+Per poter creare un nuovo materiale da inserire all'interno del proprio corso, si deve selezionare il corso di interesse. Dopo che viene visualizzata una pagina simile a <<img-docente-paginacorso>>. 
+[#img-docente-paginacorso]
+.Esempio di pagina del corso "Corso di test"
+image::images/crare_materiale/1.jpg[]
+
+Una volta cliccato l'ingranaggio si accede ad un menù a tendina come quello di <<img-docente-menuimpostazioni>>.
+[#img-docente-menuimpostazioni]
+.Menù a tendina
+image::images/crare_materiale/2.jpg[]
+
+Andando a cliccare su "`Attiva modifica`" (come in <<img-docente-menuimpostazioni>>), viene mostrato il corso in modalità appunto di modifica (si veda <<img-docente-modificacorso>>). Il passo successivo è quello di cliccare sulla voce "`Aggiungi una attività o una risorsa`" (si veda <<img-docente-modificacorso>>)nell'argomento  nel quale si vuole trovare il materiale che si sta andando a creare.
+[#img-docente-modificacorso]
+.Corso in modifica
+image::images/crare_materiale/3.jpg[]
+
+Quello che si visualizza, a questo punto, è un modale nel quale appariranno tutte le tipologie di materiali che possono essere creati utilizzando questa piattaforma.
+Ad esempio, si vuole creare una pagina all'argomento 1.
+
+All'interno del modale, si sceglie la voce (in questo caso) "`Pagina`" e si clicca su "`Aggiungi`" come in <<img-docente-selezionemateriale>>.
+[#img-docente-selezionemateriale]
+.Selezione della tipologia di materiale da creare
+image::images/crare_materiale/4.jpg[]
+
+Quello viene mostrato è mostrato in <<img-docente-impostazionipagina>>, nel quale si può andare a inserire il nome della pagina che si vuole creare, la descrizione (modificabile utilizzando grassenti elenchi, etc.). Aggiungere il contenuto (che può essere del testo personalizzabile, delle immagini, etc. come si può vedere in <<img-docente-impostazionipagina2>>). Oltre a questo, possono essere personalizzati a piacimento del docente la visibilità (ovvero se vuole renderlo vesibili agli studenti o meno subito dopo il salvataggio), l'aspetto, condizioni per accedere a questo materiale creato etc.. 
+[#img-docente-impostazionipagina]
+.Pagina di settaggio delle informazioni del materiale che si sta creando
+image::images/crare_materiale/5.jpg[]
+[#img-docente-impostazionipagina2]
+.Pagina di settaggio delle informazioni del materiale che si sta creando
+image::images/crare_materiale/6.jpg[]
+[#img-docente-impostazionipagina3]
+.Pagina di settaggio delle informazioni del materiale che si sta creando
+image::images/crare_materiale/7.jpg[]
+
+Dopo che si è personalizzato a piacimento, si può scegliere di cliccare su "`Salva e torna al corso`" (con si salvano le impostazioni settate e si torna alla pagina del corso nel quale si è inserito il materiale, si veda <<img-docente-visualizzazionecorso>>) oppure "`Salva e visualizza`" (con il quale viene mostrato come è graficamente il materiale appena creato, in questo caso una pagina, si veda <<img-docente-visualizzazionepagine>>). Inoltre, è possibile cliccare su "`Annulla`" per annullare, appunto, l'operazione che si sta effettuando.
+[#img-docente-visualizzazionecorso]
+.Pagina di visualizzazione corso al fine della creazione del materiale
+image::images/crare_materiale/8.jpg[]
+[#img-docente-visualizzazionepagine]
+.Anteprima del materiale prodotto
+image::images/crare_materiale/9.jpg[]
+
+== Caricare del materiale precedentemente creato
+
+Procedimento simile a quello precedente: si visualizza la pagina del corso nel quale si vuole inserire il materiale (si veda <<img-docente-paginacorso>>), si clicca sull'ingranaggio e, una volta visualizzato il menu a tendina, si seleziona la voce "`Attiva modifica`" (si veda <<img-docente-menuimpostazioni>>).
+
+A questo punto, viene visualizzata la pagina del corso in modalità di modifica. Ovviamente, come anche nella creazione di materiale, si seleziona la voce "`Aggiungi una attività o una risorsa`" come in <<img-docente-modificacorso>>.
+
+Fatto questo, si aprirà lo stesso modale contenente le tipologie di risorse e attività che possono essere create e aggiunte. In questo caso, si vuole far vedere come inserire una risorsa esterna. Per questo, viene selezionata la voce "`File`" e cliccato il bottone "`Aggiungi`" (si veda <<img-docente-selezionefile>>).
+[#img-docente-selezionefile]
+.Selezione dell'opzione "`File`" per aggiungere una risorsa esterna
+image::images/aggiungere_materiale/1.jpg[]
+
+Come prima, viene visualizzata la pagina per settare le informazioni relative a questo file tra cui nome, descrizione, aspetto, impostazioni comuni, condizioni di accesso etc..
+Ovviamente, è necessario poter caricare il file che si vuole aggiungere al corso. È possibile inserire i file trascinandoli nell'aria indicata, ma per mostrare il funzionamento viene eseguita un'altra procedura. Per inserire il file, quindi, si clicca sul pulsante evidenziato in <<img-docente-selezionabottonefile>>. Inoltre, è possibile inserire delle directory per avere una migliore organizzazione dei file inseriti. 
+[#img-docente-selezionabottonefile]
+.Selezione opzione per inserire un file
+image::images/aggiungere_materiale/2.jpg[]
+ 
+Quello che viene mostrato a questo punto è il modale per inserire il file. Si clicca sulla voce "`Scegli file`" (si veda <<img-docente-sceltafile>>) e si selezione il file desiderato. 
+Una volta che si è scelto il file e che viene inserito, si clicca su "`Carica questo file`" (si veda <<img-docente-caricafile>>).
+[#img-docente-sceltafile]
+.Modale di scelta per il caricamento di file 
+image::images/aggiungere_materiale/3.jpg[]
+[#img-docente-caricafile]
+.Selezione del caricamento del file all'interno del corso
+image::images/aggiungere_materiale/4.jpg[]
+
+Una volta eseguito, viene visualizzata la pagina di modifica, dal quale si era partiti, e si selezione sulla voce "`Salva e visualizza`" (si veda <<img-docente-salvataggio>>) per poi essere indirizzati ad una pagina simile a <<img-docente-paginadestinazione>>.
+[#img-docente-salvataggio]
+.Selezione del bottone "`Salva e visualizza`"
+image::images/aggiungere_materiale/5.jpg[]
+[#img-docente-paginadestinazione]
+.Visualizzazione della pagina dopo aver inserito la risorsa esterna
+image::images/aggiungere_materiale/6.jpg[]
+
 == Organizzare esami e test
+
 Per organizzare un'esame o test è necessario entrare nella _dashboard_ del corso di cui si è _docente_. 
 
 Successivamente, cliccare su "`Aggiungi una attività o una risorsa`" in corrispondenza dell'argomento in cui inserire l'esame o test (<<img-docente-dash-corso-esamitest>>).
