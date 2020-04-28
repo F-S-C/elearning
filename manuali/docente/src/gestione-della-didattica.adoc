@@ -44,6 +44,7 @@ image::images/crare_materiale/8.jpg[]
 image::images/crare_materiale/9.jpg[]
 
 == Caricare del materiale precedentemente creato
+
 Procedimento simile a quello precedente: si visualizza la pagina del corso nel quale si vuole inserire il materiale (si veda <<img-docente-paginacorso>>), si clicca sull'ingranaggio e, una volta visualizzato il menu a tendina, si seleziona la voce "`Attiva modifica`" (si veda <<img-docente-menuimpostazioni>>).
 
 A questo punto, viene visualizzata la pagina del corso in modalità di modifica. Ovviamente, come anche nella creazione di materiale, si seleziona la voce "`Aggiungi una attività o una risorsa`" come in <<img-docente-modificacorso>>.
@@ -76,4 +77,110 @@ image::images/aggiungere_materiale/5.jpg[]
 .Visualizzazione della pagina dopo aver inserito la risorsa esterna
 image::images/aggiungere_materiale/6.jpg[]
 
-== Organizzazione esami e test
+== Organizzare esami e test
+
+Per organizzare un'esame o test è necessario entrare nella _dashboard_ del corso di cui si è _docente_. 
+
+Successivamente, cliccare su "`Aggiungi una attività o una risorsa`" in corrispondenza dell'argomento in cui inserire l'esame o test (<<img-docente-dash-corso-esamitest>>).
+
+[#img-docente-dash-corso-esamitest]
+.Dashboard corso
+image::images/organizzare_esami_test/1.png[]
+
+Selezionare _Quiz_ nella lista attività e cliccare sul pulsante "`Aggiungi`" (<<img-docente-aggiungi-quiz>>).
+
+[#img-docente-aggiungi-quiz]
+.Aggiungi un quiz
+image::images/organizzare_esami_test/2.JPG[]
+
+Si aprirà la videata (<<img-docente-creazione-quiz>>) con tutti i campi da compilare tra cui:
+
+-  _Nome_ (che è un campo obbligatorio) e _Descrizione_;
+- La sezione _Durata_ nella quale si possono selezionare le date dell'eventuale apertura e chiusura del quiz, il tempo dato a disposizione e la scadenza;
+- La sezione _Valutazione_ in cui è possibile indicare una _Categoria della valutazione_ (utile se sono presenti esami "`standard`"), il punteggio per la sufficienza e i tentativi permessi.
+
+[#img-docente-creazione-quiz]
+.Campi per la creazione di un quiz
+image::images/organizzare_esami_test/3.png[]
+
+Una volta terminata la compilazione di tutti i campi cliccare sul pulsante "`Salva e visualizza`" (<<img-docente-creazione-quiz>>) che mostrerà la schermata del quiz appena creato (<<img-docente-schermata-quiz>>).
+
+[#img-docente-schermata-quiz]
+.Schermata quiz
+image::images/organizzare_esami_test/4.png[]
+
+Nella <<img-docente-schermata-quiz>> cliccare su "`Modifica quiz`". 
+
+Si aprirà la <<img-docente-modifica-quiz>> da cui si potranno aggiungere nuove domande (cerchio rosso) e modificare il titolo delle domande già esistenti (cerchio blu).
+
+[#img-docente-modifica-quiz]
+.Modifica quiz
+image::images/organizzare_esami_test/5.png[]
+
+Cliccando su "`Aggiungi`" e poi su "`una domanda`" (nella <<img-docente-modifica-quiz>>) apparirà la <<img-docente-nuova-domanda-quiz>> dove si dovrà scegliere la tipologia di domanda (ad esempio "`Vero/Falso`").
+
+[#img-docente-nuova-domanda-quiz]
+.Nuova domanda
+image::images/organizzare_esami_test/6.JPG[]
+
+Successivamente, cliccare sul pulsante "`Aggiungi`" (<<img-docente-nuova-domanda-quiz>>) per entrare nella schermata di modifica (<<img-docente-modifica-domanda-quiz>>) dove sarà possibile inserire _Nome_, _Testo_, _Punteggio_ e l'eventuale risposta corretta.
+
+[#img-docente-modifica-domanda-quiz]
+.Inserimento nuova domanda
+image::images/organizzare_esami_test/7.png[]
+
+Per confermare l'inserimento della domanda, cliccare sul pulsante "`Salva modifiche`" per tornare alla schermata <<img-docente-modifica-quiz>> e, eventualmente, inserire altre domande.
+
+== Organizzare le consegne
+Per organizzare una consegna è necessario entrare nella _dashboard_ del corso di cui si è _docente_.
+
+Successivamente, cliccare su "`Aggiungi una attività o una risorsa`" in corrispondenza dell'argomento in cui inserire la consegna (<<img-docente-dash-corso-consegne>>).
+
+[#img-docente-dash-corso-consegne]
+.Dashboard corso
+image::images/organizzare_le_consegne/1.JPG[]
+
+Selezionare _Compito_ nella lista attività e cliccare sul pulsante "`Aggiungi`" (<<img-docente-aggiungi-consegna>>).
+
+[#img-docente-aggiungi-consegna]
+.Aggiungi una consegna
+image::images/organizzare_esami_test/2.JPG[]
+
+Si aprirà la videata (<<img-docente-creazione-consegna>>) con tutti i campi da compilare tra cui:
+
+-  _Titolo del compito_ (che è un campo obbligatorio) e _Descrizione_;
+- La sezione _Disponibilità_ nella quale si possono selezionare le date dell'eventuale apertura, termine e limite per le consegne e la data entro cui valutare le consegne fatte dagli studenti;
+- La sezione _Tipi di consegne_ in cui è possibile indicare il tipo della consegna (_File_ o _Testo online_), il numero massimo di file, la dimensione e la tipologia di file accettata.
+
+[#img-docente-creazione-consegna]
+.Campi per la creazione della consegna
+image::images/organizzare_esami_test/3.png[]
+
+Cliccare su "`Salva e torna al corso`" per salvare la consegna e tornare alla dashboard (<<img-docente-dash-corso-consegne>>) oppure su "`Salva e visualizza`" per salvare e visualizzare la consegna.
+
+== Modifica o rimozione del materiale precedentemente caricato
+
+Per la rimozione o la modifica del materiale caricato bisogna premere sul
+simbolo dell'ingranaggio. Una volta cliccato, apparirà un menù a tendina
+(<<img-docente-rimozione>>).
+
+[#img-docente-rimozione]
+.Pagina del corso "`Pianoforte avanzato`" (1/3)
+image::images/rimozione_materiale/1.png[]
+
+In questo menù selezionate "`Attiva modifica`". Così facendo potete eliminare o
+modificare qualunque vostro materiale caricato. Più dettagliatamente, bisognerà
+cliccare sul bottone "`Modifica`" posizionato affianco al materiale che si vuole
+modificare o eliminare (<<img-docente-rimozione2>>).
+
+[#img-docente-rimozione2]
+.Pagina del corso "`Pianoforte avanzato`" (2/3)
+image::images/rimozione_materiale/2.png[]
+
+In conclusione, per eliminare il materiale basterà cliccare su "`Elimina`".
+Invece, per modificare il materiale, basterà cliccare su "`Impostazioni`"
+(<<img-docente-rimozione3>>).
+
+[#img-docente-rimozione3]
+.Pagina del corso "`Pianoforte avanzato`" (3/3)
+image::images/rimozione_materiale/3.png[]

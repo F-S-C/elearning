@@ -1,6 +1,7 @@
 = Comunicazione
 
 == Organizzare dei webinar e delle conferenze live
+
 Partendo dalla pagina del corso (si veda <<img-docente-paginacorso>>), si seleziona l'ingranaggio e, accedendo al menu a tendina, si sceglie la voce "`Attiva modifica`" (si veda <<img-docente-impostazioni>>). Da qui la pagina del corso risulterà essere modificabile.
 
 Il passo successivo è quello di selezionare "`Aggiungi una attività o una risorsa`" come in <<img-docente-modificacorso>>. 
@@ -41,6 +42,7 @@ image::images/creazione_webinar/7.jpg[]
 image::images/creazione_webinar/8.jpg[]
 
 == Organizzare degli incontri e delle lezioni live mediante dei calendari
+
 Per poter organizzare e creare, quindi, un evento che può essere un compito, che può essere una lezione live o degli incontri per poter discutere insieme a studenti e a docenti ospiti, si procede nella seguente maniera.
 
 Dopo aver selezionato l'hambuger menu (si veda <<img-docente-menucalendario>> dove viene cerchiato), viene visualizzato il menu principale dove è presente la voce "`Calendario`" per andarla a selezionare (si veda <<img-docente-menucalendario>>).
@@ -62,3 +64,117 @@ Dopo aver salvato, compare l'evento appena creato all'interno del calendario com
 [#img-docente-calendarioevento]
 .Visualizzazione dell'evento all'interno del calendario
 image::images/incontri_calendario/4.jpg[]
+
+== Effettuare comunicazioni agli studenti (e rispondere)
+
+Per effettuare comunicazioni agli studenti è necessario entrare nella _dashboard_ del corso di cui si è _docente_ (<<img-docente-dash-comunicazioni>>). 
+
+Successivamente, cliccare su "`Partecipanti`" (cerchio rosso) nella sidebar presente alla sinistra.
+Nel caso in cui non fosse presente, basta cliccare sul pulsante _Menù_ (cerchio viola) per farla apparire.
+
+[#img-docente-dash-comunicazioni]
+.Dashboard corso
+image::images/effettuare_comunicazioni_agli_studenti/1.JPG[]
+
+Apparirà la lista dei partecipanti al corso (<<img-docente-partecipanti-comun>>). 
+Cliccare sulla _checkbox_ (cerchio rosso).
+
+[#img-docente-partecipanti-comun]
+.Partecipanti corso
+image::images/effettuare_comunicazioni_agli_studenti/2.png[]
+
+Cliccare su "`Scegli...`" e poi su "`Invia un messaggio`" (come mostrato <<img-docente-invia-messaggio>>).
+
+[#img-docente-invia-messaggio]
+.Invia un messaggio ai partecipanti
+image::images/effettuare_comunicazioni_agli_studenti/3.JPG[]
+
+Inserire la comunicazione desiderata e cliccare su "`Invia messaggio a...`" (<<img-docente-inserisci-messaggio>>) per inviare la comunicazione.
+
+[#img-docente-inserisci-messaggio]
+.Inserisci messaggio da inviare ai partecipanti
+image::images/effettuare_comunicazioni_agli_studenti/4.png[]
+
+Sarà possibile visualizzare le risposte dei singoli partecipanti e, eventualmente, rispondere cliccando sul pulsante di _chat_ in alto a destra (<<img-docente-messaggio-partecipante>>).
+
+[#img-docente-messaggio-partecipante]
+.Chat con partecipante
+image::images/effettuare_comunicazioni_agli_studenti/5.JPG[]
+
+== Partecipare ai forum
+
+Per partecipare ai forum è necessario entrare nella _dashboard_ del corso di cui si è _docente_.
+
+Successivamente, cliccare su "`Annunci`" (<<img-docente-dash-annunci>>).
+
+[#img-docente-dash-annunci]
+.Dashboard corso
+image::images/partecipare_ai_forum/1.png[]
+
+Cliccare su "`Aggiungi nuovo argomento`" (<<img-docente-forum-aggiungi-argomento>>).
+
+[#img-docente-forum-aggiungi-argomento]
+.Forum del corso
+image::images/partecipare_ai_forum/2.png[]
+
+Si aprirà la videata per aggiungere una nuova discussione. Inserire _Oggetto_, _Messaggio_ e cliccare su "`Invia al forum`" (<<img-docente-forum-aggiungi-argomento-campi>>).
+
+[#img-docente-forum-aggiungi-argomento-campi]
+.Aggiungi discussione
+image::images/partecipare_ai_forum/3.png[]
+
+Per rispondere ad una discussione, entrare in una tra quelle presenti nella schermata vista in <<img-docente-forum-aggiungi-argomento>>. 
+
+Cliccare poi su "`Rispondi`" (<<img-docente-forum-rispondi-discussione-1>>).
+
+[#img-docente-forum-rispondi-discussione-1]
+.Rispondi ad una discussione (1)
+image::images/partecipare_ai_forum/4.png[]
+
+Inserire la risposta e cliccare su "`Invia`" (<<img-docente-forum-rispondi-discussione-2>>).
+
+[#img-docente-forum-rispondi-discussione-2]
+.Rispondi ad una discussione (2)
+image::images/partecipare_ai_forum/5.png[]
+
+== Organizzare dei ricevimenti
+
+Per organizzare un ricevimento è necessario entrare nella _dashboard_ del corso di cui si è _docente_. 
+
+Successivamente, cliccare su "`Aggiungi una attività o una risorsa`" in corrispondenza dell'argomento in cui inserire l'esame o test (<<img-docente-dash-ricevimento>>).
+
+[#img-docente-dash-ricevimento]
+.Dashboard corso
+image::images/organizzare_dei_ricevimenti/1.JPG[]
+
+Selezionare _Chat_ nella lista attività e cliccare sul pulsante "`Aggiungi`" (<<img-docente-aggiungi-chat>>).
+
+[#img-docente-aggiungi-chat]
+.Aggiungi un ricevimento
+image::images/organizzare_dei_ricevimenti/2.JPG[]
+
+Si aprirà la videata (<<img-docente-creazione-chat>>) con tutti i campi da compilare tra cui:
+
+-  _Nome_ (che è un campo obbligatorio) e _Descrizione_;
+- La sezione _Sessioni_ nella quale si possono selezionare le data dell'inizio della sessione e l'eventuale ripetizione nel tempo. Inoltre si può anche decidere per quanto tempo mantenere la chat anche dopo che la sessione è terminata;
+- La sezione _Impostazioni comuni_ in cui è possibile scegliere se rendere visibile la chat a tutti gli studenti, un codice identificativo e un sotto-gruppo di studenti che potranno accedervi.
+
+[#img-docente-creazione-chat]
+.Campi per la creazione di una chat
+image::images/organizzare_dei_ricevimenti/3.png[]
+
+Una volta terminata la compilazione di tutti i campi cliccare sul pulsante "`Salva e visualizza`" (<<img-docente-creazione-chat>>) che mostrerà la schermata della chat appena creata (<<img-docente-visualizza-chat-ricevimento>>).
+
+[#img-docente-visualizza-chat-ricevimento]
+.Visualizza ricevimento
+image::images/organizzare_dei_ricevimenti/4.JPG[]
+
+Dalla visualizzazione della schermata del ricevimento (<<img-docente-visualizza-chat-ricevimento>>), cliccando su "`Entra nella chat`", si aprirà il popup con la chat (<<img-docente-chat-ricevimento-aperta>>).
+
+[#img-docente-chat-ricevimento-aperta]
+.Chat del ricevimento
+image::images/organizzare_dei_ricevimenti/5.JPG[]
+
+Nella chat (<<img-docente-chat-ricevimento-aperta>>) appariranno i messaggi sulla sinistra e gli utenti connessi sulla destra.
+
+**N.B:** E' anche possibile creare un ricevimento tramite una videochiamata simmetrica (Webinair - <<Organizzare dei webinar e delle conferenze live>>).

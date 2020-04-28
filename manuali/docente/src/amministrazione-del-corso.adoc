@@ -1,6 +1,7 @@
 = Amministrazione del corso
 
 == Monitorare i propri studenti
+
 Monitorare i propri studenti è utile per vedere se hanno completato il corso, per controllare se hanno superato le prove e via dicendo.
 Di seguito, viene mostrato un'esempio per controllare se gli studenti di un corso lo hanno completato.
 
@@ -18,3 +19,95 @@ Dopo questa operazione, si visualizzeranno la situazione di ogni studente riguar
 [#img-docente-visualizzazionereport]
 .Visualizzazione dello stato degli studenti riguardanti un corso
 image::images/monitora_studenti/1.jpg[]
+
+== Modificare le impostazioni del corso
+
+Una volta entrati nel corso, per modificare le sue impostazioni, basterà premere
+sull'ingranaggio cerchiato in rosso per aprire un menù a tendina
+(<<img-docente-modifica>>).
+
+[#img-docente-modifica]
+.Pagina del corso "`Pianoforte avanzato`" (1/2)
+image::images/modifica_corso/1.png[]
+
+Cliccando successivamente su "`Impostazioni`" si aprirà la pagina per modificare
+le informazioni del corso (<<img-docente-modifica2>>).
+
+[#img-docente-modifica2]
+.Pagina del corso "`Pianoforte avanzato`" (2/2)
+image::images/modifica_corso/2.png[]
+
+Una volta modificate le informazioni, per salvarle, basterà cliccare su "`Salva
+e visualizza`" (<<img-docente-modifica3>>).
+
+[#img-docente-modifica3]
+.Pagina per la modifica delle impostazioni
+image::images/modifica_corso/3.png[]
+
+== Visualizzare i partecipanti del proprio corso
+
+Una volta entrati nel proprio corso, per visualizzare i partecipanti, basterà
+cliccare su "`Partecipanti`" nel menù che si trova a sinistra
+(<<img-docente-partecipanti>>).
+
+[#img-docente-partecipanti]
+.Pagina del corso "`Pianoforte avanzato`"
+image::images/visualizzazione_partecipanti/1.png[]
+
+Una volta avvenuto il click, apparirà la pagina in cui potranno essere
+visualizzati tutti i partecipanti del proprio corso
+(<<img-docente-partecipanti2>>).
+
+[#img-docente-partecipanti2]
+.Pagina per la visualizzazione dei partecipanti
+image::images/visualizzazione_partecipanti/2.png[]
+
+== Presdisporre delle sotto-classi del corso
+
+Nella pagina della visualizzazione dei partecipanti è possibile anche creare dei
+sotto gruppi del corso. Cliccando sul simbolo dell'ingranaggio a destra, verrà
+visualizzato un menù a tendina (<<img-docente-creazioneGruppi>>).
+
+[#img-docente-creazioneGruppi]
+.Pagina per la visualizzazione dei partecipanti (1/2)
+image::images/creazione_gruppi/1.png[]
+
+Successivamente, bisogna cliccare su "`Gruppi`"
+(<<img-docente-creazioneGruppi2>>).
+
+[#img-docente-creazioneGruppi2]
+.Pagina per la visualizzazione dei partecipanti (2/2)
+image::images/creazione_gruppi/2.png[]
+
+Cliccando su "`Gruppi`", il sito vi porterà nella seguente pagina. Questa pagina
+vi permette di creare un gruppo cliccando su "`Crea gruppo`"
+(<<img-docente-creazioneGruppi3>>).
+
+[#img-docente-creazioneGruppi3]
+.Pagina per la visualizzazione dei gruppi (1/2)
+image::images/creazione_gruppi/3.png[]
+
+Una volta immesse tutte le informazioni del gruppo, per il completamento
+dell'operazione, basterà cliccare su "`Salva modifiche`"
+(<<img-docente-creazioneGruppi4>>).
+
+[#img-docente-creazioneGruppi4]
+.Pagina per la creazione di un gruppo
+image::images/creazione_gruppi/4.png[]
+
+
+Creato il gruppo, vi basterà selezionarlo e cliccare su "`Aggiungi/rimuovi
+utenti`" per aggiungere o rimuovere partecipanti
+(<<img-docente-creazioneGruppi5>>).
+
+[#img-docente-creazioneGruppi5]
+.Pagina per la visualizzazione dei gruppi (2/2)
+image::images/creazione_gruppi/5.png[]
+
+
+Vi uscirà una schermata in cui, appunto, si potrà aggiungere o rimuovere
+partecipanti con molta facilità (<<img-docente-creazioneGruppi6>>).
+
+[#img-docente-creazioneGruppi6]
+.Pagina per l'aggiunta o rimozione di utenti in un gruppo
+image::images/creazione_gruppi/6.png[]
