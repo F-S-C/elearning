@@ -23,11 +23,9 @@ chapters:
   part: false
 - title: Comunicazione
   part: false
-lang: en
+lang: it
 copyright:
   fromYear: 2020
   adptNotice: true
 options:
   target: github
-  revhistory: false
-  revhistoryLabel: Revision History
