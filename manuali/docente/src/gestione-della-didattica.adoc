@@ -2,26 +2,26 @@
 
 == Modifica o rimozione del materiale precedentemente caricato
 
-Per la rimozione o la modifica del materiale caricato bisogna premere sul simbolo dell'ingranaggio.
-Una volta cliccato, apparirà un menù a tendina.
-<<#img-docente-rimozione>>.
+Per la rimozione o la modifica del materiale caricato bisogna premere sul
+simbolo dell'ingranaggio. Una volta cliccato, apparirà un menù a tendina
+(<<img-docente-rimozione>>).
 
-[ #img-docente-rimozione]
+[#img-docente-rimozione]
 image::images/rimozione.png[]
 
-In questo menù selezionate "Attiva modifica".
-Così facendo potete eliminare o modificare qualunque vostro materiale caricato.
-Più dettagliatamente, bisognerà cliccare sul bottone "Modifica" posizionato affianco al materiale che si vuole modificare o eliminare.
-<<#img-docente-rimozione1>>.
+In questo menù selezionate "`Attiva modifica`". Così facendo potete eliminare o
+modificare qualunque vostro materiale caricato. Più dettagliatamente, bisognerà
+cliccare sul bottone "`Modifica`" posizionato affianco al materiale che si vuole
+modificare o eliminare (<<img-docente-rimozione1>>).
 
-[ #img-docente-rimozione1]
+[#img-docente-rimozione1]
 image::images/rimozione1.png[]
 
-In conclusione, per eliminare il materiale basterà cliccare su "Elimina".
-Invece, per modificare il materiale, basterà cliccare su "Impostazioni".
-<<#img-docente-rimozione2>>.
+In conclusione, per eliminare il materiale basterà cliccare su "`Elimina`".
+Invece, per modificare il materiale, basterà cliccare su "`Impostazioni`"
+(<<img-docente-rimozione2>>).
 
-[ #img-docente-rimozione2]
+[#img-docente-rimozione2]
 image::images/rimozione_2.png[]
 
 
