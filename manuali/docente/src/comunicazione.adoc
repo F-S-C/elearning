@@ -10,11 +10,11 @@ Nel caso in cui non fosse presente, basta cliccare sul pulsante _Menù_ (cerchio
 .Dashboard corso
 image::images/effettuare_comunicazioni_agli_studenti/1.JPG[]
 
-Apparirà la lista dei partecipanti al corso (<<img-docente-partecipanti>>).
+Apparirà la lista dei partecipanti al corso (<<img-docente-partecipanti-comun>>).
 
 Cliccare sulla _checkbox_ (cerchio rosso).
 
-[#img-docente-partecipanti]
+[#img-docente-partecipanti-comun]
 .Partecipanti corso
 image::images/effettuare_comunicazioni_agli_studenti/2.png[]
 
@@ -34,8 +34,18 @@ Sarà possibile visualizzare le risposte dei singoli partecipanti e, eventualmen
 
 [#img-docente-messaggio-partecipante]
 .Chat con partecipante
-image::images/effettuare_comunicazioni_agli_studenti/3.JPG[]
+image::images/effettuare_comunicazioni_agli_studenti/5.JPG[]
 
 == Partecipare ai forum
+Per ai forum è necessario entrare nella _dashboard_ del corso di cui si è _docente_.
+
+Successivamente, cliccare su "`Annunci`" (<<img-docente-dash-annunci>>).
+
+[#img-docente-dash-annunci]
+.Dashboard corso
+image::images/partecipazioe_ai_forum/1.png[]
+
+
+
 
 == Organizzare dei ricevimenti
