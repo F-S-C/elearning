@@ -1,5 +1,57 @@
 = Gestione della didattica
 
-== Organizzazione esami e test
+== Organizzare esami e test
+Per organizzare un'esame o test è necessario entrare nella _dashboard_ del corso di cui si è _docente_. 
+
+Successivamente, cliccare su "`Aggiungi una attività o risorsa`" in corrispondenza dell'argomento su cui inserire l'esame o test (<<img-docente-dash-corso>>).
+
+[#img-docente-dash-corso]
+.Dashboard corso
+image::images/organizzare_esami_test/1.png[]
+
+Selezionare _Quiz_ nella lista attività e cliccare sul pulsante "`Aggiungi`" (<<img-docente-aggiungi-quiz>>).
+
+[#img-docente-aggiungi-quiz]
+.Aggiungi un quiz
+image::images/organizzare_esami_test/2.JPG[]
+
+Si aprirà la videata (<<img-docente-creazione-quiz>>) con tutti i campi da compilare tra cui:
+
+-  _Nome_ (che è un campo obbligatorio) e _Descrizione_;
+- La sezione _Durata_: nella quale si possono selezionare le date dell'eventuale apertura e chiusura del quiz, il tempo dato a disposizione e la scadenza;
+- La sezione _Valutazione_ in cui è possibile indicare una _Categoria della valutazione_ (utile se sono presenti esami "`standard`"), il punteggio per la sufficienza e i tentativi permessi.
+
+[#img-docente-creazione-quiz]
+.Campi per la creazione di un quiz
+image::images/organizzare_esami_test/3.png[]
+
+Una volta terminata la compilazione di tutti i campi cliccare sul pulsante "`Salva e visualizza`" (<<img-docente-creazione-quiz>>) che mostrerà la schermata del quiz appena creato (<<img-docente-schermata-quiz>>).
+
+[#img-docente-schermata-quiz]
+.Schermata quiz
+image::images/organizzare_esami_test/4.png[]
+
+Nella <<img-docente-schermata-quiz>> cliccare su "`Modifica quiz`". 
+
+Si aprirà la <<img-docente-modifica-quiz>> da cui si potranno aggiungere nuove domande (cerchio rosso) e modificare il titolo delle domande già esistenti (cerchio blu).
+
+[#img-docente-modifica-quiz]
+.Modifica quiz
+image::images/organizzare_esami_test/5.png[]
+
+Cliccando su "`Aggiungi`" e poi su "`una domanda`" (nella <<img-docente-modifica-quiz>>) apparirà la <<img-docente-nuova-domanda-quiz>> dove si dovrà scegliere la tipologia di domanda (ad esempio "`Vero/Falso`").
+
+[#img-docente-nuova-domanda-quiz]
+.Nuova domanda
+image::images/organizzare_esami_test/6.JPG[]
+
+Successivamente, cliccare sul pulsante "`Aggiungi`" (<<img-docente-nuova-domanda-quiz>>) per entrare nella schermata di modifica (<<img-docente-modifica-domanda-quiz>>) dove sarà possibile inserire _Nome_, _Testo_, _Punteggio_ e l'eventuale risposta corretta.
+
+[#img-docente-modifica-domanda-quiz]
+.Inserimento nuova domanda
+image::images/organizzare_esami_test/7.png[]
+
+Per confermare l'inserimento della domanda, cliccare sul pulsante "`Salva modifiche`" per tornare alla schermata <<img-docente-modifica-quiz>> e, eventualmente, inserire altre domande.
+
 
 == Organizzare le consegne
