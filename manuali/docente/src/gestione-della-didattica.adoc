@@ -4,17 +4,17 @@
 Per poter creare un nuovo materiale da inserire all'interno del proprio corso, si deve selezionare il corso di interesse. Dopo che viene visualizzata una pagina simile a <<img-docente-paginacorso>>. 
 [#img-docente-paginacorso]
 .Esempio di pagina del corso "Corso di test"
-image::images/crare_materiale/1.jpg[]
+image::images/creare_materiale/1.jpg[]
 
 Una volta cliccato l'ingranaggio si accede ad un menù a tendina come quello di <<img-docente-menuimpostazioni>>.
 [#img-docente-menuimpostazioni]
 .Menù a tendina
-image::images/crare_materiale/2.jpg[]
+image::images/creare_materiale/2.jpg[]
 
 Andando a cliccare su "`Attiva modifica`" (come in <<img-docente-menuimpostazioni>>), viene mostrato il corso in modalità appunto di modifica (si veda <<img-docente-modificacorso>>). Il passo successivo è quello di cliccare sulla voce "`Aggiungi una attività o una risorsa`" (si veda <<img-docente-modificacorso>>)nell'argomento  nel quale si vuole trovare il materiale che si sta andando a creare.
 [#img-docente-modificacorso]
 .Corso in modifica
-image::images/crare_materiale/3.jpg[]
+image::images/creare_materiale/3.jpg[]
 
 Quello che si visualizza, a questo punto, è un modale nel quale appariranno tutte le tipologie di materiali che possono essere creati utilizzando questa piattaforma.
 Ad esempio, si vuole creare una pagina all'argomento 1.
@@ -22,26 +22,26 @@ Ad esempio, si vuole creare una pagina all'argomento 1.
 All'interno del modale, si sceglie la voce (in questo caso) "`Pagina`" e si clicca su "`Aggiungi`" come in <<img-docente-selezionemateriale>>.
 [#img-docente-selezionemateriale]
 .Selezione della tipologia di materiale da creare
-image::images/crare_materiale/4.jpg[]
+image::images/creare_materiale/4.jpg[]
 
 Quello viene mostrato è mostrato in <<img-docente-impostazionipagina>>, nel quale si può andare a inserire il nome della pagina che si vuole creare, la descrizione (modificabile utilizzando grassenti elenchi, etc.). Aggiungere il contenuto (che può essere del testo personalizzabile, delle immagini, etc. come si può vedere in <<img-docente-impostazionipagina2>>). Oltre a questo, possono essere personalizzati a piacimento del docente la visibilità (ovvero se vuole renderlo vesibili agli studenti o meno subito dopo il salvataggio), l'aspetto, condizioni per accedere a questo materiale creato etc.. 
 [#img-docente-impostazionipagina]
 .Pagina di settaggio delle informazioni del materiale che si sta creando
-image::images/crare_materiale/5.jpg[]
+image::images/creare_materiale/5.jpg[]
 [#img-docente-impostazionipagina2]
 .Pagina di settaggio delle informazioni del materiale che si sta creando
-image::images/crare_materiale/6.jpg[]
+image::images/creare_materiale/6.jpg[]
 [#img-docente-impostazionipagina3]
 .Pagina di settaggio delle informazioni del materiale che si sta creando
-image::images/crare_materiale/7.jpg[]
+image::images/creare_materiale/7.jpg[]
 
 Dopo che si è personalizzato a piacimento, si può scegliere di cliccare su "`Salva e torna al corso`" (con si salvano le impostazioni settate e si torna alla pagina del corso nel quale si è inserito il materiale, si veda <<img-docente-visualizzazionecorso>>) oppure "`Salva e visualizza`" (con il quale viene mostrato come è graficamente il materiale appena creato, in questo caso una pagina, si veda <<img-docente-visualizzazionepagine>>). Inoltre, è possibile cliccare su "`Annulla`" per annullare, appunto, l'operazione che si sta effettuando.
 [#img-docente-visualizzazionecorso]
 .Pagina di visualizzazione corso al fine della creazione del materiale
-image::images/crare_materiale/8.jpg[]
+image::images/creare_materiale/8.jpg[]
 [#img-docente-visualizzazionepagine]
 .Anteprima del materiale prodotto
-image::images/crare_materiale/9.jpg[]
+image::images/creare_materiale/9.jpg[]
 
 == Caricare del materiale precedentemente creato
 
