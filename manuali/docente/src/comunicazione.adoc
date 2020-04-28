@@ -37,7 +37,7 @@ Sarà possibile visualizzare le risposte dei singoli partecipanti e, eventualmen
 image::images/effettuare_comunicazioni_agli_studenti/5.JPG[]
 
 == Partecipare ai forum
-Per ai forum è necessario entrare nella _dashboard_ del corso di cui si è _docente_.
+Per partecipare ai forum è necessario entrare nella _dashboard_ del corso di cui si è _docente_.
 
 Successivamente, cliccare su "`Annunci`" (<<img-docente-dash-annunci>>).
 
@@ -45,7 +45,30 @@ Successivamente, cliccare su "`Annunci`" (<<img-docente-dash-annunci>>).
 .Dashboard corso
 image::images/partecipazioe_ai_forum/1.png[]
 
+Cliccare su "`Aggiungi nuovo argomento`" (<<img-docente-forum-aggiungi-argomento>>).
 
+[#img-docente-forum-aggiungi-argomento]
+.Forum del corso
+image::images/partecipazioe_ai_forum/2.png[]
 
+Si aprirà la videata per aggiungere una nuova discussione. Inserire _Oggetto_, _Messaggio_ e cliccare su "`Invia al forum`" (<<img-docente-forum-aggiungi-argomento-campi>>).
+
+[#img-docente-forum-aggiungi-argomento-campi]
+.Aggiungi discussione
+image::images/partecipazioe_ai_forum/3.png[]
+
+Per rispondere ad una discussione, entrare in una tra quelle presenti qui <<img-docente-forum-aggiungi-argomento>>. 
+
+Cliccare poi su "`Rispondi`" (<<img-docente-forum-rispondi-discussione-1>>).
+
+[#img-docente-forum-rispondi-discussione-1]
+.Rispondi ad una discussione (1)
+image::images/partecipazioe_ai_forum/4.png[]
+
+Inserire la risposta e cliccare su "`Invia`" (<<img-docente-forum-rispondi-discussione-2>>).
+
+[#img-docente-forum-rispondi-discussione-2]
+.Rispondi ad una discussione (2)
+image::images/partecipazioe_ai_forum/5.png[]
 
 == Organizzare dei ricevimenti
