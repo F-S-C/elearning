@@ -1,1 +1,68 @@
 = Comunicazione
+
+== Comunicare con altri membri (studenti o docenti)
+
+La comunicazione con altri utenti o docenti viene effettuata attraverso
+l'apposita icona situata in alto a destra vicino al proprio profilo.
+
+Cliccando su di essa si accederà alla chat e sarà possibile ricercare utenti,
+aggiungerli alla propria lista di contatti e far partire una conversazione.
+
+[#img-studente-chatHome]
+.Sezione Chat nella Home
+image::images/home_chat.jpg[]
+
+Nella relativa barra di ricerca è possibile cercare un utente attraverso il suo
+nome e aggiungerlo ai propri contatti.
+
+[#img-studente-cercaContatto]
+.Sezione Chat Cerca Contatto
+image::images/cerca_alessandro.jpg[]
+
+[#img-studente-aggiungiContatto]
+.Sezione Chat Aggiungi Contatto
+image::images/aggiungi_contatti.jpg[]
+
+È possibile anche utilizzare una chat "`con se stessi`" per scrivere appunti o
+salvarsi delle note da utilizzare in seguito.
+
+[#img-studente-chatPersonale]
+.Sezione Chat Personale
+image::images/chat_personale.jpg[]
+
+== Partecipare ai forum
+
+Per poter partecipare ad un forum è necessario essere iscritti al corso relativo
+a tale forum.
+
+Una volta entrati nela pagina del corso, cliccando sul pulsante "`Annunci`" si
+potrà entrare nella sezione dei forum del corso.
+
+Sarà possibile rispondere a degli argomenti già creati da altri utenti, oppure
+crearne di propri.
+
+Per creare un proprio annuncio basta cliccare sul pulsante "`Aggiungi nuovo
+argomento`" 
+
+[#img-studente-home-annunci]
+.Sezione Annunci
+image::images/home_annuncio.jpg[]
+
+Successivamente, compilare i campi richiesti inserendo un titolo ed una
+descrizione, e premere sul pulsante "`Invia al forum`".
+
+[#img-studente-aggiungi-annuncio]
+.Sezione Annunci Nuovo Annuncio
+image::images/aggiungi_argomento_2.jpg[]
+
+Un messaggio notificherà dell'avvenuta operazione con successo.
+
+[#img-studente-annuncio-inserito]
+.Sezione Annunci Annuncio Inserito
+image::images/aggiungi_argomento_3.jpg[]
+
+== Richiedere dei ricevimenti
+
+Uno studente può utilizzare la chat privata situata nell'icona a forma di
+nuvoletta in alto a destra per richiedere un ricevimento ad un docente: si veda
+la <<_comunicare_con_altri_membri_studenti_o_docenti>>.

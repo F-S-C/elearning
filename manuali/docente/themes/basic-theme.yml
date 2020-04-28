@@ -7,9 +7,6 @@ role:
   blue:
     font-color: 0000ff
 
-page:
-  size: A5
-
 font:
   catalog:
     merge: true

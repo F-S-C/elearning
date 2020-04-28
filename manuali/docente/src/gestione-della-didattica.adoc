@@ -53,7 +53,6 @@ image::images/organizzare_esami_test/7.png[]
 
 Per confermare l'inserimento della domanda, cliccare sul pulsante "`Salva modifiche`" per tornare alla schermata <<img-docente-modifica-quiz>> e, eventualmente, inserire altre domande.
 
-
 == Organizzare le consegne
 Per organizzare una consegna è necessario entrare nella _dashboard_ del corso di cui si è _docente_.
 
@@ -80,3 +79,30 @@ Si aprirà la videata (<<img-docente-creazione-consegna>>) con tutti i campi da 
 image::images/organizzare_esami_test/3.png[]
 
 Cliccare su "`Salva e torna al corso`" per salvare la consegna e tornare alla dashboard (<<img-docente-dash-corso-consegne>>) oppure su "`Salva e visualizza`" per salvare e visualizzare la consegna.
+
+== Modifica o rimozione del materiale precedentemente caricato
+
+Per la rimozione o la modifica del materiale caricato bisogna premere sul
+simbolo dell'ingranaggio. Una volta cliccato, apparirà un menù a tendina
+(<<img-docente-rimozione>>).
+
+[#img-docente-rimozione]
+.Pagina del corso "`Pianoforte avanzato`" (1/3)
+image::images/rimozione_materiale/1.png[]
+
+In questo menù selezionate "`Attiva modifica`". Così facendo potete eliminare o
+modificare qualunque vostro materiale caricato. Più dettagliatamente, bisognerà
+cliccare sul bottone "`Modifica`" posizionato affianco al materiale che si vuole
+modificare o eliminare (<<img-docente-rimozione2>>).
+
+[#img-docente-rimozione2]
+.Pagina del corso "`Pianoforte avanzato`" (2/3)
+image::images/rimozione_materiale/2.png[]
+
+In conclusione, per eliminare il materiale basterà cliccare su "`Elimina`".
+Invece, per modificare il materiale, basterà cliccare su "`Impostazioni`"
+(<<img-docente-rimozione3>>).
+
+[#img-docente-rimozione3]
+.Pagina del corso "`Pianoforte avanzato`" (3/3)
+image::images/rimozione_materiale/3.png[]
