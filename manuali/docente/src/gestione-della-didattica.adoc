@@ -72,7 +72,7 @@ image::images/organizzare_esami_test/2.JPG[]
 Si aprirà la videata (<<img-docente-creazione-consegna>>) con tutti i campi da compilare tra cui:
 
 -  _Titolo del compito_ (che è un campo obbligatorio) e _Descrizione_;
-- La sezione _Disponibilità_: nella quale si possono selezionare le date dell'eventuale apertura, termine e limite per le consegne e la data entro cui valutare le consegne fatte dagli studenti;
+- La sezione _Disponibilità_ nella quale si possono selezionare le date dell'eventuale apertura, termine e limite per le consegne e la data entro cui valutare le consegne fatte dagli studenti;
 - La sezione _Tipi di consegne_ in cui è possibile indicare il tipo della consegna (_File_ o _Testo online_), il numero massimo di file, la dimensione e la tipologia di file accettata.
 
 [#img-docente-creazione-consegna]
