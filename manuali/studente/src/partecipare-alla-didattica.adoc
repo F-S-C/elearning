@@ -11,7 +11,7 @@ conferenza live, basta selezionare dalla pagina del corso il link a tale aula (<
 
 [#img-studente-stanza-live]
 .Link alla stanza del webinar o della conferenza live
-image::images/live.png[]
+image::images/live/live-1.png[]
 
 Successivamente è necessario confermare la propria volontà di partecipare alla
 sessione live, confermando cliccando sul bottone della
@@ -19,7 +19,7 @@ sessione live, confermando cliccando sul bottone della
 
 [#img-studente-conferma-live]
 .Richiesta di conferma per l'apertura della stanza live
-image::images/live-2.png[]
+image::images/live/live-2.png[]
 
 Fatto ciò, si aprirà la pagina della stanza della diretta rappresentata in
 <<img-studente-pagina-live>>, che chiederà conferma sui dispositivi di
@@ -27,10 +27,65 @@ registrazione audio e video da usare per comunicare con i docenti.
 
 [#img-studente-pagina-live]
 .Pagina della stanza della diretta. Qui vanno selezionati i dispositivi di registrazione audio e video da utilizzare.
-image::images/live-3.png[]
+image::images/live/live-3.png[]
 
 == Partecipare a ricevimenti e lezioni in diretta
 
 Il procedimento per partecipare a ricevimenti o lezioni in diretta è identico a
 quello per partecipare a conferenze o webinar live, descritto in dettaglio nella
 <<sect-studente-partecipa-webinar>>.
+
+== Partecipare a un esame, una verifica o un test
+
+=== Partecipare a esami in diretta
+
+Il procedimento per partecipare a esami in diretta è identico a quello per
+partecipare a conferenze o webinar live, descritto in dettaglio nella
+<<sect-studente-partecipa-webinar>>. Per maggiori informazioni, tuttavia, si
+consiglia di contattare il proprio docente in quanto potrebbe organizzare in
+modo diverso l'esame.
+
+=== Partecipare a esami online
+
+Per partecipare a un test, un quiz, una verifica o un esame online, è necessario
+che il docente abbia abilitato la rispettiva sezione. Inoltre, potrebbe essere
+necessario fornire una password di accesso o altri dettagli, per cui va fatto
+riferimento alle note organizzative fornite dal docente.
+
+Per avviare un quiz, è necessario entrare nell'apposita sezione del corso
+utilizzando un link come quello mostrato in <<img-studente-link-quiz>>.
+
+[#img-studente-link-quiz]
+.Link a un quiz o esame
+image::images/quiz/quiz-1.png[]
+
+Nella pagina appena aperta sono poi mostrati vari dettagli del quiz, come limiti
+di tempo e prerequisiti. Dopo aver letto tutte le informazioni che il docente ha
+fornito in questa pagina, per avviare il quiz è necessario fare click sul
+bottone evidenziato in <<img-studente-avvio-quiz>>.
+
+[#img-studente-avvio-quiz]
+.Bottone di avvio del quiz o esame
+image::images/quiz/quiz-2.png[]
+
+Il sistema chiederà quindi conferma della volontà di avviare il quiz: è
+importante notare che alcuni docenti potrebbero imporre alcune limitazioni sulle
+verifiche, come quella di fornire un solo tentativo bloccando la possibilità di
+ripeterle. Se si vuole effettivamente avviare il quiz, basterà confermare la
+propria decisione utilizzando il bottone evidenziato in
+<<img-studente-conferma-quiz>>.
+
+[#img-studente-conferma-quiz]
+.Richiesta di conferma di avvio del quiz o esame
+image::images/quiz/quiz-3.png[]
+
+A questo punto, il quiz è avviato.
+
+Una volta risposte a tutte le domande, è necessario confermare la terminazione
+della verifica, sottoponendola alla correzione (automatica o non). Per farlo,
+basterà cliccare sul bottone evidenziato in <<img-studente-completamento-quiz>>,
+visibile alla fine delle domande.
+
+[#img-studente-completamento-quiz]
+.Completamento del quiz o esame
+image::images/quiz/quiz-4.png[]
