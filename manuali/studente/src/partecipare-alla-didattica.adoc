@@ -1,5 +1,6 @@
 = Partecipare alla didattica
 
+[#sect-studente-partecipa-webinar]
 == Partecipare a webinar e conferenze live
 
 Per partecipare a un webinar o una conferenza live, è necessario che il docente
@@ -27,3 +28,9 @@ registrazione audio e video da usare per comunicare con i docenti.
 [#img-studente-pagina-live]
 .Pagina della stanza della diretta. Qui vanno selezionati i dispositivi di registrazione audio e video da utilizzare.
 image::images/live-3.png[]
+
+== Partecipare a ricevimenti e lezioni in diretta
+
+Il procedimento per partecipare a ricevimenti o lezioni in diretta è identico a
+quello per partecipare a conferenze o webinar live, descritto in dettaglio nella
+<<sect-studente-partecipa-webinar>>.
