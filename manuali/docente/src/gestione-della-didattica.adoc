@@ -3,9 +3,9 @@
 == Organizzare esami e test
 Per organizzare un'esame o test è necessario entrare nella _dashboard_ del corso di cui si è _docente_. 
 
-Successivamente, cliccare su "`Aggiungi una attività o risorsa`" in corrispondenza dell'argomento su cui inserire l'esame o test (<<img-docente-dash-corso>>).
+Successivamente, cliccare su "`Aggiungi una attività o risorsa`" in corrispondenza dell'argomento in cui inserire l'esame o test (<<img-docente-dash-corso-esamitest>>).
 
-[#img-docente-dash-corso]
+[#img-docente-dash-corso-esamitest]
 .Dashboard corso
 image::images/organizzare_esami_test/1.png[]
 
@@ -55,3 +55,28 @@ Per confermare l'inserimento della domanda, cliccare sul pulsante "`Salva modifi
 
 
 == Organizzare le consegne
+Per organizzare una consegna è necessario entrare nella _dashboard_ del corso di cui si è _docente_.
+
+Successivamente, cliccare su "`Aggiungi una attività o risorsa`" in corrispondenza dell'argomento in cui inserire la consegna (<<img-docente-dash-corso-consegne>>).
+
+[#img-docente-dash-corso-consegne]
+.Dashboard corso
+image::images/organizzare_le_consegne/1.JPG[]
+
+Selezionare _Compito_ nella lista attività e cliccare sul pulsante "`Aggiungi`" (<<img-docente-aggiungi-quiz>>).
+
+[#img-docente-aggiungi-consegna]
+.Aggiungi una consegna
+image::images/organizzare_esami_test/2.JPG[]
+
+Si aprirà la videata (<<img-docente-creazione-consegna>>) con tutti i campi da compilare tra cui:
+
+-  _Titolo del compito_ (che è un campo obbligatorio) e _Descrizione_;
+- La sezione _Disponibilità_: nella quale si possono selezionare le date dell'eventuale apertura, termine e limite per le consegne e la data entro cui valutare le consegne fatte dagli studenti;
+- La sezione _Tipi di consegne_ in cui è possibile indicare il tipo della consegna (_File_ o _Testo online_), il numero massimo di file, la dimensione e la tipologia di file accettata.
+
+[#img-docente-creazione-consegna]
+.Campi per la creazione della consegna
+image::images/organizzare_esami_test/3.png[]
+
+Cliccare su "`Salva e torna al corso`" per salvare la consegna e tornare alla dashboard (<<img-docente-dash-corso-consegne>>) oppure su "`Salva e visualizza`" per salvare e visualizzare la consegna.
