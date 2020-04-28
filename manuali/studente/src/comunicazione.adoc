@@ -64,6 +64,5 @@ image::images/aggiungi_argomento_3.jpg[]
 == Richiedere dei ricevimenti
 
 Uno studente può utilizzare la chat privata situata nell'icona a forma di
-nuvoletta in alto a destra per richiedere un ricevimento ad un docente.
-
-Si veda la <<_comunicare_con_altri_membri_studenti_o_docenti>>.
+nuvoletta in alto a destra per richiedere un ricevimento ad un docente: si veda
+la <<_comunicare_con_altri_membri_studenti_o_docenti>>.
