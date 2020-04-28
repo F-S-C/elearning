@@ -18,8 +18,8 @@ iscrizione spontanea.
 In tal caso, basterà inserirla e premere sul pulsante "`Iscrivimi`" per accedere
 al corso.
 
-[#img-studente-home]
-.Sezione Home Corsi
+[#img-studente-corso-chiuso]
+.Sezione corso con corso chiuso
 image::images/corso_chiuso.jpg[]
 
 Nel caso in cui il corso sia ad iscrizione libera, non sarà richiesta alcuna

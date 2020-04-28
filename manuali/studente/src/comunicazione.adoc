@@ -46,7 +46,7 @@ argomento`"
 
 [#img-studente-home-annunci]
 .Sezione Annunci
-image::images/home annuncio.jpg[]
+image::images/home_annuncio.jpg[]
 
 Successivamente, compilare i campi richiesti inserendo un titolo ed una
 descrizione, e premere sul pulsante "`Invia al forum`".
@@ -61,10 +61,9 @@ Un messaggio notificherà dell'avvenuta operazione con successo.
 .Sezione Annunci Annuncio Inserito
 image::images/aggiungi_argomento_3.jpg[]
 
-
-
 == Richiedere dei ricevimenti
 
-Uno studente può utilizzare la chat privata situata nell'icona a forma di nuvoletta in alto a destra per richiedere un ricevimento ad un docente.
+Uno studente può utilizzare la chat privata situata nell'icona a forma di
+nuvoletta in alto a destra per richiedere un ricevimento ad un docente.
 
-Si veda la sezione _comunicare_con_altri_membri_(studenti_o_docenti)_ .
+Si veda la <<_comunicare_con_altri_membri_studenti_o_docenti>>.
