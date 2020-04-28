@@ -1,1 +1,29 @@
 = Partecipare alla didattica
+
+== Partecipare a webinar e conferenze live
+
+Per partecipare a un webinar o una conferenza live, è necessario che il docente
+del corso abbia predisposto un'aula.
+
+Per entrare in una stanza in cui è prevista (o è in corso) un webinar o una
+conferenza live, basta selezionare dalla pagina del corso il link a tale aula (<<img-studente-stanza-live>>).
+
+[#img-studente-stanza-live]
+.Link alla stanza del webinar o della conferenza live
+image::images/live.png[]
+
+Successivamente è necessario confermare la propria volontà di partecipare alla
+sessione live, confermando cliccando sul bottone della
+<<img-studente-conferma-live>>.
+
+[#img-studente-conferma-live]
+.Richiesta di conferma per l'apertura della stanza live
+image::images/live-2.png[]
+
+Fatto ciò, si aprirà la pagina della stanza della diretta rappresentata in
+<<img-studente-pagina-live>>, che chiederà conferma sui dispositivi di
+registrazione audio e video da usare per comunicare con i docenti.
+
+[#img-studente-pagina-live]
+.Pagina della stanza della diretta. Qui vanno selezionati i dispositivi di registrazione audio e video da utilizzare.
+image::images/live-3.png[]
