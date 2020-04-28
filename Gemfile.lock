@@ -5,7 +5,7 @@ GEM
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
     afm (0.2.2)
-    asciidoc_publishing_toolbox (0.1.14.alpha)
+    asciidoc_publishing_toolbox (0.1.15.alpha)
       asciidoctor (~> 2.0, >= 2.0.10)
       asciidoctor-pdf (~> 1.5, >= 1.5.3)
       i18n (~> 1.8, >= 1.8.1)

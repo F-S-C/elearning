@@ -4,6 +4,7 @@ require "asciidoctor-pdf"
 require "asciidoc_publishing_toolbox"
 require "yaml"
 require "net/http"
+require "fileutils"
 
 def build_asciidoc(source, opts = {})
   authors = Hash.new
@@ -43,13 +44,24 @@ def build_phase(phase_name, input, output)
   puts "\r✓ Builded '#{phase_name}'   "
 end
 
-task :default => %w(features ambiente main)
+task :default => %w(features ambiente manuali main)
 
 task :main do
   print "Building main document..."
   $stdout.flush
   AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname
   puts "\r✓ Builded main document   "
+end
+
+task :manuali do
+  print "Building manuali..."
+  $stdout.flush
+  AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname + 'manuali/studente'
+  AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname + 'manuali/docente'
+  FileUtils.mkdir_p Pathname.new(__FILE__).dirname + 'docs/manuali/'
+  FileUtils.mv Dir.glob(Pathname.new(__FILE__).dirname + 'manuali/studente/out/*'), Pathname.new(__FILE__).dirname + 'docs/manuali', force: true
+  FileUtils.mv Dir.glob(Pathname.new(__FILE__).dirname + 'manuali/docente/out/*'), Pathname.new(__FILE__).dirname + 'docs/manuali', force: true
+  puts "\r✓ Builded manuali   "
 end
 
 task :features do
