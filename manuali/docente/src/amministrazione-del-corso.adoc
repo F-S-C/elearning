@@ -5,7 +5,7 @@
 Monitorare i propri studenti è utile per vedere se hanno completato il corso, per controllare se hanno superato le prove e via dicendo.
 Di seguito, viene mostrato un'esempio per controllare se gli studenti di un corso lo hanno completato.
 
-Partendo dalla pagina del corso, per il quale si vogliono monitorare gli studenti, si seleziona l'icona dell'ingranaggio e si seleziona la voce "`Altro`" (si veda <<img-docente-impostazionialtro>>)
+Partendo dalla pagina del corso, per il quale si vogliono monitorare gli studenti, si seleziona l'icona dell'ingranaggio e si clicca sulla voce "`Altro`" (si veda <<img-docente-impostazionialtro>>)
 [#img-docente-impostazionialtro]
 .Selezionare la voce "`Altro`"
 image::images/monitora_studenti/1.jpg[]
@@ -15,7 +15,7 @@ A questo punto, vengono visualizzate le impostazioni dell'amministrazione del co
 .Selezionare la voce "`Completamento attività`"
 image::images/monitora_studenti/2.jpg[]
 
-Dopo questa operazione, si visualizzeranno la situazione di ogni studente riguardante il corso e gli argomenti presenti in esso (si veda <<img-docente-visualizzazionereport>>).
+Dopo questa operazione, si visualizza la situazione di ogni studente riguardante il corso e gli argomenti presenti in esso (si veda <<img-docente-visualizzazionereport>>).
 [#img-docente-visualizzazionereport]
 .Visualizzazione dello stato degli studenti riguardanti un corso
 image::images/monitora_studenti/1.jpg[]
