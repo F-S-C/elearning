@@ -1,0 +1,36 @@
+[preface]
+= Prefazione
+
+== La struttura del documento
+
+Questo documento è il manuale d'uso del sistema di e-learning per {user-type}.
+
+Il manuale è suddiviso in _task_ (le sezioni di questo documento), ovverosia dei
+compiti tipici che potrebbero essere completati utilizzando il sistema. Ogni
+task è associato a sua volta a una guida passo passo per il suo completamento.
+
+I vari task sono poi raccolti nei _capitoli_ di questo documento, che li
+raggruppano per aree di interesse.
+
+== Richieste di supporto
+
+Il manuale è scritto e manutenuto dal team "`FSC -- Five Students of Computer
+Science`", composto dagli studenti elencati in <<tab-manutentori-sistema>>. Per
+eventuali richieste di supporto, è possibile inviare una email all'indirizzo
+riportato.
+
+:hide-uri-scheme:
+
+[#tab-manutentori-sistema]
+.I manutentori del sistema e del presente manuale
+[cols=".^20,.^20,>.^60",options="header"]
+|===
+| Nome | Cognome | E-Mail
+| {firstname} | {lastname} | {email}
+| {firstname_2} | {lastname_2} | {email_2}
+| {firstname_3} | {lastname_3} | {email_3}
+| {firstname_4} | {lastname_4} | {email_4}
+| {firstname_5} | {lastname_5} | {email_5}
+|===
+
+:!hide-uri-scheme:

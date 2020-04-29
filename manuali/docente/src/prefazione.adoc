@@ -1,1 +1,3 @@
-= Prefazione
+:user-type: i docenti
+
+include::../../prefazione.adoc[]
