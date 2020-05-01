@@ -5,18 +5,30 @@
 === Analisi dei bisogni
 
 Il committente è un'accademia musicale ("`X`"). Il sistema deve essere una piattaforma di e-learning per tale accademia.
+L'accademia ("`X`") richiede una strutturazione della piattaforma semplice, in modo tale da ridurre al minimo l'apprendimento dell'ambiente che si vuole creare. È stato richiesto di avere un unico corso per singolo strumento, nel quale è possibile poi aggiungere gruppi diversi che riguardano comunque sia lo stesso strumento. Per questo una necessità potrebbe essere che ci sia la suddivisione per età tra gli studenti in modo da non rendere difficile l'apprendimento. 
 
-NB: I corsi sono come in Udemy: pacchetti aggiornati dai docenti (vi è un'unico corso di chitarra).
-
-[faq]
-Quali sono le esigenze che motivano l’attività della comunità sia a livello di singoli individui sia a livello dell’organizzazione alla quale la CdP farà riferimento?::  L'accademia musicale "`X`" vuole creare un sistema di e-learning per i propri studenti. I bisogni evidenziati sono vari:
-* L'organizzazione sente la necessità di far proseguire le lezioni (e gli studenti sentono la necessità di usufruirne) in un periodo di emergenza internazionale, in modo da limitare l'impatto sul piano economico. 
+L'accademia ha espresso la necessità di creare un ambiente per i suoi studenti che fosse di supporto, sostegno e anche di sostituzione (nel caso in cui ci posso essere delle epidemie e pandemie, come la situazione attuale) ai suoi corsi tenutosi nella struttura della scuola. I bisogni evidenziati sono vari:
+* L'organizzazione sente la necessità di far proseguire le lezioni (e gli studenti sentono la necessità di usufruirne) in un periodo di emergenza internazionale, in modo da limitare l'impatto sul piano economico e impedire gravi situazioni di contagio. 
 * Si vuole permettere agli studenti lavoratori (o in altro modo impossibilitati alla frequenza fisica dei corsi) di coltivare le proprie passioni e migliorare costantemente le proprie abilità.
 * Si vuole permettere di adattare il processo di apprendimento alle proprie caratteristiche e modalità di apprendimento.
+* Si vuole permettere di approfondire argomenti che non sono stati trattati durante le lezioni frontali riguardanti, ad esempio, la teoria musicale.
+* Attraverso questo ambiente, si vuole permettere di erogare contenuti didattici in modo rapido, raggiungendo tutti i partecipanti di un ipotetico corso con una sola azione.
 
-Qual è il contesto nel quale la comunità si troverà ad operare?:: Il contesto è quello di un'accademia musicale. Tutti gli studenti sono consapevoli del percorso di studi intrapreso e della quantità di impegno necessaria. Inoltre, deve essere garantita un'ufficialità del percorso.
+ Il contesto è, appunto, quello di un'accademia musicale che vuole sostenere e supportare i suoi studenti in modo da poterli arricchire con qualsiasi mezzo comunicativo a disposizione. 
+ Ovviamente, tutti gli studenti sono consapevoli del percorso di studi intrapreso e della quantità di impegno necessaria. Inoltre, deve essere garantita un'ufficialità del percorso di studi.
 
-Quali sono gli obiettivi che la comunità si propone di conseguire?:: Gli obiettivi principali riguardano la possibilità di studiare a prescindere dalla disponibilità temporale e dalla locazione geografica. Gli obiettivi precisi sono poi vari in base allo specifico corso. I corsi possono però essere divisi in due macrocategorie: teorici (teoria musicale) e pratici (imparare uno strumento musicale).
+Gli obiettivi principali che la comunità si propone di conseguire riguardano: la possibilità di studiare a prescindere dalla disponibilità temporale e dalla locazione geografica. Gli obiettivi precisi sono poi vari in base allo specifico corso. I corsi possono però essere divisi in due macrocategorie: teorici (teoria musicale) e pratici (imparare uno strumento musicale).
+Gli obiettivi principali per un corso teorico riguardano:
+* L'erogazione dei contenuti legati all'aspetto teorico musicale.
+* L'apprendimento dei concetti base e fondamentali per il coseguimento di qualsiasi altro percorso pratico e/o teorico.
+* L'apprendimento dei concetti di teoria avanzata.
+* L'approfondimento di argomenti aggiuntivi per lo studente che ritiene egli stesso interessante e stimolante per la sua conoscenza.
+* Il ripasso di argomenti che con il tempo lo studente che ritiene di non ricordare alla perfezione dimenticando, ad esempio, la terminologia, un concetto base, come eseguire un esercizio eccetera (oppure può essere lo stesso docente a indicare allo studente quali argomenti è necessario che ripassi).
+
+Gli obiettivi principali per un corso pratico, invece, riguardano:
+* L'insegnamento di tecniche basilari per il primo approccio allo strumento da parte dell'allivo.
+* L'insegnamento di tecniche specifiche di esecuzione di un determinato virtuosismo (ad esempio il _tapping_ è una tecnica per la chitarra).
+* L'erogazione di contenuti (che possono essere descrizioni testuali video, oppure spartiti) riguardanti le tecniche e/o l'esecuzione dei brani che il docente vuole insegnare ai suoi studenti. In questo modo il docente potrà mostrare ai suoi studenti tutte le varie caratteristiche del brano proposto.
 
 === Caratterizzazione della comunità
 
