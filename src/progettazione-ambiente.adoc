@@ -72,15 +72,22 @@ Predisporre moduli e percorsi di autoformazione affinché i nuovi membri della c
 
 === Definizione della struttura organizzativa
 
-Soggetto promotore:: L'accademia musicale "`X`"
+Viene fornita di seguito la definizione della struttura organizzativa che consiste nell'individuale i ruoli, compiti e responsabilità che dovranno assumersi.
 
-Community manager:: Personale di segreteria
+Soggetto promotore:: L'accademia musicale "`X`" è il soggetto promotore, la quale si è rivolta al team FSC per poter creare l'ambiente che la comunità di pratica andrà ad utilizzare. Ad essa spetta l'organizzazione dei momenti di socializzazione, la facilitazione delle attività e delle relazioni tra i membri della comunità e la promozione dell'immagine della stessa.
+Essi comunicano con tutti i membri della comunità di pratica per cogliere tutti i bisogni che devono essere soddisfatti, in modo da essere sempre aggiornati e al passo con le nuove necessità sorgenti.
 
-Content manager:: I docenti interni all'accademia
+Community manager:: Personale di segreteria si occupa della creazione dei corsi e dell'assegnazione ai relativi docenti. È responsabile del funzionamento dell'ambiente per quanto riguarda, anche, la fruizione dei certificati agli studenti che hanno conseguito con successo i corsi al quale sono iscritti. 
+Essi comunicano con i docenti per poter assegnarli ai corsi dei quali sono responsabili, per conoscere a quali studenti fare il certificato di superamento corso. Comunicano con gli studenti per poter consegnare questi certificati.
 
-Esperto:: Altri docenti (interni o esterni) o ospiti
+Content manager:: I docenti interni all'accademia provvedono alla generazione di contenuti, alla loro fruizione, alla selezione e diffusione di artefatti aggiuntivi utili ai membri della comunità e al loro imagazzinamento. Inoltre, sono i docenti a creare i test che gli allievi sono sottoposti mediante la piattaforma.
+Essi comunicano con gli studenti per poter effettuare le lezioni, fornirgli gli strumenti necessari per lo studio, per poter effettuare delle video conferenze, test e così via.
 
-System Administrator:: Il team FSC
+Esperto:: Altri docenti (interni o esterni) o ospiti. Sono figure importanti soprattutto per arricchire il bagaglio musicale di ogni singolo studente. L'esperto è colui specializzato (certificato che non) in un determinato settore in grado di approfondire determinati argomenti. Sono figure che sono chiamate a presenziare per workshop, masterclass, e così via.
+Essi comunicano si con i docenti del corso di riferimento per l'organizzazione delle masterclass, workshop e altro, e sia con gli studenti con i quali effettuare questi seminari e trasmettergli la loro conoscenza.
+
+System Administrator:: Il team FSC si occupa delle questioni di carattere tecnico e della gestione della piattaforma tecnologica attraverlo la quale interagiscono i membri della comunità.
+Il team comunica con l'accademia che ha richiesto la realizzazione della piattaforma per motivi tecnici e altro relativi alla stessa.
 
 === Avvio della comunità
 
