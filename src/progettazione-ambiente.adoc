@@ -90,6 +90,7 @@ System Administrator:: Il team FSC si occupa delle questioni di carattere tecnic
 Il team comunica con l'accademia che ha richiesto la realizzazione della piattaforma per motivi tecnici e altro relativi alla stessa.
 
 === Avvio della comunità
+Di seguito viene fornito l'avvio della comunità che consiste nella definizio di azioni e di strategie che dovranno essere messe in atto nel momento in cui la comunità prenderà vita.
 
 Dimensionamento della comunità:: La comunità non ha limiti prestabiliti nella sua dimensione, tuttavia si lascia la libertà al docente di organizzare le proprie lezioni nei modi più consoni e con limiti di utenti a piacere (eventualmente dividendo tutti i participanti in più "`gruppi`", pur restando un unico corso).
 
