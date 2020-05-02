@@ -12,6 +12,8 @@ GEM
       json_schemer (~> 0.2, >= 0.2.10)
       nokogiri (~> 1.10)
     asciidoctor (2.0.10)
+    asciidoctor-diagram (2.0.2)
+      asciidoctor (>= 1.5.7, < 3.x)
     asciidoctor-pdf (1.5.3)
       asciidoctor (>= 1.5.3, < 3.0.0)
       concurrent-ruby (~> 1.1.0)
@@ -81,6 +83,7 @@ PLATFORMS
 
 DEPENDENCIES
   asciidoc_publishing_toolbox (>= 0.1.13.alpha)
+  asciidoctor-diagram (~> 2.0)
   rake (~> 13.0)
 
 BUNDLED WITH

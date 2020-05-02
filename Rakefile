@@ -1,5 +1,6 @@
 require "pathname"
 require "asciidoctor"
+require "asciidoctor-diagram"
 require "asciidoctor-pdf"
 require "asciidoc_publishing_toolbox"
 require "yaml"
