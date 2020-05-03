@@ -178,69 +178,122 @@ blockdiag {
 }
 ....
 
-// Definire le procedure per la codifica delle conoscenze che emergono nel corso delle interazioni tra i membri della CdP.:: __ANS__
-// Creare una libreria di oggetti cognitivi utilizzando i documenti raccolti nella fase preliminare della progettazione.:: __ANS__
-// Predisporre moduli e percorsi di autoformazione affinché i nuovi membri della comunità possano rapidamente allineare le proprie conoscenze con quelle degli altri utenti.:: __ANS__
-
 === Definizione della struttura organizzativa
 
-Viene fornita di seguito la definizione della struttura organizzativa che consiste nell'individuale i ruoli, compiti e responsabilità che dovranno assumersi.
+Viene fornita di seguito la definizione della struttura organizzativa, in cui si
+identificano i ruoli, associati ai compiti e alle reponsabilità che dovranno
+assumersi.
 
-Soggetto promotore:: L'accademia musicale "`X`" è il soggetto promotore, la quale si è rivolta al team FSC per poter creare l'ambiente che la comunità di pratica andrà ad utilizzare. Ad essa spetta l'organizzazione dei momenti di socializzazione, la facilitazione delle attività e delle relazioni tra i membri della comunità e la promozione dell'immagine della stessa.
-Essi comunicano con tutti i membri della comunità di pratica per cogliere tutti i bisogni che devono essere soddisfatti, in modo da essere sempre aggiornati e al passo con le nuove necessità sorgenti.
+Soggetto promotore:: L'accademia musicale è il soggetto promotore, la quale si è
+rivolta al team FSC per poter creare l'ambiente che la comunità di pratica andrà
+a utilizzare. A essa spetta l'organizzazione dei momenti di socializzazione, la
+facilitazione delle attività e delle relazioni tra i membri della comunità e la
+promozione dell'immagine della piattaforma. Essi comunicano con tutti i membri
+della comunità di pratica per cogliere tutti i bisogni che devono essere
+soddisfatti, in modo da essere sempre aggiornati e al passo con le nuove
+necessità sorgenti.
 
-Community manager:: Personale di segreteria si occupa della creazione dei corsi e dell'assegnazione ai relativi docenti. È responsabile del funzionamento dell'ambiente per quanto riguarda, anche, la fruizione dei certificati agli studenti che hanno conseguito con successo i corsi al quale sono iscritti. 
-Essi comunicano con i docenti per poter assegnarli ai corsi dei quali sono responsabili, per conoscere a quali studenti fare il certificato di superamento corso. Comunicano con gli studenti per poter consegnare questi certificati.
+Community manager:: Il personale di segreteria si occuperà della creazione dei
+corsi e della loro assegnazione ai relativi docenti. È anche responsabile del
+funzionamento dell'ambiente per quanto riguarda il rilascio dei certificati agli
+studenti che hanno completato con successo i corsi ai quali sono iscritti. 
 
-Content manager:: I docenti interni all'accademia provvedono alla generazione di contenuti, alla loro fruizione, alla selezione e diffusione di artefatti aggiuntivi utili ai membri della comunità e al loro imagazzinamento. Inoltre, sono i docenti a creare i test che gli allievi sono sottoposti mediante la piattaforma.
-Essi comunicano con gli studenti per poter effettuare le lezioni, fornirgli gli strumenti necessari per lo studio, per poter effettuare delle video conferenze, test e così via.
+Content manager:: I docenti interni all'accademia provvedono alla generazione di
+contenuti, alla verifica della loro fruibilità, alla selezione e diffusione di
+materiali aggiuntivi utili ai membri della comunità e al loro immagazzinamento.
+Inoltre, sono i docenti a creare i test che gli allievi sono sottoposti mediante
+la piattaforma. Essi comunicano con gli studenti per poter effettuare le
+lezioni, fornirgli gli strumenti necessari per lo studio, per poter effettuare
+delle video conferenze, dei test e così via.
 
-Esperto:: Altri docenti (interni o esterni) o ospiti. Sono figure importanti soprattutto per arricchire il bagaglio musicale di ogni singolo studente. L'esperto è colui specializzato (certificato che non) in un determinato settore in grado di approfondire determinati argomenti. Sono figure che sono chiamate a presenziare per workshop, masterclass, e così via.
-Essi comunicano si con i docenti del corso di riferimento per l'organizzazione delle masterclass, workshop e altro, e sia con gli studenti con i quali effettuare questi seminari e trasmettergli la loro conoscenza.
+Esperto:: Altri docenti (interni o esterni) o ospiti sono figure importanti
+soprattutto per arricchire il bagaglio musicale di ogni singolo studente.
+L'esperto è colui specializzato in un determinato settore in grado di
+approfondire determinati argomenti. Sono figure che sono chiamate a presenziare
+per workshop, masterclass, e così via. Essi comunicano sia con i docenti del
+corso di riferimento per l'organizzazione, sia con gli studenti con i quali
+effettuare questi seminari e trasmettere loro conoscenza. Eventuali inviti, sono
+gestiti dalla segreteria dell'accademia, sotto richiesta dei docenti.
 
-System Administrator:: Il team FSC si occupa delle questioni di carattere tecnico e della gestione della piattaforma tecnologica attraverlo la quale interagiscono i membri della comunità.
-Il team comunica con l'accademia che ha richiesto la realizzazione della piattaforma per motivi tecnici e altro relativi alla stessa.
+System Administrator:: Il team FSC si occupa delle questioni di carattere
+tecnico e della gestione della piattaforma tecnologica attraverso cui
+interagiscono i membri della comunità. Il team ha il compito di comunicare con
+l'accademia che ha richiesto la realizzazione della piattaforma per motivi
+tecnici e gestionali.
 
 === Avvio della comunità
-Di seguito viene fornito l'avvio della comunità che consiste nella definizio di azioni e di strategie che dovranno essere messe in atto nel momento in cui la comunità prenderà vita.
 
-Dimensionamento della comunità:: La comunità non ha limiti prestabiliti nella sua dimensione, tuttavia si lascia la libertà al docente di organizzare le proprie lezioni nei modi più consoni e con limiti di utenti a piacere (eventualmente dividendo tutti i participanti in più "`gruppi`", pur restando un unico corso).
+In riferimento alla comunità della piattaforma, non vi sono limiti prestabiliti
+nella sua dimensione. Tuttavia, per garantire la qualità di insegnamento
+migliore, i docenti sono liberi di organizzare i propri corsi e le proprie
+lezioni nei modi più consoni, per esempio riducendo il numero di partecipanti in
+contemporanea suddividendo il corso in "`gruppi`".
 
-Definizione di una guida per i partecipanti:: __Si fornisce il manuale utente del sistema, nonché delle note dei docenti all'interno del corso.__
+Per garantire una fruizione senza attrito della piattaforma, il team si impegna
+a fornire dei manuali utente sia ai docenti che agli studenti, in modo da
+permettere di imparare da subito le basi del funzionamento della piattaforma.
 
-Assegnazione dei ruoli chiave e formazione:: I docenti sono gli insegnanti già appartenenti all'accademia, e sono automaticamente iscritti (e aggiornati) dalla segreteria. Eventuali iscrizioni al sistema, sono da considerarsi "`studenti`".
-
-Meeting iniziale e consolidamento del gruppo:: _Riunione del 25 aprile 2020 dalle 16:00?_
+La comunità è basata sulla platea attualmente esistente: i docenti sono gli
+insegnanti già appartenenti all'academia (la loro iscrizione e gestione è
+lasciata alla segreteria). Inoltre, tutti gli attuali studenti dell'academia
+faranno automaticamente parte della nuova comunità, che può estendersi mediante
+nuove iscrizioni (che avvengono come "`studenti`").
 
 === Gestione
 
-[faq]
-Come controllare l’adozione degli strumenti tecnologici più adatti alle esigenze di comunicazione e collaborazione online?:: Il gruppo di system administration ha la responsabilità di mantenere sempre aggiornato e sicuro il sistema.
+Al fine di controllare l'adozione degli strumenti tecnolofici più adatti alla
+comunicazione e alla collaborazione online, il team FSC si impegna a effettuare
+le scelte migliori e a mantenere sempre aggiornato l'ambiente di lavoro della
+piattaforma. In questo modo, saranno anche ridotti al minimo il rischio di
+problemi tecnici legati all'uso della rete, che saranno comunque gestiti dal
+team di _system administration_.
 
-Come anticipare e prevenire problemi tecnici legati all’uso della rete?:: V. risposta precedente.
+Per rendere il sistema il più accogliente possibile, in modo da far sentire i
+nuovi partecipanti i benvenuti, si mostreranno messaggi di benvenuto sia durante
+la registrazione al sistema che durante la registrazione ai corsi (eventualmente
+anche con messaggi via mail). Per mantenere alto questo senso di accoglienza e
+permettere agli utenti di orientarsi il più facilmente possibile nel sistema, si
+mostreranno i corsi e la loro suddivisione in categorie sin dalla home page
+della piattaforma, oltre ad utilizzare titoli e paragrafi che permettano sempre
+all'utente di individuare la pagina in cui si trova.
 
-Come curare l’accoglienza facendo in modo che i partecipanti si sentano i benvenuti?:: Durante le fasi di registrazione al sistema e ai corsi, si mostreranno messaggi di benvenuto/bentornato.
+Affinché gli utenti si sentano effettivamente parte della comunità, saranno
+messi a disposizione forum e metodi di messaggistica (chat e caffè virtuali).
+Inoltre, sarà data la possibilità agli utenti di personalizzare la propria
+pagina personale e i propri profili e le aree di comunicazione saranno
+nidificate, al fine di far sentire gli utenti parte di un gruppo ristretto e
+sentirsi sempre coinvolti. Inoltre, queste strategie, unitamente ai sistemi di
+comunicazione in broadcast e alle videoconferenze VoIP (sincrone), consentono di
+mantenere sempre viva e interessante l'interazione fra i membri della comunità.
 
-Come curare il processo di orientamento?:: Mediante una suddivisione in categorie visibile nella home page
-
-Come sviluppare il senso di appartenenza alla comunità?:: _Attraverso forum, metodi di messaggistica e attraverso dirette condivise per sperimentare le conoscenze acquisite._ Gestione dei profili personali, (facilitazione delle comunicazioni), utilizzare meccanismi di personalizzazione della propria pagina personale, nidificare le aree di discussione (discussione corso, discussione gruppo).
-
-Come fare in modo che ciascuno si senta coinvolto?:: _V. sopra_
-
-Come prevenire eventuali situazioni critiche?:: Sistemi di FAQ, _Attraverso un sistema di gestione di segnalazioni alla segreteria_, pubblicazione di una guida passo-passo
-
-Come alimentare e mantenere interessante l’interazione tra i membri della comunità?:: _Attraverso forum, messaggistica e videolezioni._ Chat, con possibiilità di caffè virtuali, sistemi di comunicazione broadcast, videoconferenza VoIP [sincrona], forum,
+Eventuali situazioni critiche (di tipo tecnico, personale o di gruppo) saranno
+gestite mediante sistemi di FAQ (__Frequently Asked Questions__) e la
+pubblicazione di una guida passo-passo (di cui si è già parlato nella
+<<_avvio_della_comunità>>). Eventuali problematiche e criticità non risolte
+utilizzando le precedenti tecniche, saranno gestite mediante un sistema di invio
+di segnalazioni alla segreteria.
 
 === Monitoraggio e valutazione
 
-[faq]
-Quali indicatori prendere in esame? Il numero di messaggi scambiati? di documenti prodotti?:: Numero di post attivi e commenti sui form, numero di documenti prodotti, rapporto fra numero di iscritti ai corsi e iscritti alla piattaforma.
+Per monitorare e valutare la qualità della vita della comunità possono essere
+presi in esame diversi fattori, fra cui il numero di post attivi e di commenti
+sui forum, il numero di documenti prodotti e il rapporto fra il numero di
+iscritti ai corsi e il numero di studenti che portano a compimento gli studi.
+Inoltre, è possibile sottoporre questionari di gradimento agli studenti per
+valutare la qualità degli insegnamenti (per esempio, al termine degli stessi).
 
-Qual è il grado di usabilità dell’ambiente online?:: Il sistema deve essere utilizzabile dalla maggior parte degli utenti. Deve, per quanto possibile e compatibile con la documentazione a disposizione dei docenti, essere garantito un alto grado di accessibilità delle risorse.
+Il sistema deve garantire un alto grado di usabilità, in modo da essere
+facilmente utilizzabile dalla maggior parte degli utenti. Inoltre, per quanto
+possibile e compatibilmente alla documentazione a disposizione dei docenti, deve
+essere garantito un alto grado di accessibilità delle risorse al fine di
+includere anche studenti con diverse tipologie di disabilità.
 
-È utile sottoporre periodicamente agli utenti dei questionari di gradimento?:: Sì, al termine di "`periodi`" di insegnamento (per esempio, semestri) e al termine dei corsi stessi.
-
-Quali scadenze dare all’attività di valutazione?:: La definizione delle scadenze delle attività di valutazione è lasciata al docente. In generale, si considera un tempo di 6 mesi dall'iscrizione.
+Infine, per quanto concerne l'attività didattica, non è possibile prevedere a
+priori delle scadenze per le attività di valutazione. Tali definizioni sono
+lasciate in primis alla segreteria e in secundis ai docenti (anche se in
+generale si può assumere un tempo di circa 6 mesi dall'iscrizione dello
+studente). La scelta delle metodologie di valutazione sono, poi, lasciate ai
+docenti. 
 
 == Dimensione tecnologica
 
