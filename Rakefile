@@ -45,7 +45,7 @@ def build_phase(phase_name, input, output)
   puts "\r✓ Builded '#{phase_name}'   "
 end
 
-task :default => %w(features ambiente manuali main)
+task :default => %w(features ambiente manuali main contenuti)
 
 task :main do
   print "Building main document..."
@@ -55,15 +55,26 @@ task :main do
 end
 
 task :manuali do
-  print "Building manuali..."
-  $stdout.flush
-  AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname + 'manuali/studente'
-  AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname + 'manuali/docente'
-  FileUtils.mkdir_p Pathname.new(__FILE__).dirname + 'docs/manuali/docente'
-  FileUtils.mkdir_p Pathname.new(__FILE__).dirname + 'docs/manuali/studente'
-  FileUtils.mv Dir.glob(Pathname.new(__FILE__).dirname + 'manuali/studente/docs/*'), Pathname.new(__FILE__).dirname + 'docs/manuali/studente', force: true
-  FileUtils.mv Dir.glob(Pathname.new(__FILE__).dirname + 'manuali/docente/docs/*'), Pathname.new(__FILE__).dirname + 'docs/manuali/docente/', force: true
-  puts "\r✓ Builded manuali   "
+  %w(studente docente).each do |type|
+    print "Building guide for '#{type}'..."
+    $stdout.flush
+    AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname + "manuali/#{type}"
+    FileUtils.mkdir_p Pathname.new(__FILE__).dirname + "docs/manuali/#{type}"
+    FileUtils.mv Dir.glob(Pathname.new(__FILE__).dirname + "manuali/#{type}/docs/*"), Pathname.new(__FILE__).dirname + "docs/manuali/#{type}", force: true
+    puts "\r✓ Builded guide for '#{type}'   "
+  end
+end
+
+task :contenuti do
+  Dir.glob(Pathname.new(__FILE__).dirname + 'contenuti/**/document.yml') do |doc|
+    doc = Pathname.new(doc)
+    print "Building '#{doc.dirname.basename}'..."
+    $stdout.flush
+    AsciiDocPublishingToolbox.build dir: doc.dirname
+    FileUtils.mkdir_p Pathname.new(__FILE__).dirname + 'docs/contenuti/' + doc.dirname.basename
+    FileUtils.mv Dir[doc.dirname + "docs/*"], Pathname.new(__FILE__).dirname + 'docs/contenuti/' + doc.dirname.basename, force: true
+    puts "\r✓ Builded '#{doc.dirname.basename}'   "
+  end
 end
 
 task :features do

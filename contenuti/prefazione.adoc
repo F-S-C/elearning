@@ -1,0 +1,10 @@
+[preface]
+= Prefazione
+
+:hide-uri-scheme:
+
+Questo documento è la documentazione di progettazione del corso di
+{course-name}. L'intero documento e il relativo corso sono scritti e gestiti da
+{author}, che è possibile contattare personalmente all'indirizzo email {email}.
+
+:!hide-uri-scheme:
