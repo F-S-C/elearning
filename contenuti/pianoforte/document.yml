@@ -6,6 +6,14 @@ authors:
   email: a.esposito39@studenti.uniba.it
 chapters:
 - title: Prefazione
+  part: false
+- title: Definizione della macrotipologia didattica
+  part: false
+- title: Definizione metodologico-didattica
+  part: false
+- title: Contenuto e interazione
+  part: false
 lang: it
 copyright:
   fromYear: 2020
+  adptNotice: true
