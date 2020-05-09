@@ -1,0 +1,165 @@
+= Definizione della macrotipologia didattica
+
+La macrotipologia didattica, ovverosia la struttura complessiva del progetto, è
+caratterizzata dalla scelta della tipologia di e-learning, dall'analisi
+dell'utenza, del contenuto, dell'obiettivo e dell'infrastruttura. Quindi, si
+analizzano i vincoli di ingresso e le loro relazioni per la produzione del
+presente documento di lavoro.
+
+== Analisi dei vincoli di ingresso e delle relazioni
+
+=== Analisi dell'utenza
+
+Il corso di chitarra di livello base è rivolto a tutti coloro che sono interessati 
+a imparare a suonare la chitarra. Per quanto riguarda le competenze, l'utente dovrebbe
+conoscere alcuni concetti base della teoria della musica ma non è strettamente necessario
+in quanto verranno effettuati dei richiami agli aspetti più importanti. Essendo di livello
+base, il corso risulterebbe inutile ad utenti che hanno già una buona affinità con la 
+chitarra. Per quanto riguarda l'età, l'utente deve avere almeno 13 anni, in quanto si ritiene
+che l'insegnamento della chitarra ai bambini debba essere meno rigoroso e più basato sul 
+"`diverire per apprendere`". Sono stati presi in esame diversi aspetti (discussi nelle sezioni
+seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
+
+==== Distanza fisica
+
+Gli utenti possono anche non essere in italia ma si presuppone che abbiano
+una buona padronanza della lingua italiana. Proprio per questi motivi, non c'è
+nessuna possibilità di una lezione fisica in sede. Il corso sarà interamente organizzato
+in modo tale da non far risultare necessaria la presenza fisica di un insegnante, permettendo a
+chiunque di avere accesso al materiale didattico in qualsiasi momento. La mancanza di incontri 
+in presenza potrà essere sostituita da incontri online.
+
+==== Numero
+
+Il numero degli utenti non è prevedibile a priori. Per questo motivo il
+materiale didattico deve essere fruibile senza limiti di utenti attivi
+contemporaneamente. Una eccezione riguarda gli incontri online organizzati:
+qualora il numero di iscritti al corso fosse ingestibile per una singola
+conferenza, è possibile suddividere il gruppo in gruppi di lavoro con cui
+organizzare singolarmente degli incontri.
+
+==== Accesso dell'utente alla tecnologia
+
+Le competenze e conoscenze informatiche degli utenti sono varie, ma tutti
+conoscono almeno come si utilizza un browser internet. Non sono necessarie
+configurazioni di alcun tipo, quindi gli utenti non è richiesto alcuna
+competenza specifica. L'unico prerequisito "`tecnologico`" del corso è l'accesso
+a un pianoforte (o una tastiera elettronica) su cui far pratica.
+
+==== Expertise di dominio dell'utente
+
+Si presume che i partecipanti del corso (almeno per una buona parte) non hanno
+mai avuto alcun contatto con il mondo della musica. Per questo motivo, deve
+essere fornito un vocabolario di base minimo che permetta la comunicazione, ma
+tale vocabolario non deve e non può sostituire un corso di teoria musicale di
+base, che resta un prerequisito consigliato del corso.
+
+==== Omogeneità o disomogeneità di interesse tra i partecipanti
+
+L'interesse medio sarà omogeneo in quanto tutti i partecipanti scelgono
+liberamente di iscriversi al corso in base in base alle proprie preferenze e
+alle proprie inclinazioni. Inoltre, al superamento di una prova finale, sarà
+consegnato ai partecipanti un attestato di partecipazione e superamento del
+corso: questo terrà vivo l'interesse dei partecipanti.
+
+==== Disponibilità del partecipante alla condivisione e alla collaborazione
+
+Il partecipante, nel suo interesse, sarà invogliato alla collaborazione con
+altri iscritti per approfondire argomenti, chiarire dubbi, risolvere problemi e
+confrontarsi. Tali comunicazioni possono avvenire mediante gli strumenti
+disposti dalla piattaforma (forum, chat, ecc.) ma anche con modalità esterne
+(social network, software di _Instant Messaging_, ecc.)
+
+== Analisi dell'obiettivo
+
+Gli obiettivi formativi sono definiti utilizzando la _tassonomia di Bloom_ al
+fine di categorizzare gli obiettivi educativi nel dominio conoscitivo, che
+riguarda le attività intellettuali e logiche. Tale dominio viene suddiviso nei
+seguenti obiettivi didattici, ordinati di seguito dal più semplice al più
+complesso: _Conoscenza_, _Comprensione_, _Analisi_, _Applicazione_, _Sintesi_ e
+_Valutazione_.
+
+Il corso si pone l'obiettivo di raggiungere il livello di Applicazione. Nelle
+seguenti sezioni si riportano gli obiettivi e le motivazioni dei tre livelli
+coperti dal corso.
+
+Conoscenza:: L'utente deve essere in grado di rievocare il materiale memorizzato
+e richiamare alla memoria fatti, metodi e processi. Per verificare la
+correttezza della conoscenza acquisita dallo studente, al termine delle attività
+didattiche, saranno inseriti dei brevi test di autovalutazione (nelle forme di
+domande a risposta multipla e/o test vero/falso).
+
+Comprensione:: L'utente deve essere in grado di afferrare il senso delle
+informazioni e di saperle trasformare. Pertanto, per favorire l'acquisizione e
+l'estrapolazione delle informazioni saranno inserite durante le lezioni delle
+immagini, degli esempi e/o dei grafici che accompagnino la spiegazione. Ogni
+studente deve quindi essere in grado di rispondere a domande poste in maniera
+differente rispetto a quanto riportato all'interno del materiale didattico.
+
+Applicazione:: L'utente deve essere in grado di utilizzare il materiale
+conosciuto per risolvere problemi nuovi e deve inoltre saper utilizzare
+rappresentazioni astratte in casi concreti. Nel caso specifico dello strumento
+musicale, lo studente deve essere in grado di utilizzare in pratica ciò che ha
+studiato dal materiale didattico astratto e deve inoltre essere in grado di
+utilizzare le tecniche apprese in nuovi contesti (per esempio, imparando
+autonomamente a suonare una composizione nuova). Ai fini della valutazione di
+questo aspetto, al termine del corso lo studente dovrà affrontare un esame in
+cui non solo gli verranno poste delle domande nuove legate al materiale
+didattico, ma dovrà partecipare a una conferenza con il docente per valutare la
+sua capacità di suonare effettivamente lo strumento con composizione nuove.
+
+Si sottolinea che non tutte le lezioni (elencate nella sezione
+"`<<sect-unità>>`") potrebbero avere la necessità di coprire tutti i tre
+livelli: in alcuni casi può essere sufficiente fermarsi a un livello inferiore.
+I casi specifici per ogni lezione sono riportati nella <<tab-lezioni-bloom>>.
+
+[#tab-lezioni-bloom]
+[options="header", cols="^.^10h,^.^20,^.^20,^.^20,^.^20a", stripes=even]
+.Attività, obiettivi e livelli della tassonomia di Bloom per ogni unità
+|===
+| N.ro Unità | Titolo unità | Attività | Obiettivo | Tassonomia di Bloom
+
+| 1
+| Introduzione allo strumento
+| -
+| -
+| * Conoscenza
+  * Comprensione
+
+| 2
+| Introduzione allo strumento
+| -
+| -
+| * Conoscenza
+  * Comprensione
+
+| 3
+| Utilizzare il pianoforte
+| -
+| -
+| * Conoscenza
+  * Comprensione
+
+| 4
+| Leggere uno spartito
+| -
+| -
+| * Conoscenza
+  * Comprensione
+
+| 5
+| Suonare il pianoforte
+| -
+| -
+| * Conoscenza
+  * Comprensione
+  * Applicazione
+
+|===
+
+== Analisi del contenuto
+
+[#sect-lezioni]
+=== Suddivisione del corso in lezioni
+
+== Analisi dell'infrastruttura
