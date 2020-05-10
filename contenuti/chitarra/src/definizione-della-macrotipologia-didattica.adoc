@@ -13,12 +13,13 @@ presente documento di lavoro.
 Il corso di chitarra di livello base è rivolto a tutti coloro che sono interessati 
 a imparare a suonare la chitarra. Per quanto riguarda le competenze, l'utente dovrebbe
 conoscere alcuni concetti base della teoria della musica ma non è strettamente necessario
-in quanto verranno effettuati dei richiami agli aspetti più importanti. Essendo di livello
-base, il corso risulterebbe inutile ad utenti che hanno già una buona affinità con la 
-chitarra. Per quanto riguarda l'età, l'utente deve avere almeno 13 anni, in quanto si ritiene
-che l'insegnamento della chitarra ai bambini debba essere meno rigoroso e più basato sul 
-"`diverire per apprendere`". Sono stati presi in esame diversi aspetti (discussi nelle sezioni
-seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
+in quanto verranno effettuati alcuni richiami agli aspetti teorici più importanti. Essendo 
+di livello base, il corso risulterebbe inutile ad utenti che hanno già una buona affinità 
+con la chitarra. Per quanto riguarda l'età, l'utente deve avere almeno 13 anni, in quanto 
+si ritiene che l'insegnamento della chitarra ai bambini debba essere meno rigoroso e più
+basato sul "`diverire per apprendere`". Sono stati presi in esame diversi aspetti
+(discussi nelle sezioni seguenti) per comprendere quali sono le caratteristiche dei 
+potenziali utenti.
 
 ==== Distanza fisica
 
@@ -31,44 +32,46 @@ in presenza potrà essere sostituita da incontri online.
 
 ==== Numero
 
-Il numero degli utenti non è prevedibile a priori. Per questo motivo il
-materiale didattico deve essere fruibile senza limiti di utenti attivi
-contemporaneamente. Una eccezione riguarda gli incontri online organizzati:
-qualora il numero di iscritti al corso fosse ingestibile per una singola
-conferenza, è possibile suddividere il gruppo in gruppi di lavoro con cui
-organizzare singolarmente degli incontri.
+Il corso non avrà un numero massimo di utenti. Ovviamente, il materiale didattico 
+deve essere fruibile a tutti gli utenti iscritti.
+La gestione di incontri online con un elevato numero di studenti, però, risulterebbe
+molto complicato e impossibile, quindi, solo in caso di incontri online, verranno
+organizzati dei gruppi di lavoro per effettuare le lezioni online.
 
 ==== Accesso dell'utente alla tecnologia
 
-Le competenze e conoscenze informatiche degli utenti sono varie, ma tutti
-conoscono almeno come si utilizza un browser internet. Non sono necessarie
-configurazioni di alcun tipo, quindi gli utenti non è richiesto alcuna
-competenza specifica. L'unico prerequisito "`tecnologico`" del corso è l'accesso
-a un pianoforte (o una tastiera elettronica) su cui far pratica.
+L'utente dovrà solo avere la conoscenza di accedere ad un browser internet, 
+aspetto che ormai tutti conoscono in quest'epoca.
+Non sono necessarie altre competenze informatiche e non è prevista nessuna
+configurazione di alcun tipo.
 
 ==== Expertise di dominio dell'utente
 
-Si presume che i partecipanti del corso (almeno per una buona parte) non hanno
-mai avuto alcun contatto con il mondo della musica. Per questo motivo, deve
-essere fornito un vocabolario di base minimo che permetta la comunicazione, ma
-tale vocabolario non deve e non può sostituire un corso di teoria musicale di
-base, che resta un prerequisito consigliato del corso.
+Come detto in precedenza, si consiglia che l'utente abbia la conoscenza di teoria
+musicale di base ma non è strettamente necessario.
+L'utente può anche non conoscere alcun tipo di nozione del dominio.
+Questo aspetto però non mette alcun limite alla sua possibilità di aumentare la sua
+conoscenza del dominio e di imparare a suonare la chitarra. 
 
 ==== Omogeneità o disomogeneità di interesse tra i partecipanti
 
-L'interesse medio sarà omogeneo in quanto tutti i partecipanti scelgono
-liberamente di iscriversi al corso in base in base alle proprie preferenze e
-alle proprie inclinazioni. Inoltre, al superamento di una prova finale, sarà
-consegnato ai partecipanti un attestato di partecipazione e superamento del
-corso: questo terrà vivo l'interesse dei partecipanti.
+L'obbietivo del corso è noto a tutti, gli studenti che parteciperanno sono
+studenti che hanno scelto liberamente di iscriversi.
+In base alla loro voglia di imparare, ognuno raggiungerà un livello diverso.
+Questo interesse o questa voglia può anche non essere omogenea tra tutti 
+i partecipanti.
+Gli studenti che perdono il piacere di imparare a suonare la chitarra potranno
+liberamente abbandonare il corso.
 
 ==== Disponibilità del partecipante alla condivisione e alla collaborazione
 
-Il partecipante, nel suo interesse, sarà invogliato alla collaborazione con
-altri iscritti per approfondire argomenti, chiarire dubbi, risolvere problemi e
-confrontarsi. Tali comunicazioni possono avvenire mediante gli strumenti
-disposti dalla piattaforma (forum, chat, ecc.) ma anche con modalità esterne
-(social network, software di _Instant Messaging_, ecc.)
+La musica inevitabilmente favorisce la relazione tra studenti.
+L'arte della musica porterà ad invogliare i partecipanti alla collaborazione
+con gli altri iscritti, sia per chiarire eventuali dubbi e migliorarsi e sia
+per suonare e divertirsi insieme.
+La comunicazione può avvenire tramite gli strumenti disposti dalla piattaforma 
+(forum, chat, ecc.) o anche tramite social network.
+Da non dimenticare però il mezzo di comunicazione più importante, "`la musica`".
 
 == Analisi dell'obiettivo
 
@@ -114,43 +117,53 @@ livelli: in alcuni casi può essere sufficiente fermarsi a un livello inferiore.
 I casi specifici per ogni lezione sono riportati nella <<tab-lezioni-bloom>>.
 
 [#tab-lezioni-bloom]
-[options="header", cols="^.^10h,^.^20,^.^20,^.^20,^.^20a", stripes=even]
+[options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
 .Attività, obiettivi e livelli della tassonomia di Bloom per ogni unità
 |===
 | N.ro Unità | Titolo unità | Attività | Obiettivo | Tassonomia di Bloom
 
 | 1
 | Introduzione allo strumento
-| -
-| -
+| * Conoscenza delle componenti principali dello strumento e dei suoi principi
+  fondamentali
+| Lo studente deve conoscere quali sono le componenti fondamentali dello
+  strumento che sta utilizzando e deve conoscere quali sono le "`regole`" e i
+  principi basilari della disciplina
 | * Conoscenza
-  * Comprensione
 
 | 2
-| Introduzione allo strumento
-| -
-| -
+| Utilizzare il pianoforte
+| * Comprendere come posizionarsi per suonare lo strumento e come rendere
+  indipendenti le dita. 
+  * Comprendere come una diteggiatura corretta può migliorare la qualità
+  dell'attività
+| Lo studente deve essere in grado di comprendere quali sono le posizioni
+  corrette da assumere allo strumento, in modo da poterne sviluppare delle
+  proprie in modo cosciente. Inoltre, deve essere in grado di comprendere la
+  simbologia utilizzata per indicare la diteggiatura.
 | * Conoscenza
   * Comprensione
 
 | 3
-| Utilizzare il pianoforte
-| -
-| -
+| Leggere uno spartito
+| * Comprensione della simbologia basilare della partitura musicale.
+  * Comprensione delle differenze fra la notazione italiana e quella
+  internazionale.
+| Lo studente deve essere in grado di leggere una partitura musicale di base.
+  Deve essere inoltre in grado di trasporre le informazioni lette in notazione
+  internazionale.
 | * Conoscenza
   * Comprensione
+  * Applicazione
 
 | 4
-| Leggere uno spartito
-| -
-| -
-| * Conoscenza
-  * Comprensione
-
-| 5
 | Suonare il pianoforte
-| -
-| -
+| * Individuazione delle note nel pianoforte.
+  * Utilizzo degli accordi e dei rivolti, in modo basilare.
+  * Applicazione della teoria in un caso di studio.
+| Lo studente deve essere in grado di applicare tutto quel che ha studiato
+  durante il corso per suonare un semplice pezzo senza la necessità di un
+  accompagnamento del docente.
 | * Conoscenza
   * Comprensione
   * Applicazione
@@ -161,5 +174,22 @@ I casi specifici per ogni lezione sono riportati nella <<tab-lezioni-bloom>>.
 
 [#sect-lezioni]
 === Suddivisione del corso in lezioni
+
+* Unità 1: Introduzione allo strumento
+  ** Lezione 1.1: Le componenti dello strumento
+  ** Lezione 1.2: I principi fondamentali del pianoforte
+* Unità 2: Utilizzare il pianoforte
+  ** Lezione 2.1: La posizione della mano
+  ** Lezione 2.2: L'indipendenza delle dita
+  ** Lezione 2.3: La diteggiatura
+* Unità 3: Leggere uno spartito
+  ** Lezione 3.1: Le basi della partitura musicale
+  ** Lezione 3.2: La notazione internazionale
+* Unità 4: Suonare il pianoforte
+  ** Lezione 4.1: Le note sul pianoforte
+  ** Lezione 4.2: Gli accordi
+  ** Lezione 4.3: Semplificare gli accordi: i rivolti
+  ** Lezione 4.4: Applicare in pratica: "`No Woman No Cry`"
+  
 
 == Analisi dell'infrastruttura
