@@ -1,1 +1,11 @@
 = Definizione metodologico-didattica
+
+In questa fase della progettazione verranno scelti i modelli e le strategie
+didattiche che meglio si prestano al favorire il conseguimento degli obiettivi
+nel modo più efficace possibile. Le scelte didattiche verteranno su quattro
+problematiche principali:
+
+* Modelli e architetture
+* Strategie
+* Valutazione degli apprendimenti
+* Comunicazione dei contenuti
