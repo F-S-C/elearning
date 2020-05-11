@@ -172,6 +172,26 @@ I casi specifici per ogni lezione sono riportati nella <<tab-lezioni-bloom>>.
 
 == Analisi del contenuto
 
+I contenuti del corso sono analizzati in base alle seguenti caratteristiche:
+
+Apertura o chiusura:: Il contenuto è principalmente (ma non totalmente) chiuso,
+in quanto trattasi di fatti e concetti. Tuttavia vi sono alcune eccezioni in cui
+i contenuti risultano aperti in quanto principi o processi.
+
+Stabilità o instabilità:: I contenuti delle lezioni sono stabili, in quanto il
+corso tratta di argomenti ben radicati nell'ambito musicale. È possibile
+prevedere aggiornamenti futuri, dovuti all'avanzamento della materia, ma è poco
+probabile che tali aggiornamenti riguardino le tecniche e i principi di base
+trattati in questo corso.
+
+Testualità, multimedialità e interattività:: Le lezioni si presentano nella
+forma di ipertesti multimediali comprensivi, quindi, di testo, immagini, video
+e/o animazioni. L'interattività è espressa mediante l'uso di hyperlink (tipici
+negli ipertesti) e dei test complessivi. Saranno presenti test al termine di
+tutte le unità didattiche, utili ai fini di un'autovalutazione, e dei test
+complessivi che servono a valutare lo studente per considerare il corso completo
+e superato.
+
 [#sect-lezioni]
 === Suddivisione del corso in lezioni
 
@@ -190,6 +210,82 @@ I casi specifici per ogni lezione sono riportati nella <<tab-lezioni-bloom>>.
   ** Lezione 4.2: Gli accordi
   ** Lezione 4.3: Semplificare gli accordi: i rivolti
   ** Lezione 4.4: Applicare in pratica: "`No Woman No Cry`"
-  
+* Esame finale
+
+[options="header", cols="^.^20h, ^.^40, ^.^40a"]
+|===
+| Tipo di contenuto | Descrizione | Esempi
+
+| Fatti (chiuso)
+| Un insieme di dati dal carattere specifico e unico
+| * I componenti dello strumento
+  * La diteggiatura
+  * La notazione internazionale
+  * Le note sul pianoforte
+
+| Concetti (chiuso/aperto)
+| Categoria che include al suo interno molteplici esemplificazioni
+| * La posizione della mano
+  * L'indipendenza delle dita
+  * Le basi della partitura musicale
+  * Gli accordi
+  * Semplificare gli accordi: i rivolti
+
+| Principi (aperto)
+| Indicazioni generali e linee guida
+| * I principi fondamentali del pianoforte
+
+|===
 
 == Analisi dell'infrastruttura
+
+Nei successivi paragrafi saranno valutati gli aspetti tecnologici e le risorse
+umane disponibili.
+
+=== Aspetti tecnologici
+
+È utilizzata la piattaforma Moodle, piattaforma che copre il ruolo di LMS
+(Learning Management System) e di LCMS (Learning Content Management System).
+L'intero processo di creazione e gestione dei contenuti è supportato dal manuale
+utente per i docenti. L'intero materiale sarà gestito come nodi ipertestuali
+autosufficienti, che permetterà il riciclo di nodi tra vari corsi (se
+necessario).
+
+=== Disponibilità di risorse umane
+
+Il docente del corso creerà e renderà disponibili tutti i materiali all'interno
+della piattaforma. Sarà il docente (con l'eventuale assistenza di terzi, se
+ritenuto necessario) a rispondere a richieste sui forum o nella chat e
+correggerà gli eventuali esercizi a risposta aperta presenti all'interno del
+corso.
+
+== Tipologia di e-learning
+
+La tipologia di e-learning adottata nel corso di pianoforte di livello base è
+focalizzata sullo studente dell'accademia e adotta una terminologia semplice ma
+il più possibile specifica. Su suppone che lo studente partecipi attivamente
+alla vita della didattica partecipando mediante varie modalità alle
+comunicazioni. Inoltre, il tutor (il docente) sarà sempre presente
+nell'accompagnamento dello studente: il percorso si pone l'obiettivo di
+raggiungere il livello di "`Applicazione`" della tassonomia di Bloom e la
+presenza del docente è, quindi, necessaria.
+
+In definitiva, la tipologia di e-learning stando alla classificazione di Mason è quella del _"`Support Online Learning`"_.
+
+[options="header", cols="<.^h, <.^"]
+|===
+2+^| Support Online Learning
+| Si focalizza | Sullo studente
+| Si basa | Sulle attività
+| È orientata all'apprendimento | In piccoli gruppi
+| Interazione con il tutor | Significativa
+| Collaborazione tra pari | Interazioni intense
+|===
+
+== Modalità di e-learning
+
+La modalità di e-learning adottata è quella completamente a distanza _con_ il
+supporto di un tutor (il docente). Quindi l'apprendimento avviene completamente
+a distanza e gli studenti sono seguiti individualmente (o in gruppi) da un
+tutor, che può avvalersi di strumenti di comunicazione sincrona o asincrona
+offerti dalla piattaforma stessa (forum, chat, videoconferenza).
