@@ -2,10 +2,90 @@
 
 In questa fase della progettazione verranno scelti i modelli e le strategie
 didattiche che meglio si prestano al favorire il conseguimento degli obiettivi
-nel modo più efficace possibile. Le scelte didattiche verteranno su quattro
-problematiche principali:
+nel modo più efficace possibile.
 
-* Modelli e architetture
-* Strategie
-* Valutazione degli apprendimenti
-* Comunicazione dei contenuti
+Modelli e architetture:: I modelli e le architetture didattiche più efficaci ed
+efficienti nelle condizioni di istruzione attuali sono testi, immagini e
+animazioni/video per agevolare la comprensione delle varie unità. Saranno
+inoltre presentati esempi esplicativi che favoriscano un'acquisizione più
+semplice delle nozioni.
+
+Strategie e comunicazione dei contenuti:: La stratedia didattica adottata è
+quella di suddividere il corso in quattro unità, suddivise in diverse lezioni.
+Tali lezioni possono quindi essere seguite a piacimento dagli studenti, senza
+dover imporre alcun vincolo temporale nell'acquisizione delle varie informazioni
+(se non un vincolo di propedeuticità). Al termine di ogni unità, poi, lo
+studente può sostenere un breve quiz autovalutativo per verificare il proprio
+apprendimento prima di proseguire.
++
+Il materiale didattico deriva da una serie di testi e manuali tipicamente
+utilizzati nelle accademia di musica, nonché dalla diretta conversazione e
+discussione con degli esperti del dominio, che hanno validato tutti i testi
+singolarmente.
++
+Gli argomenti sono stati trattati con un linguaggio che sia a metà strada tra il
+semplice e il tecnico, in modo da fornire agli studenti una base di terminologia
+specifica pur mantenendo bassa la difficoltà generale del corso.
+
+Valutazione degli apprendimenti:: La definizione dei criteri per la valutazione
+dell'apprendimento deve andare di pari passo con la definizione sia degli
+obiettivi didattici sia delle strategie educative messe in atto per
+raggiungerli. A tal fine, al termine di ogni unità è stato realizzato un test di
+apprendimento a risposta multipla. Tali test non sono propedeutici alla
+prosecuzione del corso, ma solo autovalutativi e di supporto allo studente. Tali
+test si ritengono superati se si raggiunge una valutazione pari o superiore a
+80/100.
++
+Al termine dell'intero corso, lo studente può accedere a un esame finale che
+permetterà una valutazione complessiva della preparazione dello studente. Tale
+esame comprenderà sia domande a risposta multipla sui concetti teorici del
+corso, sia una fase di valutazione delle abilità pratiche acquisite dallo
+studente (nel caso specifico, sarà richiesto allo studente di studiare e suonare
+un brano concordato con il docente). Tale esame si ritiene superato se si
+raggiunge una valutazione pari o superiore a 60/100.
++
+Se il test è superato, il corso sarà considerato completato e superato e si avrà diritto a un certificato (che riporta la valutazione finale dello studente).
+
+== Struttura del corso
+
+[blockdiag,"corso-pianoforte", svg, width="90%"]
+-----
+blockdiag {    
+    A[label="Corso di Pianoforte:\nLivello base"]
+    U1[numbered="U1",label="Introduzione allo strumento"]
+    U2[numbered="U2",label="Utilizzare il pianoforte"]
+    U3[numbered="U3",label="Leggere uno spartito"]
+    U4[numbered="U4",label="Suonare il pianoforte"]
+
+    L1.1[numbered="L1.1",label="Le componenti dello strumento"]
+    L1.2[numbered="L1.2",label="I principi fondamentali del pianoforte"]
+    L2.1[numbered="L2.1",label="La posizione della mano"]
+    L2.2[numbered="L2.2",label="L'indipendenza delle dita"]
+    L2.3[numbered="L2.3",label="La diteggiatura"]
+    L3.1[numbered="L3.1",label="Le basi della partitura musicale"]
+    L3.2[numbered="L3.2",label="La notazione internazionale"]
+    L4.1[numbered="L4.1",label="Le note sul pianoforte"]
+    L4.2[numbered="L4.2",label="Gli accordi"]
+    L4.3[numbered="L4.3",label="Semplificare gli accordi: i rivolti"]
+    L4.4[numbered="L4.4",label="Applicare in pratica"]
+
+    A -> U1
+    U1 -> L1.1
+    U1 -> L1.2
+    
+    A -> U2
+    U2 -> L2.1
+    U2 -> L2.2
+    U2 -> L2.3
+    
+    A -> U3
+    U3 -> L3.1
+    U3 -> L3.2
+    
+    A -> U4
+    U4 -> L4.1
+    U4 -> L4.2
+    U4 -> L4.3
+    U4 -> L4.4
+}
+-----
