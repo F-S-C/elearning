@@ -6,8 +6,8 @@ La seguente progettazione ha quindi la funzione di spiegare in che modo sarà sv
 
 Tale corso appartiene al più largo modulo "`Corso di Batteria`" che sarà disponibile all'interno della piattaforma.
 
-[#sect-unità]
-== Suddivisione in unità
+[#sect-moduli]
+== Suddivisione in moduli
 
 Tale corso è articolato in tre moduli, riportante di seguito. 
 
