@@ -1,0 +1,23 @@
+:course-name: pianoforte (livello base)
+
+include::../../prefazione.adoc[]
+
+La seguente progettazione ha quindi la funzione di spiegare in che modo sarà
+sviluppato il corso di pianoforte di livello base. In questo corso ci si
+occuperà di introdurre gli utenti allo strumento e fornire alcune metodologie e
+tecniche d'uso di base che permettano allo studente di suonare composizioni già
+conosciute o impararne autonomamente delle nuove.
+
+Tale corso appartiene al più largo modulo "`Corso di Pianoforte`" che è
+disponibile all'interno della piattaforma.
+
+[#sect-unità]
+== Suddivisione in unità
+
+Il corso può essere suddiviso in quattro unità didattiche, riportate di seguito.
+
+[#list-unità]
+. Introduzione allo strumento
+. Utilizzare il pianoforte
+. Leggere uno spartito
+. Suonare il pianoforte
