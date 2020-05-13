@@ -93,14 +93,50 @@ blockdiag {
 
 == Storyboard
 
-=== Unità 1: Introduzione allo strumento
+=== Modulo 1: Introduzione e utilizzo della chitarra
 
-.Storyboard: Lezione 1.1, "`Le componenti dello strumento`"
+.Storyboard: Modulo 1, "`Introduzione e utilizzo della chitarra`"
 [cols="<.^20h,<.^80"]
 |===
-| Argomento | Le componenti dello strumento
+| Argomento | Introduzione e utilizzo della chitarra
 | Numero pagina | 1
-| Descrizione | Sono descritte le parti del pianoforte (tastiera, pedali, ecc.).
+| Descrizione | Sono descritte le componenti principali di una chitarra e sono 
+  mostrati alcuni esercizi per rendere indipendenti le dita e per rafforzarle. 
+// | Template | 
+// | Testo | 
+| Immagini | 9
+| Audio | Nessuno
+| Video | 1
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+=== Modulo 2: Apprendimento degli accordi principali
+
+.Storyboard: Modulo 2, "`Apprendimento degli accordi principali`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Apprendimento degli accordi principali
+| Numero pagina | 1
+| Descrizione | Vengono mostrate le corrette esecuzioni dei 24 accordi principali. 
+// | Template | 
+// | Testo | 
+| Immagini | 48
+| Audio | 24
+| Video | 0
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+=== Modulo 3: Suonare la chitarra
+
+.Storyboard: Modulo 3, "`Suonare la chitarra`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Suonare la chitarra
+| Numero pagina | 1
+| Descrizione | Viene mostrato il corretto utilizzo della mano destra 
+  e le varie tipologie di suonare una chitarra.
 // | Template | 
 // | Testo | 
 | Immagini | 1
@@ -109,6 +145,7 @@ blockdiag {
 // | Strumenti di comunicazione | Forum, chat
 | Link | 
 |===
+
 
 == Layout
 
