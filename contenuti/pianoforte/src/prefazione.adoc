@@ -11,12 +11,12 @@ conosciute o impararne autonomamente delle nuove.
 Tale corso appartiene al più largo modulo "`Corso di Pianoforte`" che è
 disponibile all'interno della piattaforma.
 
-[#sect-unità]
-== Suddivisione in unità
+[#sect-moduli]
+== Suddivisione in moduli
 
 Il corso può essere suddiviso in quattro unità didattiche, riportate di seguito.
 
-[#list-unità]
+[#list-moduli]
 . Introduzione allo strumento
 . Utilizzare il pianoforte
 . Leggere uno spartito
