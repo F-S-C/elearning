@@ -1,0 +1,274 @@
+= Definizione della macrotipologia didattica
+
+La macrotipologia didattica, ovverosia la struttura complessiva del progetto, è
+caratterizzata dalla scelta della tipologia di e-learning, dall'analisi
+dell'utenza, del contenuto, dell'obiettivo e dell'infrastruttura. Quindi, si
+analizzano i vincoli di ingresso e le loro relazioni per la produzione del
+presente documento di lavoro.
+
+== Analisi dei vincoli di ingresso e delle relazioni
+
+=== Analisi dell'utenza
+
+GLi utenti a cui è rivolto il corso di batteria di livello base possono avere età e competenze differenti, l'importante che siano utenti interessati a imparare a suonare la batteria. Sono stati presi in esame diversi aspetti (che sono stati discussi nelle sezioni seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
+
+==== Distanza fisica
+
+Gli utenti possono essere dislocati in varie parti del mondo, ma ovviamente, in quanto sarà un corso sviluppato in italiano, sarà necessaria la conoscenza e buona padronanza della lingua italiana. Molte terminologie di base relative alla batteria sono in lingua inglese, quindi è necessaria una minima conoscenza e una minima padronanza dell'inglese. 
+Inoltre, sia per problematiche legate alla disponibilità temporale degli utenti, per la loro potenziale locazione geografica ma anche per la questione pandemica che si sta vivendo, non è possibile presupporre la possibilità di partecipare fisicamente in sede alle attività. Per questo motivo l'utente, accedendo alla piattaforma, deve poter usufruire del materiale didattico in qualisiasi momento. Inoltre, il fattore della distanza fisica agisce direttamente sugli incontri in presenza organizzabili, che devono essere necessariamente sostituiti da incontri online.
+
+==== Numero
+
+Il numero degli utenti non è prevedibile a priori. Per questo motivo il
+materiale didattico deve essere fruibile senza limiti di utenti attivi
+contemporaneamente. Una eccezione riguarda gli incontri online organizzati:
+qualora il numero di iscritti al corso fosse ingestibile per una singola
+conferenza, è possibile suddividere il gruppo in gruppi di lavoro con cui
+organizzare singolarmente degli incontri, questo nel caso in cui ci sia bisogno di avere tutti gli allieni in un unico incontro.
+Nel caso in cui, invece, è necessario l'incontro online per perfezionare determinate tecniche e/o la postura dell'allievo, sarà necessario avere una video lezione online con il singolo allievo in quanto lo strumento che si andrà a imparare creerebbe confusione tra i partecipanti.
+
+==== Accesso dell'utente alla tecnologia
+
+Le competenze e conoscenze informatiche degli utenti sono varie, ma tutti
+conoscono almeno come si utilizza un browser internet. Non sono necessarie
+configurazioni di alcun tipo, quindi gli utenti non è richiesto alcuna
+competenza specifica. Nel caso in cui gli allivi sono bambini, sarà necessario il supporto di un genitore in modo da collegare il bambino alla piattaforma (anche se al giorno d'oggi questa tipologia di allievi utilizzato internet da quando hanno capacità motoria sufficiente).
+L'unico prerequisito "`tecnologico`" del corso è l'accesso
+a una batteria (o una batteria elettronica) oppure un qualsiasi tipo di percussione per poter iniziare a fare pratica.
+
+==== Expertise di dominio dell'utente
+
+Essendo questo un corso di batteria di livello base, si presuppone che i partecipanti non hanno mai avuto alcun contatto con questo strumento (almeno per una buona parte, in quanto possono essere interessati degli autodidatti). Inoltre, nel caso in cui di fosse necessità di una terminologia riguardante la teoria musicale di base, verrà fornito un vocabolario di base minimo che permetta la comunicazione, ma tale vocabolario non deve e non può sostituire un corso di teoria musicale di base, che resta un prerequistito consigliato del corso.
+
+==== Omogeneità o disomogeneità di interesse tra i partecipanti
+
+L'interesse medio sarà omogeneo in quanto tutti i partecipanti scelgono
+liberamente di iscriversi al corso in base alle proprie preferenze e
+alle proprie inclinazioni. Inoltre, al superamento di una prova finale, sarà
+consegnato ai partecipanti un attestato di partecipazione e superamento del
+corso: questo terrà vivo l'interesse dei partecipanti.
+
+==== Disponibilità del partecipante alla condivisione e alla collaborazione
+
+Il partecipante, nel suo interesse, sarà invogliato alla collaborazione con
+altri iscritti per approfondire argomenti, chiarire dubbi, risolvere problemi e
+confrontarsi. Tali comunicazioni possono avvenire mediante gli strumenti
+disposti dalla piattaforma (forum, chat, ecc.) ma anche con modalità esterne
+(social network, software di _Instant Messaging_, ecc.)
+
+== Analisi dell'obiettivo
+
+Gli obiettivi formativi sono definiti utilizzando la _tassonomia di Bloom_ al
+fine di categorizzare gli obiettivi educativi nel dominio conoscitivo, che
+riguarda le attività intellettuali e logiche. Tale dominio viene suddiviso nei
+seguenti obiettivi didattici, ordinati di seguito dal più semplice al più
+complesso: _Conoscenza_, _Comprensione_, _Analisi_, _Applicazione_, _Sintesi_ e
+_Valutazione_.
+
+Il corso si pone l'obiettivo di raggiungere il livello di Applicazione. Nelle
+seguenti sezioni si riportano gli obiettivi e le motivazioni dei tre livelli
+coperti dal corso.
+
+Conoscenza:: L'utente deve essere in grado di rievocare il materiale memorizzato
+e richiamare alla memoria fatti, metodi e processi. Per verificare la
+correttezza della conoscenza acquisita dallo studente, al termine delle attività
+didattiche, saranno inseriti dei brevi test di autovalutazione (nelle forme di
+domande a risposta multipla e/o test vero/falso).
+
+Comprensione:: L'utente deve essere in grado di afferrare il senso delle
+informazioni e di saperle trasformare. Pertanto, per favorire l'acquisizione e
+l'estrapolazione delle informazioni saranno inserite durante le lezioni delle
+immagini, degli esempi e/o dei grafici che accompagnino la spiegazione. Ogni
+studente deve quindi essere in grado di rispondere a domande poste in maniera
+differente rispetto a quanto riportato all'interno del materiale didattico.
+
+Applicazione:: L'utente deve essere in grado di utilizzare il materiale
+conosciuto per risolvere problemi nuovi e deve inoltre saper utilizzare
+rappresentazioni astratte in casi concreti. Nel caso specifico dello strumento
+musicale, lo studente deve essere in grado di utilizzare in pratica ciò che ha
+studiato dal materiale didattico astratto e deve inoltre essere in grado di
+utilizzare le tecniche apprese in nuovi contesti (per esempio, imparando
+autonomamente a suonare una composizione nuova). Ai fini della valutazione di
+questo aspetto, al termine del corso lo studente dovrà affrontare un esame in
+cui non solo gli verranno poste delle domande nuove legate al materiale
+didattico, ma dovrà partecipare a una conferenza con il docente per valutare la
+sua capacità di suonare effettivamente lo strumento con composizione nuove.
+
+Si sottolinea che non tutte le lezioni (elencate nella sezione
+"`<<sect-unità>>`") potrebbero avere la necessità di coprire tutti i tre
+livelli: in alcuni casi può essere sufficiente fermarsi a un livello inferiore.
+I casi specifici per ogni lezione sono riportati nella <<tab-lezioni-bloom>>.
+
+[#tab-lezioni-bloom]
+[options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
+.Attività, obiettivi e livelli della tassonomia di Bloom per ogni unità
+|===
+| N.ro Unità | Titolo unità | Attività | Obiettivo | Tassonomia di Bloom
+
+| 1
+| Introduzione allo strumento
+| * Conoscenza delle componenti principali dello strumento e dei suoi principi
+  fondamentali
+| Lo studente deve conoscere quali sono le componenti fondamentali dello
+  strumento che sta utilizzando e deve conoscere quali sono le "`regole`" e i
+  principi basilari della disciplina
+| * Conoscenza
+
+| 2
+| Utilizzare il pianoforte
+| * Comprendere come posizionarsi per suonare lo strumento e come rendere
+  indipendenti le dita. 
+  * Comprendere come una diteggiatura corretta può migliorare la qualità
+  dell'attività
+| Lo studente deve essere in grado di comprendere quali sono le posizioni
+  corrette da assumere allo strumento, in modo da poterne sviluppare delle
+  proprie in modo cosciente. Inoltre, deve essere in grado di comprendere la
+  simbologia utilizzata per indicare la diteggiatura.
+| * Conoscenza
+  * Comprensione
+
+| 3
+| Leggere uno spartito
+| * Comprensione della simbologia basilare della partitura musicale.
+  * Comprensione delle differenze fra la notazione italiana e quella
+  internazionale.
+| Lo studente deve essere in grado di leggere una partitura musicale di base.
+  Deve essere inoltre in grado di trasporre le informazioni lette in notazione
+  internazionale.
+| * Conoscenza
+  * Comprensione
+  * Applicazione
+
+| 4
+| Suonare il pianoforte
+| * Individuazione delle note nel pianoforte.
+  * Utilizzo degli accordi e dei rivolti, in modo basilare.
+  * Applicazione della teoria in un caso di studio.
+| Lo studente deve essere in grado di applicare tutto quel che ha studiato
+  durante il corso per suonare un semplice pezzo senza la necessità di un
+  accompagnamento del docente.
+| * Conoscenza
+  * Comprensione
+  * Applicazione
+
+|===
+
+== Analisi del contenuto
+
+I contenuti del corso sono analizzati in base alle seguenti caratteristiche:
+
+Apertura o chiusura:: Il contenuto è principalmente (ma non totalmente) chiuso,
+in quanto trattasi di fatti e concetti. Tuttavia vi sono alcune eccezioni in cui
+i contenuti risultano aperti in quanto principi o processi.
+
+Stabilità o instabilità:: I contenuti delle lezioni sono stabili, in quanto il
+corso tratta di argomenti ben radicati nell'ambito musicale. È possibile
+prevedere aggiornamenti futuri, dovuti all'avanzamento della materia, ma è poco
+probabile che tali aggiornamenti riguardino le tecniche e i principi di base
+trattati in questo corso.
+
+Testualità, multimedialità e interattività:: Le lezioni si presentano nella
+forma di ipertesti multimediali comprensivi, quindi, di testo, immagini, video
+e/o animazioni. L'interattività è espressa mediante l'uso di hyperlink (tipici
+negli ipertesti) e dei test complessivi. Saranno presenti test al termine di
+tutte le unità didattiche, utili ai fini di un'autovalutazione, e dei test
+complessivi che servono a valutare lo studente per considerare il corso completo
+e superato.
+
+[#sect-lezioni]
+=== Suddivisione del corso in lezioni
+
+* Unità 1: Introduzione allo strumento
+  ** Lezione 1.1: Le componenti dello strumento
+  ** Lezione 1.2: I principi fondamentali del pianoforte
+* Unità 2: Utilizzare il pianoforte
+  ** Lezione 2.1: La posizione della mano
+  ** Lezione 2.2: L'indipendenza delle dita
+  ** Lezione 2.3: La diteggiatura
+* Unità 3: Leggere uno spartito
+  ** Lezione 3.1: Le basi della partitura musicale
+  ** Lezione 3.2: La notazione internazionale
+* Unità 4: Suonare il pianoforte
+  ** Lezione 4.1: Le note sul pianoforte
+  ** Lezione 4.2: Gli accordi
+  ** Lezione 4.3: Semplificare gli accordi: i rivolti
+  ** Lezione 4.4: Applicare in pratica: "`No Woman No Cry`"
+* Esame finale
+
+[options="header", cols="^.^20h, ^.^40, ^.^40a"]
+|===
+| Tipo di contenuto | Descrizione | Esempi
+
+| Fatti (chiuso)
+| Un insieme di dati dal carattere specifico e unico
+| * I componenti dello strumento
+  * La diteggiatura
+  * La notazione internazionale
+  * Le note sul pianoforte
+
+| Concetti (chiuso/aperto)
+| Categoria che include al suo interno molteplici esemplificazioni
+| * La posizione della mano
+  * L'indipendenza delle dita
+  * Le basi della partitura musicale
+  * Gli accordi
+  * Semplificare gli accordi: i rivolti
+
+| Principi (aperto)
+| Indicazioni generali e linee guida
+| * I principi fondamentali del pianoforte
+
+|===
+
+== Analisi dell'infrastruttura
+
+Nei successivi paragrafi saranno valutati gli aspetti tecnologici e le risorse
+umane disponibili.
+
+=== Aspetti tecnologici
+
+È utilizzata la piattaforma Moodle, piattaforma che copre il ruolo di LMS
+(Learning Management System) e di LCMS (Learning Content Management System).
+L'intero processo di creazione e gestione dei contenuti è supportato dal manuale
+utente per i docenti. L'intero materiale sarà gestito come nodi ipertestuali
+autosufficienti, che permetterà il riciclo di nodi tra vari corsi (se
+necessario).
+
+=== Disponibilità di risorse umane
+
+Il docente del corso creerà e renderà disponibili tutti i materiali all'interno
+della piattaforma. Sarà il docente (con l'eventuale assistenza di terzi, se
+ritenuto necessario) a rispondere a richieste sui forum o nella chat e
+correggerà gli eventuali esercizi a risposta aperta presenti all'interno del
+corso.
+
+== Tipologia di e-learning
+
+La tipologia di e-learning adottata nel corso di pianoforte di livello base è
+focalizzata sullo studente dell'accademia e adotta una terminologia semplice ma
+il più possibile specifica. Su suppone che lo studente partecipi attivamente
+alla vita della didattica partecipando mediante varie modalità alle
+comunicazioni. Inoltre, il tutor (il docente) sarà sempre presente
+nell'accompagnamento dello studente: il percorso si pone l'obiettivo di
+raggiungere il livello di "`Applicazione`" della tassonomia di Bloom e la
+presenza del docente è, quindi, necessaria.
+
+In definitiva, la tipologia di e-learning stando alla classificazione di Mason è quella del _"`Support Online Learning`"_.
+
+[options="header", cols="<.^h, <.^"]
+|===
+2+^| Support Online Learning
+| Si focalizza | Sullo studente
+| Si basa | Sulle attività
+| È orientata all'apprendimento | In piccoli gruppi
+| Interazione con il tutor | Significativa
+| Collaborazione tra pari | Interazioni intense
+|===
+
+== Modalità di e-learning
+
+La modalità di e-learning adottata è quella completamente a distanza _con_ il
+supporto di un tutor (il docente). Quindi l'apprendimento avviene completamente
+a distanza e gli studenti sono seguiti individualmente (o in gruppi) da un
+tutor, che può avvalersi di strumenti di comunicazione sincrona o asincrona
+offerti dalla piattaforma stessa (forum, chat, videoconferenza).
