@@ -13,5 +13,5 @@ Tale corso è articolato in tre moduli, riportante di seguito.
 
 [#list-unità]
 . Introduzione allo strumento
-. Rudimenti
-. Accenti
+. Rudimenti cosa sono e quali sono
+. Accenti cosa sono e quali sono
