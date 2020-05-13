@@ -1,0 +1,123 @@
+= Definizione metodologico-didattica
+
+In questa fase della progettazione verranno scelti i modelli e le strategie
+didattiche che meglio si prestano al favorire il conseguimento degli obiettivi
+nel modo più efficace possibile.
+
+Modelli e architetture:: I modelli e le architetture didattiche più efficaci ed
+efficienti nelle condizioni di istruzione attuali sono testi, immagini e
+animazioni/video per agevolare la comprensione delle varie unità. Saranno
+inoltre presentati esempi esplicativi che favoriscano un'acquisizione più
+semplice delle nozioni.
+
+Strategie e comunicazione dei contenuti:: La stratedia didattica adottata è
+quella di suddividere il corso in tre moduli, suddivise a loro volta in diverse lezioni.
+Tali lezioni possono quindi essere seguite a piacimento dagli studenti, senza
+dover imporre alcun vincolo temporale nell'acquisizione delle varie informazioni
+(se non un vincolo di propedeuticità per i vari moduli). Al termine di ogni lezione, lo studente deve sostenere un breve quiz autovalutativo per verificare il proprio apprendimento prima di proseguire con le altre lezioni. Al termine di ogni modulo, invece, lo
+studente deve sostenere un quiz autovalutativo riguardante le lezioni di un singolo modulo per verificare il proprio
+apprendimento e per poter accedere al modulo successivo.
++
+Il materiale didattico deriva da una serie di testi e manuali tipicamente
+utilizzati nelle accademia di musica, nonché dalla diretta conversazione e
+discussione con degli esperti del dominio, che hanno validato tutti i testi
+singolarmente. Inoltre, verranno presentati anche video dove un esperto, ai quali il team si è rivolto, spiega determinati argomenti che si tratteranno in questo corso.
++
+Gli argomenti sono stati trattati con un linguaggio che sia a metà strada tra il
+semplice e il tecnico, in modo da fornire agli studenti una base di terminologia
+specifica pur mantenendo bassa la difficoltà generale del corso.
+
+Valutazione degli apprendimenti:: La definizione dei criteri per la valutazione
+dell'apprendimento deve andare di pari passo con la definizione sia degli
+obiettivi didattici sia delle strategie educative messe in atto per
+raggiungerli. A tal fine, al termine di ogni lezione è stato realizzato un test di apprendimento a risposta multipla. Tali test non sono propedeutici alla prosecuzione del corso, ma sono autovalutativi e di supporto per lo studente. Tali test si ritengono superati se si raggiunge una valutazione pari o superiore a 80/100.
+
+Al termine di ogni modulo è stato realizzato un test di
+apprendimento a risposta multipla. Tali test sono propedeutici alla
+prosecuzione del corso, sono autovalutativi e di supporto allo studente. Tali
+test si ritengono superati se si raggiunge una valutazione pari o superiore a
+80/100.
++
+Al termine dell'intero corso, lo studente può accedere a un esame finale che
+permetterà una valutazione complessiva della preparazione dello studente. Tale
+esame comprenderà sia domande a risposta multipla sui concetti teorici del
+corso, sia una fase di valutazione delle abilità pratiche acquisite dallo
+studente (nel caso specifico, sarà richiesto allo studente di studiare e suonare
+un brano concordato con il docente). Tale esame si ritiene superato se si
+raggiunge una valutazione pari o superiore a 60/100.
++
+Se il test è superato, il corso sarà considerato completato e superato e si avrà diritto a un certificato (che riporta la valutazione finale dello studente).
+
+== Struttura del corso
+
+.La struttura del corso di batteria (livello base). Il corso è diviso in 3 moduli, ciascun modulo è poi divisa in diverse lezioni.
+[blockdiag,"corso-batteria", svg, width="80%"]
+-----
+blockdiag {    
+    A[label="Corso di Batteria:\nLivello base"]
+    M1[numbered="M1",label="Introduzione allo strumento"]
+    M2[numbered="M2",label="Rudimenti cosa sono e quali sono"]
+    M3[numbered="M3",label="Accenti cosa sono e quali sono"]
+   
+
+    L1.1[numbered="L1.1",label="Struttura della batteria"]
+    L1.2[numbered="L1.2",label="I concetti fondamentali della batteria"]
+    L1.3[numbered="L1.3",label="Impugnatura della bacchetta"]
+    L2.1[numbered="L2.1",label="Introduzione ai rudimenti"]
+    L2.2[numbered="L2.2",label="Rudimenti di base"]
+    L2.3[numbered="L2.3",label="Propedeuticità dei rudimenti"]
+    L3.1[numbered="L4.1",label="Introduzione agli accenti"]
+    L3.2[numbered="L4.2",label="Accenti di base"]
+    
+    A -> M1
+    M1 -> L1.1
+    M1 -> L1.2
+    M1 -> L1.3
+    
+    A -> M2
+    M2 -> L2.1
+    M2 -> L2.2
+    M2 -> L2.3
+    
+    A -> M3
+    M3 -> L3.1
+    M3 -> L3.2
+    
+}
+-----
+
+== Storyboard
+
+=== Unità 1: Introduzione allo strumento
+
+.Storyboard: Lezione 1.1, "`Le componenti dello strumento`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Le componenti dello strumento
+| Numero pagina | 1
+| Descrizione | Sono descritte le parti del pianoforte (tastiera, pedali, ecc.).
+// | Template | 
+// | Testo | 
+| Immagini | 1
+| Audio | Nessuno
+| Video | Nessuno
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+== Layout
+
+== Contenuto e interazione
+
+I contenuti saranno sviluppati in modo da favorire l'apprendimento dello
+studente, che potrà interagire con il docente e altri studenti sia in aula
+(qualora lo studente si trovi in sede) che on-line, secondo le proprie personali
+esigenze di chiarimenti o di consulenza sull'argomento.
+
+Lo studente potrà svolgere dei quiz e degli esercizi relativi a ogni unità che
+saranno automaticamente valutati dal sistema (con un'eventuale controllo del
+docente). Inoltre, al termine del corso, lo studente dovrà svolgere un test di
+verifica delle abilità, valutato in parte dal sistema (per i concetti teorici) e
+in parte dal docente (per i concetti pratici): se lo studente supera questo
+test, il corso sarà considerato superato e sarà rilasciato un certificato di
+superamento del corso.
