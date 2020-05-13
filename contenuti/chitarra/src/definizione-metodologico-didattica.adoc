@@ -10,11 +10,11 @@ animazioni/video per agevolare la comprensione dei vari moduli. Saranno
 inoltre presentati esempi esplicativi che favoriscano un'acquisizione più
 semplice delle nozioni.
 
-Strategie e comunicazione dei contenuti:: La stratedia didattica adottata è
+Strategie e comunicazione dei contenuti:: La strategia didattica adottata è
 quella di suddividere il corso in tre moduli, suddivise in diverse lezioni.
 Tali lezioni possono quindi essere seguite a piacimento dagli studenti, senza
 dover imporre alcun vincolo temporale nell'acquisizione delle varie informazioni
-(se non un vincolo di propedeuticità). Al termine di ogni modulo, poi, lo
+(se non un vincolo di propedeuticità). Al termine di ogni lezione, poi, lo
 studente può sostenere un breve quiz autovalutativo per verificare il proprio
 apprendimento prima di proseguire.
 +
@@ -30,21 +30,25 @@ specifica pur mantenendo bassa la difficoltà generale del corso.
 Valutazione degli apprendimenti:: La definizione dei criteri per la valutazione
 dell'apprendimento deve andare di pari passo con la definizione sia degli
 obiettivi didattici sia delle strategie educative messe in atto per
-raggiungerli. A tal fine, al termine di ogni modulo è stato realizzato un test di
-apprendimento a risposta multipla. Tali test non sono propedeutici alla
-prosecuzione del corso, ma solo autovalutativi e di supporto allo studente. Tali
-test si ritengono superati se si raggiunge una valutazione pari o superiore a
-80/100.
+raggiungerli. A tal fine, al termine di ogni lezione è stato realizzato un test
+di autovalutazione a risposta multipla, non propedeutico alle altre lezioni e
+considerato superato con una valutazione pari o superiore a 80/100.
++
+Inoltre, al termine di ogni modulo è stato realizzato un test valutativo
+complessivo. Tali test _sono_ propedeutici alla prosecuzione del corso e si
+ritengono superati se si raggiunge una valutazione pari o superiore a 80/100.
 +
 Al termine dell'intero corso, lo studente può accedere a un esame finale che
 permetterà una valutazione complessiva della preparazione dello studente. Tale
-esame comprenderà sia domande a risposta multipla sui concetti teorici del
-corso, sia una fase di valutazione delle abilità pratiche acquisite dallo
-studente (nel caso specifico, sarà richiesto allo studente di studiare e suonare
-un brano concordato con il docente). Tale esame si ritiene superato se si
-raggiunge una valutazione pari o superiore a 60/100.
+esame è un orale a distanza (online) e comprenderà sia domande sui concetti
+teorici del corso, sia una fase di valutazione delle abilità pratiche acquisite
+dallo studente (nel caso specifico del corso su uno strumento, sarà richiesto
+allo studente di studiare e suonare un brano concordato con il docente). Tale
+esame si ritiene superato se si raggiunge una valutazione pari o superiore a
+60/100.
 +
-Se il test è superato, il corso sarà considerato completato e superato e si avrà diritto a un certificato (che riporta la valutazione finale dello studente).
+Se il test è superato, il corso sarà considerato completato e superato e si avrà
+diritto a un certificato (che riporta la valutazione finale dello studente).
 
 == Struttura del corso
 
@@ -156,7 +160,7 @@ studente, che potrà interagire con il docente e altri studenti sia in aula
 (qualora lo studente si trovi in sede) che on-line, secondo le proprie personali
 esigenze di chiarimenti o di consulenza sull'argomento.
 
-Lo studente potà svolgere dei quiz e degli esercizi relativi a ogni unità che
+Lo studente potà svolgere dei quiz e degli esercizi relativi ad ogni modulo che
 saranno automaticamente valutati dal sistema (con un'eventuale controllo del
 docente). Inoltre, al termine del corso, lo studente dovrà svolgere un test di
 verifica delle abilità, valutato in parte dal sistema (per i concetti teorici) e

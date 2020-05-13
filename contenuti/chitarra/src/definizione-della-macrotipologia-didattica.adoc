@@ -111,7 +111,7 @@ didattico, ma dovrà partecipare a una conferenza con il docente per valutare la
 sua capacità di suonare effettivamente lo strumento con composizione nuove.
 
 Si sottolinea che non tutte le lezioni (elencate nella sezione
-"`<<sect-unità>>`") potrebbero avere la necessità di coprire tutti i tre
+"`<<sect-modulo>>`") potrebbero avere la necessità di coprire tutti i tre
 livelli: in alcuni casi può essere sufficiente fermarsi a un livello inferiore.
 I casi specifici per ogni lezione sono riportati nella <<tab-lezioni-bloom>>.
 

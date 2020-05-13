@@ -12,12 +12,12 @@ dei 24 accordi principali in modo da permettergli di suonare qualsiasi canzone.
 Tale corso appartiene al più largo modulo "`Corso di Chitarra`" che è
 disponibile all'interno della piattaforma.
 
-[#sect-unità]
-== Suddivisione in unità
+[#sect-moduli]
+== Suddivisione in moduli
 
 Il corso può essere suddiviso in tre moduli didattici, riportate di seguito.
 
-[#list-unità]
+[#list-moduli]
 . Introduzione e utilizzo della chitarra
 . Apprendimento degli accordi principali
 . Suonare la chitarra
