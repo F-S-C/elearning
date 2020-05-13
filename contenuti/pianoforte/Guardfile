@@ -1,0 +1,8 @@
+Bundler.require :default
+
+guard 'shell' do
+  watch(/^.*?\.adoc$/) do |m|
+    puts Pathname.new(m[0]).dirname.dirname
+    AsciiDocPublishingToolbox.build dir: Pathname.new(m[0]).dirname.dirname
+  end
+end

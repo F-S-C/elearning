@@ -9,3 +9,5 @@ gem "rake", "~> 13.0"
 gem "asciidoc_publishing_toolbox", ">= 0.1.13.alpha"
 
 gem "asciidoctor-diagram", "~> 2.0"
+gem 'guard'
+gem 'guard-shell'
