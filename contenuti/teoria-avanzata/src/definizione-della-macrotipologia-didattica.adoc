@@ -1,0 +1,25 @@
+= Definizione della macrotipologia didattica
+
+La macrotipologia didattica, ovverosia la struttura complessiva del progetto, è
+caratterizzata dalla scelta della tipologia di e-learning, dall'analisi
+dell'utenza, del contenuto, dell'obiettivo e dell'infrastruttura. Quindi, si
+analizzano i vincoli di ingresso e le loro relazioni per la produzione del
+presente documento di lavoro.
+
+== Analisi dei vincoli di ingresso e delle relazioni
+
+=== Analisi dell'utenza
+
+L'utenza a cui si rivolge il corso di teoria avanzata è ampia (in età) ma 
+richiede una conoscenza musicale di base che è fondamentale per 
+la corretta comprensione dei contenuti che il corso propone. Il corso in sè 
+può fungere da "trampolino di lancio" per permettere all'utente di imparare uno
+o più strumenti avendo, al contempo, una base solida.
+Sono stati presi in esame diversi aspetti (discussi nelle sezioni
+seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
+
+==== Distanza fisica
+
+Gli utenti possono potenzialmente essere sparsi in tutto il globo, ma si
+presuppone una buona padronanza della lingua italiana. 
+
