@@ -12,8 +12,7 @@ presente documento di lavoro.
 
 Il corso di chitarra di livello base è rivolto a tutti coloro che sono interessati 
 a imparare a suonare la chitarra. Per quanto riguarda le competenze, l'utente dovrebbe
-conoscere alcuni concetti base della teoria della musica ma non è strettamente necessario
-in quanto verranno effettuati alcuni richiami agli aspetti teorici più importanti. Essendo 
+conoscere alcuni concetti base della teoria della musica. Essendo 
 di livello base, il corso risulterebbe inutile ad utenti che hanno già una buona affinità 
 con la chitarra. Per quanto riguarda l'età, l'utente deve avere almeno 13 anni, in quanto 
 si ritiene che l'insegnamento della chitarra ai bambini debba essere meno rigoroso e più
@@ -47,11 +46,11 @@ configurazione di alcun tipo.
 
 ==== Expertise di dominio dell'utente
 
-Come detto in precedenza, si consiglia che l'utente abbia la conoscenza di teoria
-musicale di base ma non è strettamente necessario.
-L'utente può anche non conoscere alcun tipo di nozione del dominio.
-Questo aspetto però non mette alcun limite alla sua possibilità di aumentare la sua
-conoscenza del dominio e di imparare a suonare la chitarra. 
+Si presume che i partecipanti del corso (almeno per una buona parte) non hanno
+mai avuto alcun contatto con il mondo della musica. Per questo motivo, deve
+essere fornito un vocabolario di base minimo che permetta la comunicazione, ma
+tale vocabolario non deve e non può sostituire un corso di teoria musicale di
+base, che resta un prerequisito consigliato del corso.
 
 ==== Omogeneità o disomogeneità di interesse tra i partecipanti
 
@@ -120,50 +119,39 @@ I casi specifici per ogni lezione sono riportati nella <<tab-lezioni-bloom>>.
 [options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
 .Attività, obiettivi e livelli della tassonomia di Bloom per ogni unità
 |===
-| N.ro Unità | Titolo unità | Attività | Obiettivo | Tassonomia di Bloom
+| N.ro Unità | Titolo modulo | Attività | Obiettivo | Tassonomia di Bloom
 
 | 1
-| Introduzione allo strumento
-| * Conoscenza delle componenti principali dello strumento e dei suoi principi
-  fondamentali
+| Introduzione e utilizzo della chitarra
+| * Conoscenza delle componenti principali dello strumento e comprensione degli esercizi
+ per rendere indipendenti le dita e per rafforzarle. 
 | Lo studente deve conoscere quali sono le componenti fondamentali dello
   strumento che sta utilizzando e deve conoscere quali sono le "`regole`" e i
   principi basilari della disciplina
-| * Conoscenza
-
-| 2
-| Utilizzare il pianoforte
-| * Comprendere come posizionarsi per suonare lo strumento e come rendere
-  indipendenti le dita. 
-  * Comprendere come una diteggiatura corretta può migliorare la qualità
-  dell'attività
-| Lo studente deve essere in grado di comprendere quali sono le posizioni
-  corrette da assumere allo strumento, in modo da poterne sviluppare delle
-  proprie in modo cosciente. Inoltre, deve essere in grado di comprendere la
-  simbologia utilizzata per indicare la diteggiatura.
+  Lo studente deve rafforzare i muscoli delle dita e della mano per essere in grado di 
+  utilizzare al meglio lo strumento e per suonare, in futuro, correttamente gli accordi.
 | * Conoscenza
   * Comprensione
 
-| 3
-| Leggere uno spartito
-| * Comprensione della simbologia basilare della partitura musicale.
-  * Comprensione delle differenze fra la notazione italiana e quella
-  internazionale.
-| Lo studente deve essere in grado di leggere una partitura musicale di base.
-  Deve essere inoltre in grado di trasporre le informazioni lette in notazione
-  internazionale.
+| 2
+| Apprendimento degli accordi principali
+| * Comprensione e utilizzo dei 24 accordi principali di base.
+| Lo studente deve essere in grado di ricordare a memoria e correttamente eseguire
+  tutti i 24 accordi principali di base.
 | * Conoscenza
   * Comprensione
   * Applicazione
 
-| 4
-| Suonare il pianoforte
-| * Individuazione delle note nel pianoforte.
-  * Utilizzo degli accordi e dei rivolti, in modo basilare.
-  * Applicazione della teoria in un caso di studio.
-| Lo studente deve essere in grado di applicare tutto quel che ha studiato
-  durante il corso per suonare un semplice pezzo senza la necessità di un
-  accompagnamento del docente.
+| 3
+| Suonare la chitarra
+| * Utilizzo degli accordi per iniziare a suonare le prime canzoni.
+  * Imparare a cambiare gli accordi in modo veloce e pulito.
+  * Comprensione e corretta esecuzione del ritmo di una canzone.
+| Lo studente deve essere in grado di effettuare correttamente gli accordi che dovrebbe
+  ricordare a memoria e deve essere in grado di cambiarli il più velocemente possibile
+  per l'esecuzione di una canzone
+  Lo studente deve anche imparare a rendere indipendenti le due mani e deve riuscire a comprendere
+  il ritmo di una canzone e successivamente replicarla.
 | * Conoscenza
   * Comprensione
   * Applicazione
@@ -188,28 +176,28 @@ Testualità, multimedialità e interattività:: Le lezioni si presentano nella
 forma di ipertesti multimediali comprensivi, quindi, di testo, immagini, video
 e/o animazioni. L'interattività è espressa mediante l'uso di hyperlink (tipici
 negli ipertesti) e dei test complessivi. Saranno presenti test al termine di
-tutte le unità didattiche, utili ai fini di un'autovalutazione, e dei test
+tutti i moduli didattici, utili ai fini di un'autovalutazione, e dei test
 complessivi che servono a valutare lo studente per considerare il corso completo
 e superato.
 
 [#sect-lezioni]
 === Suddivisione del corso in lezioni
 
-* Unità 1: Introduzione allo strumento
+* Modulo 1: Introduzione e utilizzo della chitarra
   ** Lezione 1.1: Le componenti dello strumento
-  ** Lezione 1.2: I principi fondamentali del pianoforte
-* Unità 2: Utilizzare il pianoforte
-  ** Lezione 2.1: La posizione della mano
-  ** Lezione 2.2: L'indipendenza delle dita
-  ** Lezione 2.3: La diteggiatura
-* Unità 3: Leggere uno spartito
-  ** Lezione 3.1: Le basi della partitura musicale
-  ** Lezione 3.2: La notazione internazionale
-* Unità 4: Suonare il pianoforte
-  ** Lezione 4.1: Le note sul pianoforte
-  ** Lezione 4.2: Gli accordi
-  ** Lezione 4.3: Semplificare gli accordi: i rivolti
-  ** Lezione 4.4: Applicare in pratica: "`No Woman No Cry`"
+  ** Lezione 1.2: Accordatura e corretto utilizzo delle dita
+  ** Lezione 1.3: Conoscenza delle note
+  ** Lezione 1.4: L'indipendenza delle dita e il barrè
+* Modulo 2: Apprendimento degli accordi principali
+  ** Lezione 2.1: Accordi maggiori
+  ** Lezione 2.2: Accordi minori
+  ** Lezione 2.3: Accordi diesis maggiori
+  ** Lezione 2.4: Accordi diesis minori
+* Modulo 3: Suonare la chitarra
+  ** Lezione 3.1: Giri armonici
+  ** Lezione 3.2: Introduzione del ritmo e del metronomo
+  ** Lezione 3.3: Utilizzo della mano destra
+  ** Lezione 3.4: Applicare in pratica: "`Albachiara`"
 * Esame finale
 
 [options="header", cols="^.^20h, ^.^40, ^.^40a"]
@@ -219,21 +207,24 @@ e superato.
 | Fatti (chiuso)
 | Un insieme di dati dal carattere specifico e unico
 | * I componenti dello strumento
-  * La diteggiatura
-  * La notazione internazionale
-  * Le note sul pianoforte
+  * Accordatura e corretto utilizzo delle dita
+  * Conoscenza delle note
+  * Accordi maggiori
+  * Accordi minori
+  * Accordi diesis maggiori
+  * Accordi diesis minori
+  * Giri armonici
 
 | Concetti (chiuso/aperto)
 | Categoria che include al suo interno molteplici esemplificazioni
 | * La posizione della mano
-  * L'indipendenza delle dita
-  * Le basi della partitura musicale
-  * Gli accordi
-  * Semplificare gli accordi: i rivolti
+  * L'indipendenza delle dita e il barrè
+  * Introduzione del ritmo e del metronomo
+  * Utilizzo della mano destra
 
 | Principi (aperto)
 | Indicazioni generali e linee guida
-| * I principi fondamentali del pianoforte
+| 
 
 |===
 
@@ -261,7 +252,7 @@ corso.
 
 == Tipologia di e-learning
 
-La tipologia di e-learning adottata nel corso di pianoforte di livello base è
+La tipologia di e-learning adottata nel corso di chitarra di livello base è
 focalizzata sullo studente dell'accademia e adotta una terminologia semplice ma
 il più possibile specifica. Su suppone che lo studente partecipi attivamente
 alla vita della didattica partecipando mediante varie modalità alle

@@ -4,8 +4,8 @@ include::../../prefazione.adoc[]
 
 La seguente progettazione ha quindi la funzione di spiegare in che modo sarà
 sviluppato il corso di chitarra di livello base. In questo corso ci si
-occuperà di introdurre gli utenti allo strumento e fornire alcuni richiami di teoria
-necessari per la giusta comprensione di alcuni argomenti.
+occuperà di introdurre e di fornire alcuni argomenti di teoria
+dello strumento necessari per l'utilizzo dello strumento.
 Inoltre, il corso si occuperà di insegnare ai suoi studenti la corretta esecuzione 
 dei 24 accordi principali in modo da permettergli di suonare qualsiasi canzone.
 
@@ -15,10 +15,9 @@ disponibile all'interno della piattaforma.
 [#sect-unità]
 == Suddivisione in unità
 
-Il corso può essere suddiviso in quattro unità didattiche, riportate di seguito.
+Il corso può essere suddiviso in tre moduli didattici, riportate di seguito.
 
 [#list-unità]
-. Richiami di teoria
-. Introduzione allo strumento
+. Introduzione e utilizzo della chitarra
 . Apprendimento degli accordi principali
 . Suonare la chitarra
