@@ -177,7 +177,7 @@ e superato.
   ** Lezione 2.1: La scala diatonica
   ** Lezione 2.2: Gli intervalli
   ** Lezione 2.3: Il tono e il semitono diatonico e cromatico
-* Unità 4: La tonalità, il modo e l'accordo tonale
+* Unità 3: La tonalità, il modo e l'accordo tonale
   ** Lezione 4.1: La tonalità e il modo
   ** Lezione 4.2: L'accordo tonale
 * Esame finale
