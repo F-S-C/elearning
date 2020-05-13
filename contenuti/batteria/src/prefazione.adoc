@@ -9,7 +9,7 @@ Tale corso appartiene al più largo modulo "`Corso di Batteria`" che sarà dispo
 [#sect-moduli]
 == Suddivisione in moduli
 
-Tale corso è articolato in tre moduli, riportante di seguito. 
+Tale corso è articolato in tre moduli, riportate di seguito. 
 
 [#list-unità]
 . Introduzione allo strumento
