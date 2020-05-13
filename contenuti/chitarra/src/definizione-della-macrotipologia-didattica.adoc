@@ -117,9 +117,9 @@ I casi specifici per ogni lezione sono riportati nella <<tab-lezioni-bloom>>.
 
 [#tab-lezioni-bloom]
 [options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
-.Attività, obiettivi e livelli della tassonomia di Bloom per ogni unità
+.Attività, obiettivi e livelli della tassonomia di Bloom per ogni modulo
 |===
-| N.ro Unità | Titolo modulo | Attività | Obiettivo | Tassonomia di Bloom
+| N.ro Modulo | Titolo modulo | Attività | Obiettivo | Tassonomia di Bloom
 
 | 1
 | Introduzione e utilizzo della chitarra

@@ -48,46 +48,46 @@ Se il test è superato, il corso sarà considerato completato e superato e si av
 
 == Struttura del corso
 
-.La struttura del corso di pianoforte (livello base). Il corso è diviso in 4 unità, ciascuna unità è poi divisa in diverse lezioni.
-[blockdiag,"corso-pianoforte", svg, width="80%"]
+.La struttura del corso di chitarra (livello base). Il corso è diviso in 3 moduli, ciascun modulo è poi diviso in diverse lezioni.
+[blockdiag,"corso-chitarra", svg, width="80%"]
 -----
 blockdiag {    
-    A[label="Corso di Pianoforte:\nLivello base"]
-    U1[numbered="U1",label="Introduzione allo strumento"]
-    U2[numbered="U2",label="Utilizzare il pianoforte"]
-    U3[numbered="U3",label="Leggere uno spartito"]
-    U4[numbered="U4",label="Suonare il pianoforte"]
+    A[label="Corso di Chitarra:\nLivello base"]
+    U1[numbered="U1",label="Introduzione e utilizzo della chitarra"]
+    U2[numbered="U2",label="Apprendimento degli accordi principali"]
+    U3[numbered="U3",label="Suonare la chitarra"]
 
     L1.1[numbered="L1.1",label="Le componenti dello strumento"]
-    L1.2[numbered="L1.2",label="I principi fondamentali del pianoforte"]
-    L2.1[numbered="L2.1",label="La posizione della mano"]
-    L2.2[numbered="L2.2",label="L'indipendenza delle dita"]
-    L2.3[numbered="L2.3",label="La diteggiatura"]
-    L3.1[numbered="L3.1",label="Le basi della partitura musicale"]
-    L3.2[numbered="L3.2",label="La notazione internazionale"]
-    L4.1[numbered="L4.1",label="Le note sul pianoforte"]
-    L4.2[numbered="L4.2",label="Gli accordi"]
-    L4.3[numbered="L4.3",label="Semplificare gli accordi: i rivolti"]
-    L4.4[numbered="L4.4",label="Applicare in pratica"]
+    L1.2[numbered="L1.2",label="Accordatura e corretto utilizzo delle dita"]
+    L1.3[numbered="L2.1",label="Conoscenza delle note"]
+    L1.4[numbered="L2.2",label="L'indipendenza delle dita e il barrè"]
+    L2.1[numbered="L2.3",label="Accordi maggiori"]
+    L2.2[numbered="L3.1",label="Accordi minori"]
+    L2.3[numbered="L3.2",label="Accordi diesis maggiori"]
+    L2.4[numbered="L4.1",label="Accordi diesis minori"]
+    L3.1[numbered="L4.2",label="Giri armonici"]
+    L3.2[numbered="L4.3",label="Introduzione del ritmo e del metronomo"]
+    L3.3[numbered="L4.3",label="Utilizzo della mano destra"]
+    L3.4[numbered="L4.4",label="Applicare in pratica"]
 
     A -> U1
     U1 -> L1.1
     U1 -> L1.2
+    U1 -> L1.3
+    U1 -> L1.4
     
     A -> U2
     U2 -> L2.1
     U2 -> L2.2
     U2 -> L2.3
-    
+    U2 -> L2.4
+
     A -> U3
     U3 -> L3.1
     U3 -> L3.2
+    U3 -> L3.3
+    U3 -> L3.4
     
-    A -> U4
-    U4 -> L4.1
-    U4 -> L4.2
-    U4 -> L4.3
-    U4 -> L4.4
 }
 -----
 
@@ -109,8 +109,6 @@ blockdiag {
 // | Strumenti di comunicazione | Forum, chat
 | Link | 
 |===
-
-== Gabbie logiche
 
 == Layout
 
