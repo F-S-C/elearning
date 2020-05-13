@@ -10,18 +10,18 @@ animazioni/video per agevolare la comprensione delle varie unità. Saranno
 inoltre presentati esempi esplicativi che favoriscano un'acquisizione più
 semplice delle nozioni.
 
-Strategie e comunicazione dei contenuti:: La stratedia didattica adottata è
-quella di suddividere il corso in tre moduli, suddivise a loro volta in diverse lezioni.
+Strategie e comunicazione dei contenuti:: La strategia didattica adottata è
+quella di suddividere il corso in tre moduli, suddivisi a loro volta in diverse lezioni.
 Tali lezioni possono quindi essere seguite a piacimento dagli studenti, senza
 dover imporre alcun vincolo temporale nell'acquisizione delle varie informazioni
 (se non un vincolo di propedeuticità per i vari moduli). Al termine di ogni lezione, lo studente deve sostenere un breve quiz autovalutativo per verificare il proprio apprendimento prima di proseguire con le altre lezioni. Al termine di ogni modulo, invece, lo
 studente deve sostenere un quiz autovalutativo riguardante le lezioni di un singolo modulo per verificare il proprio
-apprendimento e per poter accedere al modulo successivo.
+apprendimento e per poter accedere al modulo successivo se lo si supera.
 +
 Il materiale didattico deriva da una serie di testi e manuali tipicamente
-utilizzati nelle accademia di musica, nonché dalla diretta conversazione e
+utilizzati nelle accademie di musica, nonché dalla diretta conversazione e
 discussione con degli esperti del dominio, che hanno validato tutti i testi
-singolarmente. Inoltre, verranno presentati anche video dove un esperto, ai quali il team si è rivolto, spiega determinati argomenti che si tratteranno in questo corso.
+singolarmente. Inoltre, verranno presentati anche video dove un esperto di batteria spiega determinati argomenti che si tratteranno in questo corso.
 +
 Gli argomenti sono stati trattati con un linguaggio che sia a metà strada tra il
 semplice e il tecnico, in modo da fornire agli studenti una base di terminologia
@@ -43,14 +43,14 @@ permetterà una valutazione complessiva della preparazione dello studente. Tale
 esame comprenderà sia domande a risposta multipla sui concetti teorici del
 corso, sia una fase di valutazione delle abilità pratiche acquisite dallo
 studente (nel caso specifico, sarà richiesto allo studente di studiare e suonare
-un brano concordato con il docente). Tale esame si ritiene superato se si
+una ritmica concordata con il docente). Tale esame si ritiene superato se si
 raggiunge una valutazione pari o superiore a 60/100.
 +
 Se il test è superato, il corso sarà considerato completato e superato e si avrà diritto a un certificato (che riporta la valutazione finale dello studente).
 
 == Struttura del corso
 
-.La struttura del corso di batteria (livello base). Il corso è diviso in 3 moduli, ciascun modulo è poi divisa in diverse lezioni.
+.La struttura del corso di batteria (livello base). Il corso è suddiviso in 3 moduli, ciascun modulo è poi diviso in diverse lezioni.
 [blockdiag,"corso-batteria", svg, width="80%"]
 -----
 blockdiag {    
