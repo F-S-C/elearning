@@ -73,6 +73,7 @@ task :contenuti do
     AsciiDocPublishingToolbox.build dir: doc.dirname
     FileUtils.mkdir_p Pathname.new(__FILE__).dirname + 'docs/contenuti/' + doc.dirname.basename
     FileUtils.mv Dir[doc.dirname + "out/*"], Pathname.new(__FILE__).dirname + 'docs/contenuti/' + doc.dirname.basename, force: true
+    FileUtils.mv Dir[doc.dirname + "docs/*"], Pathname.new(__FILE__).dirname + 'docs/contenuti/' + doc.dirname.basename, force: true
     puts "\r✓ Builded '#{doc.dirname.basename}'   "
   end
 end
