@@ -48,7 +48,8 @@ Se il test è superato, il corso sarà considerato completato e superato e si av
 
 == Struttura del corso
 
-[blockdiag,"corso-pianoforte", svg, width="90%"]
+.La struttura del corso di pianoforte (livello base). Il corso è diviso in 4 unità, ciascuna unità è poi divisa in diverse lezioni.
+[blockdiag,"corso-pianoforte", svg, width="80%"]
 -----
 blockdiag {    
     A[label="Corso di Pianoforte:\nLivello base"]
@@ -89,3 +90,41 @@ blockdiag {
     U4 -> L4.4
 }
 -----
+
+== Storyboard
+
+=== Unità 1: Introduzione allo strumento
+
+.Storyboard: Lezione 1.1, "`Le componenti dello strumento`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Le componenti dello strumento
+| Numero pagina | 1
+| Descrizione | Sono descritte le parti del pianoforte (tastiera, pedali, ecc.).
+// | Template | 
+// | Testo | 
+| Immagini | 1
+| Audio | Nessuno
+| Video | Nessuno
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+== Gabbie logiche
+
+== Layout
+
+== Contenuto e interazione
+
+I contenuti saranno sviluppati in modo da favorire l'apprendimento dello
+studente, che potrà interagire con il docente e altri studenti sia in aula
+(qualora lo studente si trovi in sede) che on-line, secondo le proprie personali
+esigenze di chiarimenti o di consulenza sull'argomento.
+
+Lo studente potà svolgere dei quiz e degli esercizi relativi a ogni unità che
+saranno automaticamente valutati dal sistema (con un'eventuale controllo del
+docente). Inoltre, al termine del corso, lo studente dovrà svolgere un test di
+verifica delle abilità, valutato in parte dal sistema (per i concetti teorici) e
+in parte dal docente (per i concetti pratici): se lo studente supera questo
+test, il corso sarà considerato superato e sarà rilasciato un certificato di
+superamento del corso.
