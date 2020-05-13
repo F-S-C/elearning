@@ -297,4 +297,103 @@ docenti.
 
 == Dimensione tecnologica
 
-_Analisi e scelta delle piattaforme._
+Si sono analizzate diverse piattaforme LMS. Nella <<tab-analisi-piattaforme>> si
+riporta una scheda riassuntiva delle principali piattaforme prese in analisi e
+di una loro comparazione.
+
+[#tab-analisi-piattaforme]
+.Comparazione delle piattaforme prese in analisi
+[options="header", cols="^.^h,5*^.^", stripes=even]
+|===
+| Feature | forma.lms | ATutor | Moodle | WeSchool | Sakai
+
+| Costo
+| Gratuito
+| Gratuito
+| Gratuito
+| Gratuito
+| Gratuito
+
+| Limiti
+| Nessun supporto, versione non recente
+| Nessun supporto
+| Nessun supporto
+| Nessun supporto
+| Nessun supporto
+
+| Documentazione
+| Nessuna
+| Limitata
+| Limitata
+| Limitata
+| Limitata
+
+| Facilità di installazione
+| Semplice, ma con problemi
+| Semplice
+| Semplice
+| Semplice
+| Semplice
+
+| Facilità di configurazione
+| Complessa per assenza di documentazione
+| Semplice
+| Semplice
+| Semplice
+| Semplice
+
+| Forum
+| Sì
+| Sì
+| Sì
+| Sì
+| Sì, ma complesso da usare
+
+| Chat
+| Sì
+| No
+| Sì
+| No
+| Sì
+
+| Videoconferenze
+| Sì
+| No
+| Sì (plugin)
+| Sì (plugin)
+| No
+
+| Editor visuale di ipertesti
+| Sì
+| ATutor
+| Sì
+| No
+| Sì
+
+| Gestione di certificati
+| Sì
+| No
+| Sì (plugin)
+| No
+| No
+|===
+
+Fra tutte le piattaforme, le più conosciute e le più affini agli obiettivi della
+piattaforma in progettazione sono "`forma.lms`" e "`Moodle`".
+
+=== Moodle e forma.lms
+
+Le differenze principali tra Moodle e forma.lms stanno sulla loro documentazione
+e sulla loro user base.
+
+Benché le feature offerte siano simili per entrambe le piattaforme, forma.lms
+risulta complicata da gestire e utilizzare in quanto la documentazione è
+completamente assente. Moodle, d'altro canto, offre una documentazione di base
+per le operazioni di configurazione necessarie.
+
+Inoltre, la base di utenza di Moodle è molto più ampia di quella di forma.lms:
+questo comporta una maggiore disponibilità di plugin e template per Moodle,
+nonché un maggior supporto dai forum e da siti di _Q&A (Question & Answer)_ come
+StackOverflow.
+
+In definitiva, la piattaforma LMS scelta per la realizzazione è *Moodle*.
