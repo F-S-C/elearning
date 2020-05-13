@@ -13,7 +13,7 @@ presente documento di lavoro.
 L'utenza a cui si rivolge il corso di teoria avanzata è ampia (in età) ma 
 richiede una conoscenza musicale di base che è fondamentale per 
 la corretta comprensione dei contenuti che il corso propone. Il corso in sè 
-può fungere da "trampolino di lancio" per permettere all'utente di imparare uno
+può fungere da "`trampolino di lancio`" per permettere all'utente di imparare uno
 o più strumenti avendo, al contempo, una base solida.
 Sono stati presi in esame diversi aspetti (discussi nelle sezioni
 seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
@@ -22,4 +22,228 @@ seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
 
 Gli utenti possono potenzialmente essere sparsi in tutto il globo, ma si
 presuppone una buona padronanza della lingua italiana. 
+Non è necessario l'incontro fisico in quanto gli argomenti trattati possono 
+essere appresi tranquillamente in autonomia. Inoltre l'utente, accedendo alla
+piattaforma, deve poter usufruire del materiale didattico in qualsiasi momento.
+Tuttavia, qualora sopraggiungesse la necessità di un incontro fisico, esso può
+essere effettuato online attraverso la piattaforma.
 
+==== Numero
+
+Il numero degli utenti non è prevedibile a priori. Per questo motivo il
+materiale didattico deve essere fruibile senza limiti di utenti attivi
+contemporaneamente. Una eccezione riguarda gli incontri online organizzati:
+qualora il numero di iscritti al corso fosse ingestibile per una singola
+conferenza, è possibile suddividere il gruppo in sottogruppi con cui
+organizzare singolarmente degli incontri.
+
+==== Accesso dell'utente alla tecnologia
+
+Le competenze e conoscenze informatiche degli utenti sono varie, ma tutti
+conoscono almeno come si utilizza un browser internet. Non sono necessarie
+configurazioni di alcun tipo, quindi agli utenti non è richiesta alcuna
+competenza specifica.
+
+==== Expertise di dominio dell'utente
+
+Si presume che i partecipanti del corso abbiano già una base di teoria della 
+musica conoscendo già le terminologie di base, lo spartito, le note i valori e
+le pause.
+
+==== Omogeneità o disomogeneità di interesse tra i partecipanti
+
+L'interesse medio sarà omogeneo in quanto tutti i partecipanti scelgono
+liberamente di iscriversi al corso in base in base alle proprie preferenze e
+alle proprie inclinazioni. Inoltre, al superamento di una prova finale, sarà
+consegnato ai partecipanti un attestato di partecipazione e superamento del
+corso: questo terrà vivo l'interesse dei partecipanti.
+
+==== Disponibilità del partecipante alla condivisione e alla collaborazione
+
+Il partecipante, nel suo interesse, sarà invogliato alla collaborazione con
+altri iscritti per approfondire argomenti, chiarire dubbi, risolvere problemi e
+confrontarsi. Tali comunicazioni possono avvenire mediante gli strumenti
+disposti dalla piattaforma (forum, chat, ecc.) ma anche con modalità esterne
+(social network, software di _Instant Messaging_, ecc.)
+
+== Analisi dell'obiettivo
+
+Gli obiettivi formativi sono definiti utilizzando la _tassonomia di Bloom_ al
+fine di categorizzare gli obiettivi educativi nel dominio conoscitivo, che
+riguarda le attività intellettuali e logiche. Tale dominio viene suddiviso nei
+seguenti obiettivi didattici, ordinati di seguito dal più semplice al più
+complesso: _Conoscenza_, _Comprensione_, _Analisi_, _Applicazione_, _Sintesi_ e
+_Valutazione_.
+
+Il corso si pone l'obiettivo di raggiungere il livello di Analisi. Nelle
+seguenti sezioni si riportano gli obiettivi e le motivazioni dei due livelli
+coperti dal corso.
+
+Conoscenza:: L'utente deve essere in grado di rievocare il materiale memorizzato
+e richiamare alla memoria fatti, metodi e processi. Per verificare la
+correttezza della conoscenza acquisita dallo studente, al termine delle attività
+didattiche, saranno inseriti dei brevi test di autovalutazione (nelle forme di
+domande a risposta multipla e/o test vero/falso).
+
+Comprensione:: L'utente deve essere in grado di afferrare il senso delle
+informazioni e di saperle trasformare. Pertanto, per favorire l'acquisizione e
+l'estrapolazione delle informazioni saranno inserite durante le lezioni delle
+immagini, degli esempi e/o dei grafici che accompagnino la spiegazione. Ogni
+studente deve quindi essere in grado di rispondere a domande poste in maniera
+differente rispetto a quanto riportato all'interno del materiale didattico.
+
+Analisi:: L'utente deve essere in grado di analizzare lo spartito utilizzando le
+conoscenze messe a disposizione dal corso. Inoltre, deve essere capace di
+raffinare la scrittura e lettura musicale analizzando e rivisitando spartiti
+complessi in chiavi diverse. Ai fini della valutazione di questo aspetto, al
+termine del corso lo studente dovrà affrontare un esame in cui non solo gli 
+verranno poste delle domande legate al materiale didattico, ma dovrà partecipare
+a una conferenza con il docente per valutare la comprensione dello spartito e la 
+lettura e spiegazione dei simboli che lo compongono.
+
+Si sottolinea che non tutte le lezioni (elencate nella sezione
+"`<<sect-unità>>`") potrebbero avere la necessità di coprire tutti i tre
+livelli: in alcuni casi può essere sufficiente fermarsi a un livello inferiore.
+I casi specifici per ogni lezione sono riportati nella <<tab-lezioni-bloom>>.
+
+[#tab-lezioni-bloom]
+[options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
+.Attività, obiettivi e livelli della tassonomia di Bloom per ogni unità
+|===
+| N.ro Unità | Titolo unità | Attività | Obiettivo | Tassonomia di Bloom
+
+| 1
+| Tono, semitono e alterazioni
+| * Conoscenza delle differenze tra toni e semitoni.
+  * Comprensione delle Alterazioni costanti, momentanee e di 
+  precauzione.
+| Lo studente deve essere in grado di comprendere le principali differenze tra
+toni e semitoni e deve saper comprendere e giustificare le scelte delle 
+alterazioni all'interno dello spartito.
+| * Conoscenza
+  * Comprensione
+
+| 2
+| Scala diatonica, gli intervalli e il cromatismo
+| * Comprensione delle scale di Do _Maggiore_ e La _Minore_
+  * Conoscenza degli intervalli tra note
+  * Comprensione dei toni e dei semitoni diatonici e cromatici
+| Lo studente deve comprendere l'importanza delle scale diatoniche e conoscere 
+gli intervalli congiunti, disgiunti e melodici. Inoltre, deve comprendere le 
+differenze tra toni, semitoni diatonici e semitoni cromatici.
+| * Conoscenza
+  * Comprensione
+  * Analisi
+
+| 3
+| La tonalità, il modo e l'accordo tonale
+| * Conoscenza della tonalità, del modo maggiore e del modo minore
+  * Comprensione dell'accordo tonale
+| Lo studente deve conoscere le tonalità delle varie note e il loro grado,
+i due possibili modi delle tonalità ovvero maggiore e minore, comprendere 
+l'accordo tonale e la nota differenziale e personale.
+| * Conoscenza
+  * Comprensione
+|===
+
+== Analisi del contenuto
+
+I contenuti del corso sono analizzati in base alle seguenti caratteristiche:
+
+Apertura o chiusura:: Il contenuto è totalmente chiuso, in quanto trattasi di 
+fatti e concetti.
+
+Stabilità o instabilità:: I contenuti delle lezioni sono stabili, in quanto il
+corso tratta di argomenti ben radicati nell'ambito musicale. È possibile
+prevedere aggiornamenti futuri, dovuti all'avanzamento della materia, ma è poco
+probabile che tali aggiornamenti riguardino le tecniche e i principi di base
+trattati in questo corso.
+
+Testualità, multimedialità e interattività:: Le lezioni si presentano nella
+forma di ipertesti multimediali comprensivi, quindi, di testo, immagini, video
+e/o animazioni. L'interattività è espressa mediante l'uso di hyperlink (tipici
+negli ipertesti) e dei test complessivi. Saranno presenti test al termine di
+tutte le unità didattiche, utili ai fini di un'autovalutazione, e dei test
+complessivi che servono a valutare lo studente per considerare il corso completo
+e superato.
+
+[#sect-lezioni]
+=== Suddivisione del corso in lezioni
+
+* Unità 1: Tono, semitono e alterazioni
+  ** Lezione 1.1: Il tono e il semitono
+  ** Lezione 1.2: Le alterazioni
+* Unità 2: Scala diatonica, gli intervalli e il cromatismo
+  ** Lezione 2.1: La scala diatonica
+  ** Lezione 2.2: Gli intervalli
+  ** Lezione 2.3: Il tono e il semitono diatonico e cromatico
+* Unità 4: La tonalità, il modo e l'accordo tonale
+  ** Lezione 4.1: La tonalità e il modo
+  ** Lezione 4.2: L'accordo tonale
+* Esame finale
+
+[options="header", cols="^.^20h, ^.^40, ^.^40a"]
+|===
+| Tipo di contenuto | Descrizione | Esempi
+
+| Fatti (chiuso)
+| Un insieme di dati dal carattere specifico e unico
+| * Il tono e il semitono
+  * Le alterazioni
+  * La scala diatonica
+  * La tonalità e il modo
+
+|===
+
+== Analisi dell'infrastruttura
+
+Nei successivi paragrafi saranno valutati gli aspetti tecnologici e le risorse
+umane disponibili.
+
+=== Aspetti tecnologici
+
+È utilizzata la piattaforma Moodle, piattaforma che copre il ruolo di LMS
+(Learning Management System) e di LCMS (Learning Content Management System).
+L'intero processo di creazione e gestione dei contenuti è supportato dal manuale
+utente per i docenti. L'intero materiale sarà gestito come nodi ipertestuali
+autosufficienti, che permetterà il riciclo di nodi tra vari corsi (se
+necessario).
+
+=== Disponibilità di risorse umane
+
+Il docente del corso creerà e renderà disponibili tutti i materiali all'interno
+della piattaforma. Sarà il docente (con l'eventuale assistenza di terzi, se
+ritenuto necessario) a rispondere a richieste sui forum o nella chat e
+correggerà gli eventuali esercizi a risposta aperta presenti all'interno del
+corso.
+
+== Tipologia di e-learning
+
+La tipologia di e-learning adottata nel corso di teoria avanzata è
+focalizzata sullo studente dell'accademia e adotta una terminologia tecnica ma, 
+allo stesso tempo, comprensibile. Si suppone che lo studente partecipi attivamente
+alla vita della didattica mediante le varie modalità di comunicazione.
+Inoltre, il tutor (il docente) sarà sempre presente nell'accompagnamento
+dello studente: il percorso si pone l'obiettivo di raggiungere il livello di 
+"`Analisi`" della tassonomia di Bloom e la presenza del docente è, quindi,
+necessaria.
+
+In definitiva, la tipologia di e-learning stando alla classificazione di Mason è quella del _"`Support Online Learning`"_.
+
+[options="header", cols="<.^h, <.^"]
+|===
+2+^| Support Online Learning
+| Si focalizza | Sullo studente
+| Si basa | Sulle attività
+| È orientata all'apprendimento | In piccoli gruppi
+| Interazione con il tutor | Significativa
+| Collaborazione tra pari | Interazioni intense
+|===
+
+== Modalità di e-learning
+
+La modalità di e-learning adottata è quella completamente a distanza _con_ il
+supporto di un tutor (il docente). Quindi l'apprendimento avviene completamente
+a distanza e gli studenti sono seguiti individualmente (o in gruppi) da un
+tutor, che può avvalersi di strumenti di comunicazione sincrona o asincrona
+offerti dalla piattaforma stessa (forum, chat, videoconferenza).

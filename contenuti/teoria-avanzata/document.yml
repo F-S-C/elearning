@@ -6,6 +6,11 @@ authors:
   email: a.annese23@studenti.uniba.it
 chapters:
 - title: Prefazione
+  part: false
+- title: Definizione della macrotipologia didattica
+  part: false
+- title: Definizione metodologico-didattica
+  part: false
 lang: it
 copyright:
   fromYear: 2020
