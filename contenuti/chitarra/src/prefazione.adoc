@@ -9,7 +9,6 @@ necessari per la giusta comprensione di alcuni argomenti.
 Inoltre, il corso si occuperà di insegnare ai suoi studenti la corretta esecuzione 
 dei 24 accordi principali in modo da permettergli di suonare qualsiasi canzone.
 
-
 Tale corso appartiene al più largo modulo "`Corso di Chitarra`" che è
 disponibile all'interno della piattaforma.
 
@@ -19,7 +18,7 @@ disponibile all'interno della piattaforma.
 Il corso può essere suddiviso in quattro unità didattiche, riportate di seguito.
 
 [#list-unità]
-. Introduzione allo strumento
 . Richiami di teoria
+. Introduzione allo strumento
 . Apprendimento degli accordi principali
 . Suonare la chitarra
