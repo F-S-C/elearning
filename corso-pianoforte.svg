@@ -9,10 +9,10 @@
   <title>blockdiag</title>
   <desc>blockdiag {
     A[label="Corso di Pianoforte:\nLivello base"]
-    U1[numbered="U1",label="Introduzione allo strumento"]
-    U2[numbered="U2",label="Utilizzare il pianoforte"]
-    U3[numbered="U3",label="Leggere uno spartito"]
-    U4[numbered="U4",label="Suonare il pianoforte"]
+    U1[numbered="M1",label="Introduzione allo strumento"]
+    U2[numbered="M2",label="Utilizzare il pianoforte"]
+    U3[numbered="M3",label="Leggere uno spartito"]
+    U4[numbered="M4",label="Suonare il pianoforte"]
 
     L1.1[numbered="L1.1",label="Le componenti dello strumento"]
     L1.2[numbered="L1.2",label="I principi fondamentali del pianoforte"]
@@ -68,20 +68,20 @@
   <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="126" x="320.0" y="59">Introduzione allo str</text>
   <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="36" x="320.0" y="72">umento</text>
   <ellipse cx="256" cy="40" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
-  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="12" x="256.0" y="46">U1</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="12" x="256.0" y="46">M1</text>
   <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="256" y="200" />
   <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="126" x="320.0" y="219">Utilizzare il pianofo</text>
   <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="18" x="320.0" y="232">rte</text>
   <ellipse cx="256" cy="200" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
-  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="12" x="256.0" y="206">U2</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="12" x="256.0" y="206">M2</text>
   <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="256" y="440" />
   <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="120" x="320.0" y="466">Leggere uno spartito</text>
   <ellipse cx="256" cy="440" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
-  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="12" x="256.0" y="446">U3</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="12" x="256.0" y="446">M3</text>
   <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="256" y="600" />
   <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="126" x="320.0" y="626">Suonare il pianoforte</text>
   <ellipse cx="256" cy="600" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
-  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="12" x="256.0" y="606">U4</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="12" x="256.0" y="606">M4</text>
   <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="448" y="40" />
   <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="126" x="512.0" y="59">Le componenti dello s</text>
   <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="48" x="512.0" y="72">trumento</text>
