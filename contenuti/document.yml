@@ -1,0 +1,34 @@
+---
+title: 'Marley Academy: Progettazione dei Contenuti'
+authors:
+- name: Andrea
+  surname: Esposito
+  email: a.esposito39@studenti.uniba.it
+- name: Alessandro
+  surname: Annese
+  email: a.annese23@studenti.uniba.it
+- name: Davide
+  surname: De Salvo
+  email: d.desalvo@studenti.uniba.it
+- name: Graziano
+  surname: Montanaro
+  email: g.montanaro16@studenti.uniba.it
+- name: Regina
+  surname: Zaccaria
+  email: r.zaccaria14@studenti.uniba.it
+chapters:
+- title: Prefazione
+  part: false
+- title: Definizione della macrotipologia didattica
+  part: false
+- title: Definizione metodologico-didattica
+  part: false
+lang: it
+copyright:
+  fromYear: 2020
+  holder: FSC -- Five Students of Computer Science
+  adptNotice: true
+options:
+  target: github
+  revhistory: true
+  revhistoryLabel: Revision History
