@@ -56,8 +56,8 @@ Se il test è superato, il corso sarà considerato completato e superato e si av
 blockdiag {    
     A[label="Corso di Batteria:\nLivello base"]
     M1[numbered="M1",label="Introduzione allo strumento"]
-    M2[numbered="M2",label="Rudimenti cosa sono e quali sono"]
-    M3[numbered="M3",label="Accenti cosa sono e quali sono"]
+    M2[numbered="M2",label="Rudimenti"]
+    M3[numbered="M3",label="Accenti"]
    
 
     L1.1[numbered="L1.1",label="Struttura della batteria"]
@@ -88,19 +88,128 @@ blockdiag {
 
 == Storyboard
 
-=== Unità 1: Introduzione allo strumento
+=== Modulo 1: Introduzione allo strumento
 
-.Storyboard: Lezione 1.1, "`Le componenti dello strumento`"
+.Storyboard: Lezione 1.1, "`Struttura della batteria`"
 [cols="<.^20h,<.^80"]
 |===
-| Argomento | Le componenti dello strumento
-| Numero pagina | 1
-| Descrizione | Sono descritte le parti del pianoforte (tastiera, pedali, ecc.).
+| Argomento | Struttura della batteria
+| Numero pagina | 
+| Descrizione | Viene descritto che tipo di strumento è la batteria e quali sono le sue componenti (cassa, rullante, piatti, ecc.).
 // | Template | 
 // | Testo | 
-| Immagini | 1
-| Audio | Nessuno
-| Video | Nessuno
+| Immagini | 
+| Audio | 
+| Video | 
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+.Storyboard: Lezione 1.2, "`I concetti fondamentali della batteria`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | I concetti fondamentali della batteria
+| Numero pagina | 
+| Descrizione | Vengono introdotti i principi fondamentali che si trovano alla base dell'utilizzo di questo strumento, ovvero la coordinazione e l'indipendenza.
+// | Template | 
+// | Testo | 
+| Immagini | 
+| Audio | 
+| Video | 
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+.Storyboard: Lezione 1.3, "`Impugnatura della bacchetta`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Impugnatura della bacchetta
+| Numero pagina | 
+| Descrizione | Viene dimostrato e spiegato come viene impugnata la bacchetta e la sua importanza.
+// | Template | 
+// | Testo | 
+| Immagini | 
+| Audio | 
+| Video | 
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+=== Modulo 2: Rudimenti
+
+.Storyboard: Lezione 2.1, "`Introduzione ai rudimenti`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Introduzione ai rudimenti
+| Numero pagina | 
+| Descrizione | Viene spiegato cosa sono i rudimenti e la loro importanza in quanto alla base di qualsiasi ritmica.
+// | Template | 
+// | Testo | 
+| Immagini | 
+| Audio | 
+| Video | 
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+.Storyboard: Lezione 2.2, "`Rudimenti di base`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Rudimenti di base
+| Numero pagina | 
+| Descrizione | Vengono illustrati e spiegati quali sono i rudimenti di base fondamentali da conoscere.
+// | Template | 
+// | Testo | 
+| Immagini | 
+| Audio | 
+| Video | 
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+.Storyboard: Lezione 2.3, "`Propedeuticità dei rudimenti`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Propedeuticità dei rudimenti
+| Numero pagina | 
+| Descrizione | Viene spiegato e illustrato la propedeuticità dei rudimenti studiati nella lezione precendete.
+// | Template | 
+// | Testo | 
+| Immagini | 
+| Audio | 
+| Video | 
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+=== Modulo 3: Accenti
+
+.Storyboard: Lezione 3.1, "`Introduzione agli accenti`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Introduzione agli accenti
+| Numero pagina | 
+| Descrizione | Vengono spiegati cosa sono gli accenti di base fondamentali che sono alla base per l'utilizzo della batteria.
+// | Template | 
+// | Testo | 
+| Immagini | 
+| Audio | 
+| Video | 
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+.Storyboard: Lezione 3.2, "`Accenti di base`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Accenti di base
+| Numero pagina | 
+| Descrizione | Vengono spiegati e illustrati quali sono gli accenti di base.
+// | Template | 
+// | Testo | 
+| Immagini | 
+| Audio | 
+| Video | 
 // | Strumenti di comunicazione | Forum, chat
 | Link | 
 |===
