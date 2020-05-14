@@ -1,0 +1,21 @@
+:course-name: teoria (livello avanzato)
+
+include::../../prefazione.adoc[]
+
+La seguente progettazione ha quindi la funzione di spiegare in che modo sarà
+sviluppato il corso di teoria avanzata. In questo corso ci si occuperà di 
+approfondire i concetti musicali portando la conoscenza musicale dell'utente
+ad un livello superiore e avanzato. 
+
+Pertanto, si presuppone che l'utente abbia già delle conoscenze di base della 
+musica che può altresì apprendere nel già presente "`Corso di Teoria Base`".
+
+[#sect-unità]
+== Suddivisione in unità
+
+Il corso può essere suddiviso in tre unità didattiche, riportate di seguito.
+
+[#list-unità]
+. Tono, semitono e alterazioni
+. Scala diatonica, gli intervalli e il cromatismo
+. La tonalità, il modo e l'accordo tonale
