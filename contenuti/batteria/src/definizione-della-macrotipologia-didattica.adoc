@@ -166,13 +166,13 @@ Inoltre, saranno presenti dei test al termine di ogni singolo modulo, utili ai f
   ** Lezione 1.1: Struttura dello strumento
   ** Lezione 1.2: I concetti fondamentali della batteria
   ** Lezione 1.3: Impugnatura della bacchetta
-* Modulo 2: Rudimenti cosa sono e quali sono
+* Modulo 2: Rudimenti 
   ** Lezione 2.1: Introduzione ai rudimenti
-  ** Lezione 2.2: Quali sono i rudimenti
+  ** Lezione 2.2: Rudimenti di base
   ** Lezione 2.3: Propedeuticità dei rudimenti
-* Modulo 3: Accenti cosa sono e quali sono
+* Modulo 3: Accenti 
   ** Lezione 3.1: Introduzione agli accenti
-  ** Lezione 3.2: Diversi tipi di accenti
+  ** Lezione 3.2: Accenti di base
 * Esame finale
 
 [options="header", cols="^.^20h, ^.^40, ^.^40a"]
@@ -187,12 +187,12 @@ Inoltre, saranno presenti dei test al termine di ogni singolo modulo, utili ai f
 | Concetti (chiuso/aperto)
 | Categoria che include al suo interno molteplici esemplificazioni
 | * L'impugnatura della bacchetta
-  * Quali sono i rudimenti
+  * Rudimenti di base
   * Propedeuticità dei rudimenti
-  * Diversi tipi di accenti
+  * Accenti di base
 | Principi (aperto)
 | Indicazioni generali e linee guida
-| * I principi fondamentali della batteria
+| * I concetti fondamentali della batteria
 |===
 
 == Analisi dell'infrastruttura
