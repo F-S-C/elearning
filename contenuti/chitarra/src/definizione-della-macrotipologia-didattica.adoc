@@ -1,0 +1,282 @@
+= Definizione della macrotipologia didattica
+
+La macrotipologia didattica, ovverosia la struttura complessiva del progetto, è
+caratterizzata dalla scelta della tipologia di e-learning, dall'analisi
+dell'utenza, del contenuto, dell'obiettivo e dell'infrastruttura. Quindi, si
+analizzano i vincoli di ingresso e le loro relazioni per la produzione del
+presente documento di lavoro.
+
+== Analisi dei vincoli di ingresso e delle relazioni
+
+=== Analisi dell'utenza
+
+Il corso di chitarra di livello base è rivolto a tutti coloro che sono interessati 
+a imparare a suonare la chitarra. Per quanto riguarda le competenze, l'utente dovrebbe
+conoscere alcuni concetti base della teoria della musica. Essendo 
+di livello base, il corso risulterebbe inutile ad utenti che hanno già una buona affinità 
+con la chitarra. Per quanto riguarda l'età, l'utente deve avere almeno 13 anni, in quanto 
+si ritiene che l'insegnamento della chitarra ai bambini debba essere meno rigoroso e più
+basato sul "`diverire per apprendere`". Sono stati presi in esame diversi aspetti
+(discussi nelle sezioni seguenti) per comprendere quali sono le caratteristiche dei 
+potenziali utenti.
+
+==== Distanza fisica
+
+Gli utenti possono anche non essere in italia ma si presuppone che abbiano
+una buona padronanza della lingua italiana. Proprio per questi motivi, non c'è
+nessuna possibilità di una lezione fisica in sede. Il corso sarà interamente organizzato
+in modo tale da non far risultare necessaria la presenza fisica di un insegnante, permettendo a
+chiunque di avere accesso al materiale didattico in qualsiasi momento. La mancanza di incontri 
+in presenza potrà essere sostituita da incontri online.
+
+==== Numero
+
+Il corso non avrà un numero massimo di utenti. Ovviamente, il materiale didattico 
+deve essere fruibile a tutti gli utenti iscritti.
+La gestione di incontri online con un elevato numero di studenti, però, risulterebbe
+molto complicato e impossibile, quindi, solo in caso di incontri online, verranno
+organizzati dei gruppi di lavoro per effettuare le lezioni online.
+
+==== Accesso dell'utente alla tecnologia
+
+L'utente dovrà solo avere la conoscenza di accedere ad un browser internet, 
+aspetto che ormai tutti conoscono in quest'epoca.
+Non sono necessarie altre competenze informatiche e non è prevista nessuna
+configurazione di alcun tipo.
+
+==== Expertise di dominio dell'utente
+
+Si presume che i partecipanti del corso (almeno per una buona parte) non hanno
+mai avuto alcun contatto con il mondo della musica. Per questo motivo, deve
+essere fornito un vocabolario di base minimo che permetta la comunicazione, ma
+tale vocabolario non deve e non può sostituire un corso di teoria musicale di
+base, che resta un prerequisito consigliato del corso.
+
+==== Omogeneità o disomogeneità di interesse tra i partecipanti
+
+L'obbietivo del corso è noto a tutti, gli studenti che parteciperanno sono
+studenti che hanno scelto liberamente di iscriversi.
+In base alla loro voglia di imparare, ognuno raggiungerà un livello diverso.
+Questo interesse o questa voglia può anche non essere omogenea tra tutti 
+i partecipanti.
+Gli studenti che perdono il piacere di imparare a suonare la chitarra potranno
+liberamente abbandonare il corso.
+
+==== Disponibilità del partecipante alla condivisione e alla collaborazione
+
+La musica inevitabilmente favorisce la relazione tra studenti.
+L'arte della musica porterà ad invogliare i partecipanti alla collaborazione
+con gli altri iscritti, sia per chiarire eventuali dubbi e migliorarsi e sia
+per suonare e divertirsi insieme.
+La comunicazione può avvenire tramite gli strumenti disposti dalla piattaforma 
+(forum, chat, ecc.) o anche tramite social network.
+Da non dimenticare però il mezzo di comunicazione più importante, "`la musica`".
+
+== Analisi dell'obiettivo
+
+Gli obiettivi formativi sono definiti utilizzando la _tassonomia di Bloom_ al
+fine di categorizzare gli obiettivi educativi nel dominio conoscitivo, che
+riguarda le attività intellettuali e logiche. Tale dominio viene suddiviso nei
+seguenti obiettivi didattici, ordinati di seguito dal più semplice al più
+complesso: _Conoscenza_, _Comprensione_, _Analisi_, _Applicazione_, _Sintesi_ e
+_Valutazione_.
+
+Il corso si pone l'obiettivo di raggiungere il livello di Applicazione. Nelle
+seguenti sezioni si riportano gli obiettivi e le motivazioni dei tre livelli
+coperti dal corso.
+
+Conoscenza:: L'utente deve essere in grado di rievocare il materiale memorizzato
+e richiamare alla memoria fatti, metodi e processi. Per verificare la
+correttezza della conoscenza acquisita dallo studente, al termine delle attività
+didattiche, saranno inseriti dei brevi test di autovalutazione (nelle forme di
+domande a risposta multipla e/o test vero/falso).
+
+Comprensione:: L'utente deve essere in grado di afferrare il senso delle
+informazioni e di saperle trasformare. Pertanto, per favorire l'acquisizione e
+l'estrapolazione delle informazioni saranno inserite durante le lezioni delle
+immagini, degli esempi e/o dei grafici che accompagnino la spiegazione. Ogni
+studente deve quindi essere in grado di rispondere a domande poste in maniera
+differente rispetto a quanto riportato all'interno del materiale didattico.
+
+Applicazione:: L'utente deve essere in grado di utilizzare il materiale
+conosciuto per risolvere problemi nuovi e deve inoltre saper utilizzare
+rappresentazioni astratte in casi concreti. Nel caso specifico dello strumento
+musicale, lo studente deve essere in grado di utilizzare in pratica ciò che ha
+studiato dal materiale didattico astratto e deve inoltre essere in grado di
+utilizzare le tecniche apprese in nuovi contesti (per esempio, imparando
+autonomamente a suonare una composizione nuova). Ai fini della valutazione di
+questo aspetto, al termine del corso lo studente dovrà affrontare un esame in
+cui non solo gli verranno poste delle domande nuove legate al materiale
+didattico, ma dovrà partecipare a una conferenza con il docente per valutare la
+sua capacità di suonare effettivamente lo strumento con composizione nuove.
+
+Si sottolinea che non tutte le lezioni (elencate nella sezione
+"`<<sect-modulo>>`") potrebbero avere la necessità di coprire tutti i tre
+livelli: in alcuni casi può essere sufficiente fermarsi a un livello inferiore.
+I casi specifici per ogni lezione sono riportati nella <<tab-lezioni-bloom>>.
+
+[#tab-lezioni-bloom]
+[options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
+.Attività, obiettivi e livelli della tassonomia di Bloom per ogni modulo
+|===
+| N.ro Modulo | Titolo modulo | Attività | Obiettivo | Tassonomia di Bloom
+
+| 1
+| Introduzione e utilizzo della chitarra
+| * Conoscenza delle componenti principali dello strumento e comprensione degli esercizi
+ per rendere indipendenti le dita e per rafforzarle. 
+| Lo studente deve conoscere quali sono le componenti fondamentali dello
+  strumento che sta utilizzando e deve conoscere quali sono le "`regole`" e i
+  principi basilari della disciplina
+  Lo studente deve rafforzare i muscoli delle dita e della mano per essere in grado di 
+  utilizzare al meglio lo strumento e per suonare, in futuro, correttamente gli accordi.
+| * Conoscenza
+  * Comprensione
+
+| 2
+| Apprendimento degli accordi principali
+| * Comprensione e utilizzo dei 24 accordi principali di base.
+| Lo studente deve essere in grado di ricordare a memoria e correttamente eseguire
+  tutti i 24 accordi principali di base.
+| * Conoscenza
+  * Comprensione
+  * Applicazione
+
+| 3
+| Suonare la chitarra
+| * Utilizzo degli accordi per iniziare a suonare le prime canzoni.
+  * Imparare a cambiare gli accordi in modo veloce e pulito.
+  * Comprensione e corretta esecuzione del ritmo di una canzone.
+| Lo studente deve essere in grado di effettuare correttamente gli accordi che dovrebbe
+  ricordare a memoria e deve essere in grado di cambiarli il più velocemente possibile
+  per l'esecuzione di una canzone
+  Lo studente deve anche imparare a rendere indipendenti le due mani e deve riuscire a comprendere
+  il ritmo di una canzone e successivamente replicarla.
+| * Conoscenza
+  * Comprensione
+  * Applicazione
+
+|===
+
+== Analisi del contenuto
+
+I contenuti del corso sono analizzati in base alle seguenti caratteristiche:
+
+Apertura o chiusura:: Il contenuto è principalmente (ma non totalmente) chiuso,
+in quanto trattasi di fatti e concetti. Tuttavia vi sono alcune eccezioni in cui
+i contenuti risultano aperti in quanto principi o processi.
+
+Stabilità o instabilità:: I contenuti delle lezioni sono stabili, in quanto il
+corso tratta di argomenti ben radicati nell'ambito musicale. È possibile
+prevedere aggiornamenti futuri, dovuti all'avanzamento della materia, ma è poco
+probabile che tali aggiornamenti riguardino le tecniche e i principi di base
+trattati in questo corso.
+
+Testualità, multimedialità e interattività:: Le lezioni si presentano nella
+forma di ipertesti multimediali comprensivi, quindi, di testo, immagini, video
+e/o animazioni. L'interattività è espressa mediante l'uso di hyperlink (tipici
+negli ipertesti) e dei test complessivi. Saranno presenti test al termine di
+tutti i moduli didattici, utili ai fini di un'autovalutazione, e dei test
+complessivi che servono a valutare lo studente per considerare il corso completo
+e superato.
+
+[#sect-lezioni]
+=== Suddivisione del corso in lezioni
+
+* Modulo 1: Introduzione e utilizzo della chitarra
+  ** Lezione 1.1: Le componenti dello strumento
+  ** Lezione 1.2: Accordatura e corretto utilizzo delle dita
+  ** Lezione 1.3: Conoscenza delle note
+  ** Lezione 1.4: L'indipendenza delle dita e il barrè
+* Modulo 2: Apprendimento degli accordi principali
+  ** Lezione 2.1: Accordi maggiori
+  ** Lezione 2.2: Accordi minori
+  ** Lezione 2.3: Accordi diesis maggiori
+  ** Lezione 2.4: Accordi diesis minori
+* Modulo 3: Suonare la chitarra
+  ** Lezione 3.1: Giri armonici
+  ** Lezione 3.2: Introduzione del ritmo e del metronomo
+  ** Lezione 3.3: Utilizzo della mano destra
+  ** Lezione 3.4: Applicare in pratica: "`Albachiara`"
+* Esame finale
+
+[options="header", cols="^.^20h, ^.^40, ^.^40a"]
+|===
+| Tipo di contenuto | Descrizione | Esempi
+
+| Fatti (chiuso)
+| Un insieme di dati dal carattere specifico e unico
+| * I componenti dello strumento
+  * Accordatura e corretto utilizzo delle dita
+  * Conoscenza delle note
+  * Accordi maggiori
+  * Accordi minori
+  * Accordi diesis maggiori
+  * Accordi diesis minori
+  * Giri armonici
+
+| Concetti (chiuso/aperto)
+| Categoria che include al suo interno molteplici esemplificazioni
+| * La posizione della mano
+  * L'indipendenza delle dita e il barrè
+  * Introduzione del ritmo e del metronomo
+  * Utilizzo della mano destra
+
+| Principi (aperto)
+| Indicazioni generali e linee guida
+| 
+
+|===
+
+== Analisi dell'infrastruttura
+
+Nei successivi paragrafi saranno valutati gli aspetti tecnologici e le risorse
+umane disponibili.
+
+=== Aspetti tecnologici
+
+È utilizzata la piattaforma Moodle, piattaforma che copre il ruolo di LMS
+(Learning Management System) e di LCMS (Learning Content Management System).
+L'intero processo di creazione e gestione dei contenuti è supportato dal manuale
+utente per i docenti. L'intero materiale sarà gestito come nodi ipertestuali
+autosufficienti, che permetterà il riciclo di nodi tra vari corsi (se
+necessario).
+
+=== Disponibilità di risorse umane
+
+Il docente del corso creerà e renderà disponibili tutti i materiali all'interno
+della piattaforma. Sarà il docente (con l'eventuale assistenza di terzi, se
+ritenuto necessario) a rispondere a richieste sui forum o nella chat e
+correggerà gli eventuali esercizi a risposta aperta presenti all'interno del
+corso.
+
+== Tipologia di e-learning
+
+La tipologia di e-learning adottata nel corso di chitarra di livello base è
+focalizzata sullo studente dell'accademia e adotta una terminologia semplice ma
+il più possibile specifica. Su suppone che lo studente partecipi attivamente
+alla vita della didattica partecipando mediante varie modalità alle
+comunicazioni. Inoltre, il tutor (il docente) sarà sempre presente
+nell'accompagnamento dello studente: il percorso si pone l'obiettivo di
+raggiungere il livello di "`Applicazione`" della tassonomia di Bloom e la
+presenza del docente è, quindi, necessaria.
+
+In definitiva, la tipologia di e-learning stando alla classificazione di Mason è quella del _"`Support Online Learning`"_.
+
+[options="header", cols="<.^h, <.^"]
+|===
+2+^| Support Online Learning
+| Si focalizza | Sullo studente
+| Si basa | Sulle attività
+| È orientata all'apprendimento | In piccoli gruppi
+| Interazione con il tutor | Significativa
+| Collaborazione tra pari | Interazioni intense
+|===
+
+== Modalità di e-learning
+
+La modalità di e-learning adottata è quella completamente a distanza _con_ il
+supporto di un tutor (il docente). Quindi l'apprendimento avviene completamente
+a distanza e gli studenti sono seguiti individualmente (o in gruppi) da un
+tutor, che può avvalersi di strumenti di comunicazione sincrona o asincrona
+offerti dalla piattaforma stessa (forum, chat, videoconferenza).

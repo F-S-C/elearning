@@ -1,0 +1,169 @@
+= Definizione metodologico-didattica
+
+In questa fase della progettazione verranno scelti i modelli e le strategie
+didattiche che meglio si prestano al favorire il conseguimento degli obiettivi
+nel modo più efficace possibile.
+
+Modelli e architetture:: I modelli e le architetture didattiche più efficaci ed
+efficienti nelle condizioni di istruzione attuali sono testi, immagini, suoni e
+animazioni/video per agevolare la comprensione dei vari moduli. Saranno
+inoltre presentati esempi esplicativi che favoriscano un'acquisizione più
+semplice delle nozioni.
+
+Strategie e comunicazione dei contenuti:: La strategia didattica adottata è
+quella di suddividere il corso in tre moduli, suddivise in diverse lezioni.
+Tali lezioni possono quindi essere seguite a piacimento dagli studenti, senza
+dover imporre alcun vincolo temporale nell'acquisizione delle varie informazioni
+(se non un vincolo di propedeuticità). Al termine di ogni lezione, poi, lo
+studente può sostenere un breve quiz autovalutativo per verificare il proprio
+apprendimento prima di proseguire.
++
+Il materiale didattico deriva da una serie di testi e manuali tipicamente
+utilizzati nelle accademia di musica, nonché dalla diretta conversazione e
+discussione con degli esperti del dominio, che hanno validato tutti i testi
+singolarmente.
++
+Gli argomenti sono stati trattati con un linguaggio che sia a metà strada tra il
+semplice e il tecnico, in modo da fornire agli studenti una base di terminologia
+specifica pur mantenendo bassa la difficoltà generale del corso.
+
+Valutazione degli apprendimenti:: La definizione dei criteri per la valutazione
+dell'apprendimento deve andare di pari passo con la definizione sia degli
+obiettivi didattici sia delle strategie educative messe in atto per
+raggiungerli. A tal fine, al termine di ogni lezione è stato realizzato un test
+di autovalutazione a risposta multipla, non propedeutico alle altre lezioni e
+considerato superato con una valutazione pari o superiore a 80/100.
++
+Inoltre, al termine di ogni modulo è stato realizzato un test valutativo
+complessivo. Tali test _sono_ propedeutici alla prosecuzione del corso e si
+ritengono superati se si raggiunge una valutazione pari o superiore a 80/100.
++
+Al termine dell'intero corso, lo studente può accedere a un esame finale che
+permetterà una valutazione complessiva della preparazione dello studente. Tale
+esame è un orale a distanza (online) e comprenderà sia domande sui concetti
+teorici del corso, sia una fase di valutazione delle abilità pratiche acquisite
+dallo studente (nel caso specifico del corso su uno strumento, sarà richiesto
+allo studente di studiare e suonare un brano concordato con il docente). Tale
+esame si ritiene superato se si raggiunge una valutazione pari o superiore a
+60/100.
++
+Se il test è superato, il corso sarà considerato completato e superato e si avrà
+diritto a un certificato (che riporta la valutazione finale dello studente).
+
+== Struttura del corso
+
+.La struttura del corso di chitarra (livello base). Il corso è diviso in 3 moduli, ciascun modulo è poi diviso in diverse lezioni.
+[blockdiag,"corso-chitarra", svg, width="80%"]
+-----
+blockdiag {    
+    A[label="Corso di Chitarra:\nLivello base"]
+    U1[numbered="U1",label="Introduzione e utilizzo della chitarra"]
+    U2[numbered="U2",label="Apprendimento degli accordi principali"]
+    U3[numbered="U3",label="Suonare la chitarra"]
+
+    L1.1[numbered="L1.1",label="Le componenti dello strumento"]
+    L1.2[numbered="L1.2",label="Accordatura e corretto utilizzo delle dita"]
+    L1.3[numbered="L2.1",label="Conoscenza delle note"]
+    L1.4[numbered="L2.2",label="L'indipendenza delle dita e il barrè"]
+    L2.1[numbered="L2.3",label="Accordi maggiori"]
+    L2.2[numbered="L3.1",label="Accordi minori"]
+    L2.3[numbered="L3.2",label="Accordi diesis maggiori"]
+    L2.4[numbered="L4.1",label="Accordi diesis minori"]
+    L3.1[numbered="L4.2",label="Giri armonici"]
+    L3.2[numbered="L4.3",label="Introduzione del ritmo e del metronomo"]
+    L3.3[numbered="L4.3",label="Utilizzo della mano destra"]
+    L3.4[numbered="L4.4",label="Applicare in pratica"]
+
+    A -> U1
+    U1 -> L1.1
+    U1 -> L1.2
+    U1 -> L1.3
+    U1 -> L1.4
+    
+    A -> U2
+    U2 -> L2.1
+    U2 -> L2.2
+    U2 -> L2.3
+    U2 -> L2.4
+
+    A -> U3
+    U3 -> L3.1
+    U3 -> L3.2
+    U3 -> L3.3
+    U3 -> L3.4
+    
+}
+-----
+
+== Storyboard
+
+=== Modulo 1: Introduzione e utilizzo della chitarra
+
+.Storyboard: Modulo 1, "`Introduzione e utilizzo della chitarra`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Introduzione e utilizzo della chitarra
+| Numero pagina | 1
+| Descrizione | Sono descritte le componenti principali di una chitarra e sono 
+  mostrati alcuni esercizi per rendere indipendenti le dita e per rafforzarle. 
+// | Template | 
+// | Testo | 
+| Immagini | 9
+| Audio | Nessuno
+| Video | 1
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+=== Modulo 2: Apprendimento degli accordi principali
+
+.Storyboard: Modulo 2, "`Apprendimento degli accordi principali`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Apprendimento degli accordi principali
+| Numero pagina | 1
+| Descrizione | Vengono mostrate le corrette esecuzioni dei 24 accordi principali. 
+// | Template | 
+// | Testo | 
+| Immagini | 48
+| Audio | 24
+| Video | 0
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+=== Modulo 3: Suonare la chitarra
+
+.Storyboard: Modulo 3, "`Suonare la chitarra`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Suonare la chitarra
+| Numero pagina | 1
+| Descrizione | Viene mostrato il corretto utilizzo della mano destra 
+  e le varie tipologie di suonare una chitarra.
+// | Template | 
+// | Testo | 
+| Immagini | 1
+| Audio | Nessuno
+| Video | Nessuno
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+
+== Layout
+
+== Contenuto e interazione
+
+I contenuti saranno sviluppati in modo da favorire l'apprendimento dello
+studente, che potrà interagire con il docente e altri studenti sia in aula
+(qualora lo studente si trovi in sede) che on-line, secondo le proprie personali
+esigenze di chiarimenti o di consulenza sull'argomento.
+
+Lo studente potà svolgere dei quiz e degli esercizi relativi ad ogni modulo che
+saranno automaticamente valutati dal sistema (con un'eventuale controllo del
+docente). Inoltre, al termine del corso, lo studente dovrà svolgere un test di
+verifica delle abilità, valutato in parte dal sistema (per i concetti teorici) e
+in parte dal docente (per i concetti pratici): se lo studente supera questo
+test, il corso sarà considerato superato e sarà rilasciato un certificato di
+superamento del corso.
