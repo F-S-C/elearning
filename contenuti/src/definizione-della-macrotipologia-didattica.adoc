@@ -10,9 +10,19 @@ presente documento di lavoro.
 
 === Analisi dell'utenza
 
-L'utenza a cui è rivolto il corso di pianoforte di livello base è ampia (sia in
-età che in competenze) e include tutti coloro interessati a imparare a suonare
-il pianoforte. Sono stati presi in esame diversi aspetti (discussi nelle sezioni
+==== Corso di teoria musicale di livello base
+
+L'utenza a cui è destinato il corso di teoria base è ampia e variegata. Questo
+principalmente poichè il corso non richiede di averne seguiti altri, essendo
+esso il corso propedeutico a tutti gli altri. Per tal motivo non vi sono delle
+limitazioni legate all'età, sia bambini che adulti possono fruire del corso 
+senza problemi.
+
+==== Corso di pianoforte di livello base
+
+L'utenza a cui è rivolta la piattaforma è ampia (sia in
+età che in competenze) e include tutti coloro interessati a conoscere il mondo della musica e a imparare a suonare
+uno strumento. Sono stati presi in esame diversi aspetti (discussi nelle sezioni
 seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
 
 ==== Distanza fisica
@@ -42,11 +52,19 @@ Le competenze e conoscenze informatiche degli utenti sono varie, ma tutti
 conoscono almeno come si utilizza un browser internet. Non sono necessarie
 configurazioni di alcun tipo, quindi gli utenti non è richiesto alcuna
 competenza specifica. L'unico prerequisito "`tecnologico`" del corso è l'accesso
-a un pianoforte (o una tastiera elettronica) su cui far pratica.
+a uno strumento su cui far pratica (qualora si seguisse un corso pratico).
 
 ==== Expertise di dominio dell'utente
 
-Si presume che i partecipanti del corso (almeno per una buona parte) non hanno
+===== Corso di teoria musicale di livello base
+
+Si presume che i partecipanti del corso (almeno per una buona parte) non abbiano
+mai avuto alcun contatto con il mondo della musica. Per questo motivo, deve
+essere fornito un vocabolario di base minimo che permetta la comunicazione.
+
+===== Corso di pianoforte, chitarra e batteria di livello base
+
+Si presume che i partecipanti del corso (almeno per una buona parte) non abbiano
 mai avuto alcun contatto con il mondo della musica. Per questo motivo, deve
 essere fornito un vocabolario di base minimo che permetta la comunicazione, ma
 tale vocabolario non deve e non può sostituire un corso di teoria musicale di
@@ -109,11 +127,46 @@ sua capacità di suonare effettivamente lo strumento con composizione nuove.
 Si sottolinea che non tutte le lezioni (elencate nella sezione
 "`<<sect-moduli>>`") potrebbero avere la necessità di coprire tutti i tre
 livelli: in alcuni casi può essere sufficiente fermarsi a un livello inferiore.
-I casi specifici per ogni lezione sono riportati nella <<tab-lezioni-bloom>>.
+I casi specifici per ogni lezione sono riportati nella <<sec-lezioni-bloom>>.
 
-[#tab-lezioni-bloom]
+[#sec-lezioni-bloom]
+=== Attività, obiettivi e livelli della tassonomia di Bloom
+
+[#tab-lezioni-bloom-teoria-base]
 [options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
-.Attività, obiettivi e livelli della tassonomia di Bloom per ogni modulo
+.Attività, obiettivi e livelli della tassonomia di Bloom per ogni modulo del corso di teoria di livello base
+|===
+| N.ro Modulo | Titolo modulo | Attività | Obiettivo | Tassonomia di Bloom
+
+| 1
+| Fondamenti della musica
+| * Conoscenza degli elementi fondamentali della 
+    musica
+| Lo studente deve conoscere quali sono gli elementi fondamentali alla base della musica, comprenderli e saperli utilizzare nel loro insieme.
+| * Conoscenza
+
+| 2
+| Elementi di uno spartito
+| * Comprendere quali sono gli elementi che compongono uno spartito e saperli individuare. 
+  * Comprendere come tali elementi vengono utilizzati nello spartito e che ruolo hanno al suo interno.
+| Lo studente deve essere in grado di comprendere quali sono gli elementi alla base di uno spartito, che funzioni svolgono e come vengono messi insieme.
+| * Conoscenza
+  * Comprensione
+
+| 3
+| Introduzione al tempo
+| * Comprensione della terminologia basilare riferita al tempo.
+  * Comprensione del ritmo e della differenza tra tempi semplici e composti.
+| Lo studente deve essere in grado di definire il termine _ritmo_ e spiegare i metodi di rappresentazione del _tempo_
+| * Conoscenza
+  * Comprensione
+  * Applicazione
+
+|===
+
+[#tab-lezioni-bloom-piano-base]
+[options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
+.Attività, obiettivi e livelli della tassonomia di Bloom per ogni modulo del corso di pianoforte di livello base
 |===
 | N.ro Modulo | Titolo Modulo | Attività | Obiettivo | Tassonomia di Bloom
 
@@ -190,24 +243,62 @@ e superato.
 [#sect-lezioni]
 === Suddivisione del corso in lezioni
 
-* Modulo 1: Introduzione allo strumento
-  ** Lezione 1.1: Le componenti dello strumento
-  ** Lezione 1.2: I principi fondamentali del pianoforte
-* Modulo 2: Utilizzare il pianoforte
-  ** Lezione 2.1: La posizione della mano
-  ** Lezione 2.2: L'indipendenza delle dita
-  ** Lezione 2.3: La diteggiatura
-* Modulo 3: Leggere uno spartito
-  ** Lezione 3.1: Le basi della partitura musicale
-  ** Lezione 3.2: La notazione internazionale
-* Modulo 4: Suonare il pianoforte
-  ** Lezione 4.1: Le note sul pianoforte
-  ** Lezione 4.2: Gli accordi
-  ** Lezione 4.3: Semplificare gli accordi: i rivolti
-  ** Lezione 4.4: Applicare in pratica: "`No Woman No Cry`"
-* Esame finale
+Corso di teoria di livello base::
+  * Modulo 1: Fondamenti della musica
+    ** Lezione 1.1: Il suono
+    ** Lezione 1.2: Le note
+  * Modulo 2: Elementi di uno spartito
+    ** Lezione 2.1: Il rigo
+    ** Lezione 2.2: Le chiavi
+    ** Lezione 2.3: I valori e le pause
+  * Modulo 3: Introduzione al tempo
+    ** Lezione 3.1: Il ritmo
+    ** Lezione 3.2: Il tempo
+  * Esame finale
+Corso di pianoforte di livello base::
+  * Modulo 1: Introduzione allo strumento
+    ** Lezione 1.1: Le componenti dello strumento
+    ** Lezione 1.2: I principi fondamentali del pianoforte
+  * Modulo 2: Utilizzare il pianoforte
+    ** Lezione 2.1: La posizione della mano
+    ** Lezione 2.2: L'indipendenza delle dita
+    ** Lezione 2.3: La diteggiatura
+  * Modulo 3: Leggere uno spartito
+    ** Lezione 3.1: Le basi della partitura musicale
+    ** Lezione 3.2: La notazione internazionale
+  * Modulo 4: Suonare il pianoforte
+    ** Lezione 4.1: Le note sul pianoforte
+    ** Lezione 4.2: Gli accordi
+    ** Lezione 4.3: Semplificare gli accordi: i rivolti
+    ** Lezione 4.4: Applicare in pratica: "`No Woman No Cry`"
+  * Esame finale
 
 [options="header", cols="^.^20h, ^.^40, ^.^40a"]
+.I contenuti del corso di teoria di livello base
+|===
+| Tipo di contenuto | Descrizione | Esempi
+
+| Fatti (chiuso)
+| Un insieme di dati dal carattere specifico e unico
+| * Il suono
+  * Le note
+  * Il rigo
+  * Il tempo
+
+| Concetti (chiuso/aperto)
+| Categoria che include al suo interno molteplici esemplificazioni
+| * Le chiavi
+  * I valori e le pause
+  * Il ritmo
+
+| Principi (aperto)
+| Indicazioni generali e linee guida
+|
+
+|===
+
+[options="header", cols="^.^20h, ^.^40, ^.^40a"]
+.I contenuti del corso di pianoforte di livello base
 |===
 | Tipo di contenuto | Descrizione | Esempi
 

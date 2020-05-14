@@ -10,7 +10,7 @@ animazioni/video per agevolare la comprensione dei vari moduli. Saranno inoltre
 presentati esempi esplicativi che favoriscano un'acquisizione più semplice delle
 nozioni.
 
-Strategie e comunicazione dei contenuti:: La stratedia didattica adottata è
+Strategie e comunicazione dei contenuti:: La strategia didattica adottata è
 quella di suddividere il corso in quattro moduli, suddivise in diverse lezioni.
 Tali lezioni possono quindi essere seguite a piacimento dagli studenti, senza
 dover imporre alcun vincolo temporale nell'acquisizione delle varie informazioni
@@ -51,6 +51,44 @@ Se il test è superato, il corso sarà considerato completato e superato e si av
 diritto a un certificato (che riporta la valutazione finale dello studente).
 
 == Struttura del corso
+
+=== Corso di teoria di livello base
+
+.La struttura del corso di teoria musicale (livello base). Il corso è diviso in 3 moduli, ciascun modulo è poi divisa in diverse lezioni.
+[blockdiag,"corso-teoria-base", svg, width="80%"]
+-----
+blockdiag {    
+    A[label="Corso di Teoria Musicale:\nLivello base"]
+    U1[numbered="U1",label="Fondamenti della musica"]
+    U2[numbered="U2",label="Elementi di uno spartito"]
+    U3[numbered="U3",label="Introduzione al tempo"]
+
+    L1.1[numbered="L1.1",label="Il suono"]
+    L1.2[numbered="L1.2",label="Le note"]
+    L2.1[numbered="L2.1",label="Il rigo"]
+    L2.2[numbered="L2.2",label="Le chiavi"]
+    L2.3[numbered="L2.3",label="I valori e le pause"]
+    L3.1[numbered="L3.1",label="Il ritmo"]
+    L3.2[numbered="L3.2",label="Il tempo"]
+    
+
+    A -> U1
+    U1 -> L1.1
+    U1 -> L1.2
+    
+    A -> U2
+    U2 -> L2.1
+    U2 -> L2.2
+    U2 -> L2.3
+    
+    A -> U3
+    U3 -> L3.1
+    U3 -> L3.2
+    
+}
+-----
+
+=== Corso di pianoforte di livello base
 
 .La struttura del corso di pianoforte (livello base). Il corso è diviso in 4 moduli, ciascuno diviso in diverse lezioni.
 [blockdiag,"corso-pianoforte", svg, width="80%"]
@@ -97,9 +135,26 @@ blockdiag {
 
 == Storyboard
 
-=== Modulo 1: Introduzione allo strumento
+=== Corso di teoria di livello base
 
-.Storyboard: Lezione 1.1, "`Le componenti dello strumento`"
+.Storyboard:  Modulo 1, "`Fondamenti della musica`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Fondamenti della musica
+| Numero pagina | 2
+| Descrizione | Sono descritti gli elementi fondamentali della musica: il suono e le note.
+// | Template | 
+// | Testo | 
+| Immagini | 1
+| Audio | Nessuno
+| Video | Nessuno
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+=== Corso di pianoforte di livello base
+
+.Storyboard: Modulo 1, "`Le componenti dello strumento`"
 [cols="<.^20h,<.^80"]
 |===
 | Argomento | Le componenti dello strumento

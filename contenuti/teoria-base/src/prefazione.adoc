@@ -1,3 +1,0 @@
-:course-name: teoria (livello base)
-
-include::../../prefazione.adoc[]
