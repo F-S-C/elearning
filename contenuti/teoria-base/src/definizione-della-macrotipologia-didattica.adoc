@@ -91,15 +91,15 @@ didattico, ma dovrà partecipare a una conferenza con il docente per valutare la
 sua capacità di suonare effettivamente lo strumento con composizione nuove.
 
 Si sottolinea che non tutte le lezioni (elencate nella sezione
-"`<<sect-unità>>`") potrebbero avere la necessità di coprire tutti i tre
+"`<<sect-moduli>>`") potrebbero avere la necessità di coprire tutti i tre
 livelli: in alcuni casi può essere sufficiente fermarsi a un livello inferiore.
 I casi specifici per ogni lezione sono riportati nella <<tab-lezioni-bloom>>.
 
 [#tab-lezioni-bloom]
 [options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
-.Attività, obiettivi e livelli della tassonomia di Bloom per ogni unità
+.Attività, obiettivi e livelli della tassonomia di Bloom per ogni modulo
 |===
-| N.ro Unità | Titolo unità | Attività | Obiettivo | Tassonomia di Bloom
+| N.ro Modulo | Titolo modulo | Attività | Obiettivo | Tassonomia di Bloom
 
 | 1
 | Fondamenti della musica
@@ -145,21 +145,21 @@ Testualità, multimedialità e interattività:: Le lezioni si presentano nella
 forma di ipertesti multimediali comprensivi, quindi, di testo, immagini, video
 e/o animazioni. L'interattività è espressa mediante l'uso di hyperlink (tipici
 negli ipertesti) e dei test complessivi. Saranno presenti test al termine di
-tutte le unità didattiche, utili ai fini di un'autovalutazione, e dei test
+tutti moduli didattici, utili ai fini di un'autovalutazione, e dei test
 complessivi che servono a valutare lo studente per considerare il corso completo
 e superato.
 
 [#sect-lezioni]
 === Suddivisione del corso in lezioni
 
-* Unità 1: Fondamenti della musica
+* Modulo 1: Fondamenti della musica
   ** Lezione 1.1: Il suono
   ** Lezione 1.2: Le note
-* Unità 2: Elementi di uno spartito
+* Modulo 2: Elementi di uno spartito
   ** Lezione 2.1: Il rigo
   ** Lezione 2.2: Le chiavi
   ** Lezione 2.3: I valori e le pause
-* Unità 3: Introduzione al tempo
+* Modulo 3: Introduzione al tempo
   ** Lezione 3.1: Il ritmo
   ** Lezione 3.2: Il tempo
 * Esame finale

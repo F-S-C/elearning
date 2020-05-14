@@ -6,15 +6,15 @@ nel modo più efficace possibile.
 
 Modelli e architetture:: I modelli e le architetture didattiche più efficaci ed
 efficienti nelle condizioni di istruzione attuali sono testi, immagini e
-animazioni/video per agevolare la comprensione delle varie unità. Saranno
+animazioni/video per agevolare la comprensione dei vari moduli. Saranno
 inoltre presentati esempi esplicativi che favoriscano un'acquisizione più
 semplice delle nozioni.
 
 Strategie e comunicazione dei contenuti:: La stratedia didattica adottata è
-quella di suddividere il corso in tre unità, suddivise in diverse lezioni.
+quella di suddividere il corso in tre moduli, suddivisi in diverse lezioni.
 Tali lezioni possono quindi essere seguite a piacimento dagli studenti, senza
 dover imporre alcun vincolo temporale nell'acquisizione delle varie informazioni
-(se non un vincolo di propedeuticità). Al termine di ogni unità, poi, lo
+(se non un vincolo di propedeuticità). Al termine di ogni modulo, poi, lo
 studente può sostenere un breve quiz autovalutativo per verificare il proprio
 apprendimento prima di proseguire.
 +
@@ -30,7 +30,7 @@ specifica pur mantenendo bassa la difficoltà generale del corso.
 Valutazione degli apprendimenti:: La definizione dei criteri per la valutazione
 dell'apprendimento deve andare di pari passo con la definizione sia degli
 obiettivi didattici sia delle strategie educative messe in atto per
-raggiungerli. A tal fine, al termine di ogni unità è stato realizzato un test di
+raggiungerli. A tal fine, al termine di ogni modulo è stato realizzato un test di
 apprendimento a risposta multipla. Tali test non sono propedeutici alla
 prosecuzione del corso, ma solo autovalutativi e di supporto allo studente. Tali
 test si ritengono superati se si raggiunge una valutazione pari o superiore a
@@ -48,7 +48,7 @@ Se il test è superato, il corso sarà considerato completato e superato e si av
 
 == Struttura del corso
 
-.La struttura del corso di teoria musicale (livello base). Il corso è diviso in 3 unità, ciascuna unità è poi divisa in diverse lezioni.
+.La struttura del corso di teoria musicale (livello base). Il corso è diviso in 3 moduli, ciascun modulo è poi divisa in diverse lezioni.
 [blockdiag,"corso-teoria-base", svg, width="80%"]
 -----
 blockdiag {    
@@ -84,7 +84,7 @@ blockdiag {
 
 == Storyboard
 
-=== Unità 1: Introduzione allo strumento
+=== Modulo 1: Introduzione allo strumento
 
 .Storyboard:  Modulo 1, "`Fondamenti della musica`"
 [cols="<.^20h,<.^80"]
@@ -112,7 +112,7 @@ studente, che potrà interagire con il docente e altri studenti sia in aula
 (qualora lo studente si trovi in sede) che on-line, secondo le proprie personali
 esigenze di chiarimenti o di consulenza sull'argomento.
 
-Lo studente potà svolgere dei quiz e degli esercizi relativi a ogni unità che
+Lo studente potà svolgere dei quiz e degli esercizi relativi a ogni modulo che
 saranno automaticamente valutati dal sistema (con un'eventuale controllo del
 docente). Inoltre, al termine del corso, lo studente dovrà svolgere un test di
 verifica delle abilità, valutato dal docente: se lo studente supera questo test,
