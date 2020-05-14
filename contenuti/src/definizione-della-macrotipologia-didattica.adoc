@@ -18,6 +18,16 @@ esso il corso propedeutico a tutti gli altri. Per tal motivo non vi sono delle
 limitazioni legate all'età, sia bambini che adulti possono fruire del corso 
 senza problemi.
 
+==== Corso di teoria musicale di livello avanzato
+
+L'utenza a cui si rivolge il corso di teoria avanzata è ampia (in età) ma 
+richiede una conoscenza musicale di base che è fondamentale per 
+la corretta comprensione dei contenuti che il corso propone. Il corso in sè 
+può fungere da "`trampolino di lancio`" per permettere all'utente di imparare uno
+o più strumenti avendo, al contempo, una base solida.
+Sono stati presi in esame diversi aspetti (discussi nelle sezioni
+seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
+
 ==== Corso di pianoforte di livello base
 
 L'utenza a cui è rivolta la piattaforma è ampia (sia in
@@ -34,7 +44,7 @@ loro potenziale locazione geografica, non è possibile presupporre la possibilit
 di partecipare fisicamente in sede alle attività. Per questo motivo l'utente,
 accedendo alla piattaforma, deve poter usufruire del materiale didattico in
 qualsiasi momento. Inoltre, il fattore della distanza fisica agisce direttamente
-sugli incontri in presenza organizzabili, che devono essere necessariamente
+sugli incontri in presenza organizzabili, che (qualora necessari) devono essere necessariamente
 sostituiti da incontri online.
 
 ==== Numero
@@ -61,6 +71,12 @@ a uno strumento su cui far pratica (qualora si seguisse un corso pratico).
 Si presume che i partecipanti del corso (almeno per una buona parte) non abbiano
 mai avuto alcun contatto con il mondo della musica. Per questo motivo, deve
 essere fornito un vocabolario di base minimo che permetta la comunicazione.
+
+===== Corso di teoria musicale di livello avanzato
+
+Si presume che i partecipanti del corso abbiano già una base di teoria della 
+musica conoscendo già le terminologie di base, lo spartito, le note i valori e
+le pause.
 
 ===== Corso di pianoforte, chitarra e batteria di livello base
 
@@ -92,7 +108,7 @@ Gli obiettivi formativi sono definiti utilizzando la _tassonomia di Bloom_ al
 fine di categorizzare gli obiettivi educativi nel dominio conoscitivo, che
 riguarda le attività intellettuali e logiche. Tale dominio viene suddiviso nei
 seguenti obiettivi didattici, ordinati di seguito dal più semplice al più
-complesso: _Conoscenza_, _Comprensione_, _Analisi_, _Applicazione_, _Sintesi_ e
+complesso: _Conoscenza_, _Comprensione_,  _Applicazione_, _Analisi_, _Sintesi_ e
 _Valutazione_.
 
 Il corso si pone l'obiettivo di raggiungere il livello di Applicazione. Nelle
@@ -164,6 +180,46 @@ I casi specifici per ogni lezione sono riportati nella <<sec-lezioni-bloom>>.
 
 |===
 
+[#tab-lezioni-bloom-teoria-avanzate]
+[options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
+.Attività, obiettivi e livelli della tassonomia di Bloom per ogni unità
+|===
+| N.ro Unità | Titolo unità | Attività | Obiettivo | Tassonomia di Bloom
+
+| 1
+| Tono, semitono e alterazioni
+| * Conoscenza delle differenze tra toni e semitoni.
+  * Comprensione delle Alterazioni costanti, momentanee e di 
+  precauzione.
+| Lo studente deve essere in grado di comprendere le principali differenze tra
+toni e semitoni e deve saper comprendere e giustificare le scelte delle 
+alterazioni all'interno dello spartito.
+| * Conoscenza
+  * Comprensione
+
+| 2
+| Scala diatonica, gli intervalli e il cromatismo
+| * Comprensione delle scale di Do _Maggiore_ e La _Minore_
+  * Conoscenza degli intervalli tra note
+  * Comprensione dei toni e dei semitoni diatonici e cromatici
+| Lo studente deve comprendere l'importanza delle scale diatoniche e conoscere 
+gli intervalli congiunti, disgiunti e melodici. Inoltre, deve comprendere le 
+differenze tra toni, semitoni diatonici e semitoni cromatici.
+| * Conoscenza
+  * Comprensione
+
+| 3
+| La tonalità, il modo e l'accordo tonale
+| * Conoscenza della tonalità, del modo maggiore e del modo minore
+  * Comprensione dell'accordo tonale
+| Lo studente deve conoscere le tonalità delle varie note e il loro grado,
+i due possibili modi delle tonalità ovvero maggiore e minore, comprendere 
+l'accordo tonale e la nota differenziale e personale.
+| * Conoscenza
+  * Comprensione
+|===
+
+
 [#tab-lezioni-bloom-piano-base]
 [options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
 .Attività, obiettivi e livelli della tassonomia di Bloom per ogni modulo del corso di pianoforte di livello base
@@ -224,7 +280,7 @@ I contenuti del corso sono analizzati in base alle seguenti caratteristiche:
 
 Apertura o chiusura:: Il contenuto è principalmente (ma non totalmente) chiuso,
 in quanto trattasi di fatti e concetti. Tuttavia vi sono alcune eccezioni in cui
-i contenuti risultano aperti in quanto principi o processi.
+i contenuti risultano aperti in quanto principi o processi. Nel caso specifico del corso di teoria di livello avanzato, il contenuto è totalmente chiuso in quanto trattasi di fatti e concetti
 
 Stabilità o instabilità:: I contenuti delle lezioni sono stabili, in quanto il
 corso tratta di argomenti ben radicati nell'ambito musicale. È possibile
@@ -243,7 +299,7 @@ e superato.
 [#sect-lezioni]
 === Suddivisione del corso in lezioni
 
-Corso di teoria di livello base::
+Corso di teoria musicale di livello base::
   * Modulo 1: Fondamenti della musica
     ** Lezione 1.1: Il suono
     ** Lezione 1.2: Le note
@@ -255,6 +311,58 @@ Corso di teoria di livello base::
     ** Lezione 3.1: Il ritmo
     ** Lezione 3.2: Il tempo
   * Esame finale
++
+[options="header", cols="^.^20h, ^.^40, ^.^40a"]
+.I contenuti del corso di teoria musicale di livello base
+|===
+| Tipo di contenuto | Descrizione | Esempi
+
+| Fatti (chiuso)
+| Un insieme di dati dal carattere specifico e unico
+| * Il suono
+* Le note
+* Il rigo
+* Il tempo
+
+| Concetti (chiuso/aperto)
+| Categoria che include al suo interno molteplici esemplificazioni
+| * Le chiavi
+* I valori e le pause
+* Il ritmo
+
+| Principi (aperto)
+| Indicazioni generali e linee guida
+|
+
+|===
+
+Corso di teoria musicale di livello avanzato::
+  * Unità 1: Tono, semitono e alterazioni
+    ** Lezione 1.1: Il tono e il semitono
+    ** Lezione 1.2: Le alterazioni
+  * Unità 2: Scala diatonica, gli intervalli e il cromatismo
+    ** Lezione 2.1: La scala diatonica
+    ** Lezione 2.2: Gli intervalli
+    ** Lezione 2.3: Il tono e il semitono diatonico e cromatico
+  * Unità 3: La tonalità, il modo e l'accordo tonale
+    ** Lezione 4.1: La tonalità e il modo
+    ** Lezione 4.2: L'accordo tonale
+  * Esame finale
++
+[options="header", cols="^.^20h, ^.^40, ^.^40a"]
+.I contenuti del corso di teoria musicale di livello avanzato
+|===
+| Tipo di contenuto | Descrizione | Esempi
+
+| Fatti (chiuso)
+| Un insieme di dati dal carattere specifico e unico
+| * Il tono e il semitono
+  * Le alterazioni
+  * La scala diatonica
+  * La tonalità e il modo
+
+|===
+
 Corso di pianoforte di livello base::
   * Modulo 1: Introduzione allo strumento
     ** Lezione 1.1: Le componenti dello strumento
@@ -272,31 +380,7 @@ Corso di pianoforte di livello base::
     ** Lezione 4.3: Semplificare gli accordi: i rivolti
     ** Lezione 4.4: Applicare in pratica: "`No Woman No Cry`"
   * Esame finale
-
-[options="header", cols="^.^20h, ^.^40, ^.^40a"]
-.I contenuti del corso di teoria di livello base
-|===
-| Tipo di contenuto | Descrizione | Esempi
-
-| Fatti (chiuso)
-| Un insieme di dati dal carattere specifico e unico
-| * Il suono
-  * Le note
-  * Il rigo
-  * Il tempo
-
-| Concetti (chiuso/aperto)
-| Categoria che include al suo interno molteplici esemplificazioni
-| * Le chiavi
-  * I valori e le pause
-  * Il ritmo
-
-| Principi (aperto)
-| Indicazioni generali e linee guida
-|
-
-|===
-
++
 [options="header", cols="^.^20h, ^.^40, ^.^40a"]
 .I contenuti del corso di pianoforte di livello base
 |===
@@ -353,7 +437,7 @@ il più possibile specifica. Su suppone che lo studente partecipi attivamente
 alla vita della didattica partecipando mediante varie modalità alle
 comunicazioni. Inoltre, il tutor (il docente) sarà sempre presente
 nell'accompagnamento dello studente: il percorso si pone l'obiettivo di
-raggiungere il livello di "`Applicazione`" della tassonomia di Bloom e la
+raggiungere il livello di "`Applicazione`" (o di "`Comprensione`") della tassonomia di Bloom e la
 presenza del docente è, quindi, necessaria.
 
 In definitiva, la tipologia di e-learning stando alla classificazione di Mason è

@@ -88,6 +88,40 @@ blockdiag {
 }
 -----
 
+=== Corso di teoria di livello avanzato
+
+.La struttura del corso di teoria (livello avanzato). Il corso è diviso in 3 unità, ciascuna unità è poi divisa in diverse lezioni.
+[blockdiag,"corso-teoria-avanzata", svg, width="80%"]
+-----
+blockdiag {    
+    A[label="Corso di Teoria:\nLivello Avanzato"]
+    U1[numbered="U1",label="Tono, semitono e alterazioni"]
+    U2[numbered="U2",label="Scala diatonica, gli intervalli e il cromatismo"]
+    U3[numbered="U3",label="La tonalita', il modo e l'accordo tonale"]
+
+    L1.1[numbered="L1.1",label="Il tono e il semitono"]
+    L1.2[numbered="L1.2",label="Le alterazioni"]
+    L2.1[numbered="L2.1",label="La scala diatonica"]
+    L2.2[numbered="L2.2",label="Gli intervalli"]
+    L2.3[numbered="L2.3",label="Il tono e il semitono diatonico e cromatico"]
+    L3.1[numbered="L3.1",label="La tonalita' e il modo"]
+    L3.2[numbered="L3.2",label="L'accordo tonale"]
+
+    A -> U1
+    U1 -> L1.1
+    U1 -> L1.2
+    
+    A -> U2
+    U2 -> L2.1
+    U2 -> L2.2
+    U2 -> L2.3
+    
+    A -> U3
+    U3 -> L3.1
+    U3 -> L3.2
+}
+-----
+
 === Corso di pianoforte di livello base
 
 .La struttura del corso di pianoforte (livello base). Il corso è diviso in 4 moduli, ciascuno diviso in diverse lezioni.
@@ -143,6 +177,24 @@ blockdiag {
 | Argomento | Fondamenti della musica
 | Numero pagina | 2
 | Descrizione | Sono descritti gli elementi fondamentali della musica: il suono e le note.
+// | Template | 
+// | Testo | 
+| Immagini | 1
+| Audio | Nessuno
+| Video | Nessuno
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+=== Corso di teoria di livello avanzato
+
+.Storyboard: Modulo 1, "`Introduzione allo strumento`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Il tono e il semitono
+| Numero pagina | 1
+| Descrizione | Sono descritte le differenze tra la distanza, il tono e il 
+semitono.
 // | Template | 
 // | Testo | 
 | Immagini | 1
