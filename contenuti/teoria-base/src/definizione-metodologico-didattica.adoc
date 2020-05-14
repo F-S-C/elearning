@@ -11,7 +11,7 @@ inoltre presentati esempi esplicativi che favoriscano un'acquisizione più
 semplice delle nozioni.
 
 Strategie e comunicazione dei contenuti:: La stratedia didattica adottata è
-quella di suddividere il corso in quattro unità, suddivise in diverse lezioni.
+quella di suddividere il corso in tre unità, suddivise in diverse lezioni.
 Tali lezioni possono quindi essere seguite a piacimento dagli studenti, senza
 dover imporre alcun vincolo temporale nell'acquisizione delle varie informazioni
 (se non un vincolo di propedeuticità). Al termine di ogni unità, poi, lo
@@ -48,27 +48,23 @@ Se il test è superato, il corso sarà considerato completato e superato e si av
 
 == Struttura del corso
 
-.La struttura del corso di pianoforte (livello base). Il corso è diviso in 4 unità, ciascuna unità è poi divisa in diverse lezioni.
-[blockdiag,"corso-pianoforte", svg, width="80%"]
+.La struttura del corso di teoria musicale (livello base). Il corso è diviso in 3 unità, ciascuna unità è poi divisa in diverse lezioni.
+[blockdiag,"corso-teoria-base", svg, width="80%"]
 -----
 blockdiag {    
-    A[label="Corso di Pianoforte:\nLivello base"]
-    U1[numbered="U1",label="Introduzione allo strumento"]
-    U2[numbered="U2",label="Utilizzare il pianoforte"]
-    U3[numbered="U3",label="Leggere uno spartito"]
-    U4[numbered="U4",label="Suonare il pianoforte"]
+    A[label="Corso di Teoria Musicale:\nLivello base"]
+    U1[numbered="U1",label="Fondamenti della musica"]
+    U2[numbered="U2",label="Elementi di uno spartito"]
+    U3[numbered="U3",label="Introduzione al tempo"]
 
-    L1.1[numbered="L1.1",label="Le componenti dello strumento"]
-    L1.2[numbered="L1.2",label="I principi fondamentali del pianoforte"]
-    L2.1[numbered="L2.1",label="La posizione della mano"]
-    L2.2[numbered="L2.2",label="L'indipendenza delle dita"]
-    L2.3[numbered="L2.3",label="La diteggiatura"]
-    L3.1[numbered="L3.1",label="Le basi della partitura musicale"]
-    L3.2[numbered="L3.2",label="La notazione internazionale"]
-    L4.1[numbered="L4.1",label="Le note sul pianoforte"]
-    L4.2[numbered="L4.2",label="Gli accordi"]
-    L4.3[numbered="L4.3",label="Semplificare gli accordi: i rivolti"]
-    L4.4[numbered="L4.4",label="Applicare in pratica"]
+    L1.1[numbered="L1.1",label="Il suono"]
+    L1.2[numbered="L1.2",label="Le note"]
+    L2.1[numbered="L2.1",label="Il rigo"]
+    L2.2[numbered="L2.2",label="Le chiavi"]
+    L2.3[numbered="L2.3",label="I valori e le pause"]
+    L3.1[numbered="L3.1",label="Il ritmo"]
+    L3.2[numbered="L3.2",label="Il tempo"]
+    
 
     A -> U1
     U1 -> L1.1
@@ -83,11 +79,6 @@ blockdiag {
     U3 -> L3.1
     U3 -> L3.2
     
-    A -> U4
-    U4 -> L4.1
-    U4 -> L4.2
-    U4 -> L4.3
-    U4 -> L4.4
 }
 -----
 
@@ -95,12 +86,12 @@ blockdiag {
 
 === Unità 1: Introduzione allo strumento
 
-.Storyboard: Lezione 1.1, "`Le componenti dello strumento`"
+.Storyboard:  Modulo 1, "`Fondamenti della musica`"
 [cols="<.^20h,<.^80"]
 |===
-| Argomento | Le componenti dello strumento
-| Numero pagina | 1
-| Descrizione | Sono descritte le parti del pianoforte (tastiera, pedali, ecc.).
+| Argomento | Fondamenti della musica
+| Numero pagina | 2
+| Descrizione | Sono descritti gli elementi fondamentali della musica: il suono e le note.
 // | Template | 
 // | Testo | 
 | Immagini | 1
@@ -124,7 +115,6 @@ esigenze di chiarimenti o di consulenza sull'argomento.
 Lo studente potà svolgere dei quiz e degli esercizi relativi a ogni unità che
 saranno automaticamente valutati dal sistema (con un'eventuale controllo del
 docente). Inoltre, al termine del corso, lo studente dovrà svolgere un test di
-verifica delle abilità, valutato in parte dal sistema (per i concetti teorici) e
-in parte dal docente (per i concetti pratici): se lo studente supera questo
-test, il corso sarà considerato superato e sarà rilasciato un certificato di
-superamento del corso.
+verifica delle abilità, valutato dal docente: se lo studente supera questo test,
+il corso sarà considerato superato e sarà rilasciato un certificato di superamento
+del corso.
