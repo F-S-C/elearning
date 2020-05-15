@@ -459,19 +459,11 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <ul class="sectlevel1">
 <li><a href="#colophon">Marley Academy: Progettazione della Piattaforma</a></li>
 <li>
-<a href="#_analisi_della_piattaforma_forma_lms">1. Analisi della piattaforma: forma.lms</a>
+<a href="#_progettazione_ambiente">1. Progettazione ambiente</a>
 <ul class="sectlevel2">
-<li><a href="#_installazione">1.1. Installazione</a></li>
-<li><a href="#_features">1.2. Features</a></li>
-<li><a href="#formalms-possibili-contesti-duso">1.3. Possibili contesti d’uso</a></li>
-</ul>
-</li>
-<li>
-<a href="#_progettazione_ambiente">2. Progettazione ambiente</a>
-<ul class="sectlevel2">
-<li><a href="#_fase_preliminare">2.1. Fase preliminare</a></li>
-<li><a href="#_dimensione_gestionale">2.2. Dimensione gestionale</a></li>
-<li><a href="#_dimensione_tecnologica">2.3. Dimensione tecnologica</a></li>
+<li><a href="#_fase_preliminare">1.1. Fase preliminare</a></li>
+<li><a href="#_dimensione_gestionale">1.2. Dimensione gestionale</a></li>
+<li><a href="#_dimensione_tecnologica">1.3. Dimensione tecnologica</a></li>
 </ul>
 </li>
 </ul>
@@ -493,260 +485,20 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </div>
 </div>
 <div class="sect1">
-<h2 id="_analisi_della_piattaforma_forma_lms">1. Analisi della piattaforma: forma.lms</h2>
+<h2 id="_progettazione_ambiente">1. Progettazione ambiente</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="_installazione">1.1. Installazione</h3>
-<div class="paragraph">
-<p>L’installazione è molto semplice in quanto forma.lms mette a disposizione un
-tool automatico che si avvia appena si entra per la prima volta nel sito.</p>
-</div>
-<div class="paragraph">
-<p>Di seguito si riportano i passaggi da seguire per procedere all’installazione
-della piattaforma sul computer locale utilizzando la piattaforma
-<a href="https://www.apachefriends.org/it/index.html">XAMPP</a>:</p>
-</div>
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><strong>Download di forma:</strong> Il primo passaggio riguarda il download del pacchetto che
-contiene forma. Basta visitare il sito
-<a href="https://www.formalms.org/download.html">FormaLMS</a> e cliccare sul puslante di
-Download.</p>
-</li>
-<li>
-<p><strong>Estrazione del pacchetto:</strong> Una volta scaricato il pacchetto
-<code>formalms-v2.x.y.z.zip</code> (il nome del file può variare in base alla versione che
-si sta scaricando) basta estrarre la cartella <code>formalms</code> all’interno di un
-webserver (ad esempio nella cartella <code>htdocs</code>, nel caso di un server XAMPP).</p>
-</li>
-<li>
-<p><strong>Creazione del database:</strong> Una volta copiata la cartella all’interno del
-webserver, basta avviare i servizi dal pannello di controllo dello stesso per
-poi visitare il link <a href="http://localhost/phpmyadmin" class="bare">http://localhost/phpmyadmin</a> da cui si può creare un
-database che verrà richiesto durante l’installazione di forma.</p>
-</li>
-<li>
-<p><strong>Installazione di forma:</strong> Adesso basta visitare il link
-<a href="http://localhost/formalms/install/" class="bare">http://localhost/formalms/install/</a> e seguire i passaggi dell’installazione
-automatica.</p>
-</li>
-<li>
-<p><strong>Modifiche finali per la sicurezza:</strong> Una volta terminata l’installazione si
-consiglia di recarsi all’interno di <code>formalms</code>, cartella copiata precedentemente
-nel webserver, per poi cancellare la cartella <code>install</code>.</p>
-</li>
-</ol>
-</div>
-<div class="paragraph">
-<p>Seguiti i passaggi è possibile utilizzare la piattaforma sul proprio pc locale.</p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_features">1.2. Features</h3>
-<div class="dlist">
-<dl>
-<dt class="hdlist1">Layout reattivo</dt>
-<dd>
-<p>L’incredibile successo commerciale di smartphone e di altri
-vari dispositivi hanno obbligato i designer a fronteggiare il problema delle
-differenti risoluzioni dei monitor. Proprio per queste continue evoluzioni della
-tecnologia i siti web devono essere reattivi. La piattoforma fornisce un layout
-reattivo e un’interfaccia nuovissima con aspetto moderno progettata per
-un’esperienza utente facile e coinvolgente.</p>
-</dd>
-<dt class="hdlist1">Controllo totale sui corsi</dt>
-<dd>
-<p>Un’ottima caratteristica per un sito di E-learning
-è la possibilità di gestire i corsi. La piattoforma, appunto, fornisce i mezzi
-necessari per la gestione degli insegnamenti e della condivisione dei suoi
-materiali. Permette, inoltre, di monitorare le attività con un sistema di
-tracciamento avanzato e compatibilità SCORM.</p>
-</dd>
-<dt class="hdlist1">Certificati PDF automatici</dt>
-<dd>
-<p>L’apprendimento formale, un tipo di apprendimento
-che si sviluppa nell’ambito di un contesto strutturato e organizzato, conduce ad
-una forma di riconoscimento ufficiale. La piattaforma permette la generazione
-automatica di certificati PDF al completamento dei corsi, con modelli grafici
-personalizzabili illimitati.</p>
-</dd>
-<dt class="hdlist1">Creazione di Webinar</dt>
-<dd>
-<p>La piattaforma form.lms supporta il webinar (WEB
-semINAR), ovvero seminario online. Grazie ad esso, si ha la comodità di
-partecipare a videoconferenze da casa con l’efficacia e l’interattività tipiche
-di un evento in presenza (<em>che possono essere lezioni, seminari, riunioni,
-etc…​</em>). Il webinar è uno strumento che sfrutta la modalità sincrona, ma può
-essere sfruttato in modalità asincrona attraverso la registrazione dell’evento
-per poi essere visionato in ore o giorni differenti. Un altro vantaggio per chi
-organizza una videoconferenza è quello di poter illustrare, ai partecipanti
-della stessa,  slides e documenti in diretta.</p>
-</dd>
-<dt class="hdlist1">Gestione flessibile degli utenti</dt>
-<dd>
-<p>Gli utenti possono essere organizzati,
-attraverso organigrammi, in gruppi o in base a ruoli. È possibile gestire gli
-amminastratori assegnandoli autorizzazioni speciali. Inoltre, un altro vantaggio
-è quello di poter importare, esportare e modificare più utenti con un solo clic.</p>
-</dd>
-<dt class="hdlist1">Report personalizzati</dt>
-<dd>
-<p>La piattaforma permette di creare facilmente
-innumerevoli report personalizzati attraverso un semplice wizard che guida
-l’utente passo dopo passo. Inoltre, si ha la possibilità di pianificare l’invio
-regolare di questi report agli amministratori e/o agli utenti presenti nel
-corso.</p>
-</dd>
-<dt class="hdlist1">Ruoli e competenze</dt>
-<dd>
-<p>È possibile creare delle competenze che possono essere
-assegnate agli utenti. Ogni competenza può essere impostata a “Punteggio” o
-essere semplicemente assegnata. Inoltre la piattaforma mette a disposizione più
-tipologie che si dividono in: Competenze, Attitudini e Conoscenze. Oltre alle
-competenze c’è la possibilità di creare dei Gruppi e ad ogni gruppo si possono
-creare dei Ruoli. Ogni ruolo può essere assegnato a uno o più utenti e può
-contenere una o più competenze che sono assegnate automaticamente ad ogni utente
-inserito.</p>
-</dd>
-<dt class="hdlist1">Aule</dt>
-<dd>
-<p>La piattaforma permette di creare più corsi, divisibili in macro-gruppi,
-che possono contenere uno o più utenti. Ogni corso può essere duplicato
-permettendo di creare più “Aulee” dello stesso corso con gli stessi contenuti
-ma utenti diversi.</p>
-</dd>
-<dt class="hdlist1">Cataloghi e corsi</dt>
-<dd>
-<p>I corsi possono essere divisi in categorie permettendo di
-organizzarli. Si possono creare anche categorie e percorsi formativi, per
-offrire agli utenti diverse scelte di formazione.</p>
-</dd>
-<dt class="hdlist1">E-commerce integrato</dt>
-<dd>
-<p>La piattaforma presenta una funzionalità di e-commerce
-integrata che permette di vendere i propri corsi con facilità, senza
-preoccuparsi di adottare soluzioni esterne.</p>
-</dd>
-<dt class="hdlist1">Notifiche automatiche</dt>
-<dd>
-<p>La piattaforma presenta un sistema di notifica
-automatico in grado di avvisare quando l’utente compie un azione rilevante: la
-sua registrazione, l’iscrizione o il completamento di un corso. Le notifiche
-possono essere inviate via sms o tramite e-mail. Nel caso di alcuni tipi di
-notifiche è possibile impostare quanto prima/dopo devono essere inviate, oltre
-che a messaggi personalizzati.</p>
-</dd>
-<dt class="hdlist1">Comunicazione tra utenti</dt>
-<dd>
-<p>La piattaforma consente agli utenti registrati di
-comunicare attraverso l’utilizzo di forum, permettendo a coloro che sono
-registrati agli stessi corsi di interagire tra loro. Inoltre è presente un
-sistema di messaggistica privato.</p>
-</dd>
-<dt class="hdlist1">Multi-Client</dt>
-<dd>
-<p>È possibile gestire diversi template e diversi URL per mostrare a
-ciascun client una piattaforma diversa con una singola installazione di
-forma.lms. Questa feature è potenzialmente utile se, per esempio pensando al
-contesto universitario (si veda la <a href="#formalms-possibili-contesti-duso">Section 1.3</a>), si
-vuole gestire un’unica installazione di forma.lms (quella dell’università) da
-dividere in più piattaforme (quelle dei dipartimenti).</p>
-</dd>
-<dt class="hdlist1">Estensibile attraverso plugins</dt>
-<dd>
-<p>Se la piattaforma non consente di gestire delle
-operazioni che sono necessarie per il sistema che si sta progettando, è
-possibile estendere le funzionalità di forma.lms attraverso plugin e script
-personalizzati. Se non dovesse essere disponibile un plugin che gestisca
-l’operazione necessaria, è pur sempre possibile realizzarne uno <em>ad-hoc</em>.</p>
-<div class="paragraph">
-<p>Caricare un plugin è, inoltre, molto semplice: basta effettuare l’accesso alla
-piattaforma (come amministratore), andare nella pagina di amministrazione e
-scegliere dal menu la voce “Configurazione &gt; Plugin”.</p>
-</div>
-</dd>
-<dt class="hdlist1">Integrazione</dt>
-<dd>
-<p>È possibile integrare la piattaforma di e-learning con il proprio
-software gesionale attraverso API native e connettori, rendendo quindi il
-sistema creato con forma.lms parte del proprio ecosistema digitale.</p>
-</dd>
-</dl>
-</div>
-</div>
-<div class="sect2">
-<h3 id="formalms-possibili-contesti-duso">1.3. Possibili contesti d’uso</h3>
-<div class="paragraph">
-<p>L’LMS <em>forma.lms</em> risulta essere molto versatile. È infatti possibile utilizzarlo
-per diversi contesti. Di seguito se ne riportano tre, ritenuti più utili.</p>
-</div>
-<div class="dlist">
-<dl>
-<dt class="hdlist1">Università</dt>
-<dd>
-<p>Le features di forma.lms si adattano bene al contesto universitario.
-La gestione dei corsi e degli utenti permette di mappare in modo naturale il
-mondo delle lezioni accademiche a quello del LMS. Inoltre, la gestione
-automatica di certificati consente anche la generazione di attestati di laurea
-al termine del percorso di studi, consentendo in modo molto semplice la
-creazione di un’intera facoltà online. Inoltre, la gestione dei <em>webinar</em> (con
-relativi attestati) consente di tenere seminari online, simulando l’ambiente
-universitario.</p>
-</dd>
-<dt class="hdlist1">Accademie di varia tipologia</dt>
-<dd>
-<p>Le features di forma.lms si adattano ai contesti
-di accademie di varia tipologia (per esempio, accademie musicali). È quindi
-possibile gestire diversi corsi (per esempio, nel caso di accademie musicali, è
-possibile creare un corso per ogni strumento e grado di conoscenza necessaria).
-Anche in questo caso, la gestione automatica dei certificati permette di
-rilasciare certificazioni più o meno ufficiali di superamento o frequenza dei
-corsi. Il tutto si incastra perfettamente con il motore di e-commerce incluso in
-forma.lms che consente di limitare l’accesso ai corsi previo pagamento.</p>
-</dd>
-<dt class="hdlist1">Scuole private e/o professionali</dt>
-<dd>
-<p>Le features di e-commerce di forma.lms sono
-perfette per il mondo delle scuole private e/o professionali. Si permette quindi
-di creare dei corsi accessibili a pagamento (con rilascio di certificati).
-Inoltre, è possibile tenere seminari di formazione (si pensi a un possibile
-seminario di sicurezza sul lavoro) anch’essi a pagamento (o gratuiti) senza
-alcuna difficoltà.</p>
-</dd>
-<dt class="hdlist1">Condivisione delle conoscenze</dt>
-<dd>
-<p>Le features di forma.lms permettono di costruire
-un sistema che funga da luogo di incontro tra diversi utenti: è infatti
-possibile progettare e realizzare (con uno sforzo relativamente piccolo) un
-sistema che consenta agli utenti stessi di creare corsi e seminari, a pagamento
-e non, e di usufruirne. Inoltre è possibile rilasciare certificati di
-partecipazione (generati automaticamente). Questo tipo di contesto è altamente
-competitivo dal punto di vista commerciale e un sistema simile si affiancherebbe
-a sistemi già esistenti come <a href="https://www.udemy.com/">Udemy</a>,
-<a href="https://www.coursera.org/">Coursera</a>, <a href="https://www.skillshare.com/">SkillShare</a>,
-<a href="https://www.docety.com/">Docety</a> e altri.</p>
-</dd>
-</dl>
-</div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="_progettazione_ambiente">2. Progettazione ambiente</h2>
-<div class="sectionbody">
-<div class="sect2">
-<h3 id="_fase_preliminare">2.1. Fase preliminare</h3>
+<h3 id="_fase_preliminare">1.1. Fase preliminare</h3>
 <div class="sect3">
-<h4 id="_analisi_dei_bisogni">2.1.1. Analisi dei bisogni</h4>
+<h4 id="_analisi_dei_bisogni">1.1.1. Analisi dei bisogni</h4>
 <div class="paragraph">
-<p>Il committente è un’accademia musicale (“X”). Il sistema deve essere una
-piattaforma di e-learning per tale accademia. L’accademia (“X”) richiede una
-strutturazione della piattaforma semplice, in modo tale da ridurne al minimo la
-curva di apprendimento. È stato richiesto di avere un unico corso per singolo
-strumento, nel quale sia possibile suddividere gli studenti in gruppi diversi
-(per esempio, per età in modo da non rendere difficile la comunicazione tra
-docenti e studenti).</p>
+<p>Il committente è l’accademia musicale “Marley Academy”. Il sistema deve essere
+una piattaforma di e-learning per tale accademia. L’accademia “Marley Academy”
+richiede una strutturazione della piattaforma semplice, in modo tale da ridurne
+al minimo la curva di apprendimento. È stato richiesto di avere un unico corso
+per singolo strumento, nel quale sia possibile suddividere gli studenti in
+gruppi diversi (per esempio, per età in modo da non rendere difficile la
+comunicazione tra docenti e studenti).</p>
 </div>
 <div class="paragraph">
 <p>L’accademia ha espresso la necessità di avere un ambiente per i propri studenti
@@ -849,7 +601,7 @@ mostrare ai suoi studenti tutte le varie caratteristiche del brano proposto.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_caratterizzazione_della_comunità">2.1.2. Caratterizzazione della comunità</h4>
+<h4 id="_caratterizzazione_della_comunità">1.1.2. Caratterizzazione della comunità</h4>
 <div class="paragraph">
 <p>Il sistema commissionato è una piattaforma di e-learning in cui l’accademia può
 spostare la propria didattica: la comunità su cui si basa è la stessa comunità
@@ -907,9 +659,9 @@ l’attività didattica.</p>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_dimensione_gestionale">2.2. Dimensione gestionale</h3>
+<h3 id="_dimensione_gestionale">1.2. Dimensione gestionale</h3>
 <div class="sect3">
-<h4 id="_flussi_di_comunicazione">2.2.1. Flussi di comunicazione</h4>
+<h4 id="_flussi_di_comunicazione">1.2.1. Flussi di comunicazione</h4>
 <div class="paragraph">
 <p>L’interazione fra studenti e docenti può, attualmente, avvenire mediante scambi
 verbali e condivisione di documenti. Per questo motivo, la piattaforma deve
@@ -943,7 +695,7 @@ al docente l’onere di valutare se lo studente ha raggiunto il suo obiettivo
 </div>
 </div>
 <div class="sect3">
-<h4 id="_definizione_della_conoscenza_comunitaria">2.2.2. Definizione della conoscenza comunitaria</h4>
+<h4 id="_definizione_della_conoscenza_comunitaria">1.2.2. Definizione della conoscenza comunitaria</h4>
 <div id="img-dominio-conoscenza" class="imageblock">
 <div class="content">
 <img src="mappa-dominio-conoscenza.svg" alt="mappa dominio conoscenza" width="832" height="440">
@@ -952,7 +704,7 @@ al docente l’onere di valutare se lo studente ha raggiunto il suo obiettivo
 </div>
 </div>
 <div class="sect3">
-<h4 id="_definizione_della_struttura_organizzativa">2.2.3. Definizione della struttura organizzativa</h4>
+<h4 id="_definizione_della_struttura_organizzativa">1.2.3. Definizione della struttura organizzativa</h4>
 <div class="paragraph">
 <p>Viene fornita di seguito la definizione della struttura organizzativa, in cui si
 identificano i ruoli, associati ai compiti e alle reponsabilità che dovranno
@@ -1011,7 +763,7 @@ tecnici e gestionali.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_avvio_della_comunità">2.2.4. Avvio della comunità</h4>
+<h4 id="_avvio_della_comunità">1.2.4. Avvio della comunità</h4>
 <div class="paragraph">
 <p>In riferimento alla comunità della piattaforma, non vi sono limiti prestabiliti
 nella sua dimensione. Tuttavia, per garantire la qualità di insegnamento
@@ -1033,7 +785,7 @@ nuove iscrizioni (che avvengono come “studenti”).</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_gestione">2.2.5. Gestione</h4>
+<h4 id="_gestione">1.2.5. Gestione</h4>
 <div class="paragraph">
 <p>Al fine di controllare l’adozione degli strumenti tecnolofici più adatti alla
 comunicazione e alla collaborazione online, il team FSC si impegna a effettuare
@@ -1066,13 +818,13 @@ mantenere sempre viva e interessante l’interazione fra i membri della comunit�
 <p>Eventuali situazioni critiche (di tipo tecnico, personale o di gruppo) saranno
 gestite mediante sistemi di FAQ (<em>Frequently Asked Questions</em>) e la
 pubblicazione di una guida passo-passo (di cui si è già parlato nella
-<a href="#_avvio_della_comunit%C3%A0">Section 2.2.4</a>). Eventuali problematiche e criticità non risolte
+<a href="#_avvio_della_comunit%C3%A0">Section 1.2.4</a>). Eventuali problematiche e criticità non risolte
 utilizzando le precedenti tecniche, saranno gestite mediante un sistema di invio
 di segnalazioni alla segreteria.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_monitoraggio_e_valutazione">2.2.6. Monitoraggio e valutazione</h4>
+<h4 id="_monitoraggio_e_valutazione">1.2.6. Monitoraggio e valutazione</h4>
 <div class="paragraph">
 <p>Per monitorare e valutare la qualità della vita della comunità possono essere
 presi in esame diversi fattori, fra cui il numero di post attivi e di commenti
@@ -1099,7 +851,7 @@ docenti.</p>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_dimensione_tecnologica">2.3. Dimensione tecnologica</h3>
+<h3 id="_dimensione_tecnologica">1.3. Dimensione tecnologica</h3>
 <div class="paragraph">
 <p>Si sono analizzate diverse piattaforme LMS. Nella <a href="#tab-analisi-piattaforme">Tabella 1</a> si
 riporta una scheda riassuntiva delle principali piattaforme prese in analisi e
@@ -1213,7 +965,7 @@ di una loro comparazione.</p>
 piattaforma in progettazione sono “forma.lms” e “Moodle”.</p>
 </div>
 <div class="sect3">
-<h4 id="_moodle_e_forma_lms">2.3.1. Moodle e forma.lms</h4>
+<h4 id="_moodle_e_forma_lms">1.3.1. Moodle e forma.lms</h4>
 <div class="paragraph">
 <p>Le differenze principali tra Moodle e forma.lms stanno sulla loro documentazione
 e sulla loro user base.</p>
@@ -1240,7 +992,7 @@ StackOverflow.</p>
 </div>
 <div id="footer">
 <div id="footer-text">
-Ultimo aggiornamento 2020-05-15 09:02:26 UTC
+Ultimo aggiornamento 2020-05-15 13:57:35 UTC
 </div>
 </div>
 </body>
