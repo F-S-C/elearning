@@ -66,8 +66,8 @@ blockdiag {
     L2.1[numbered="L2.1",label="Introduzione ai rudimenti"]
     L2.2[numbered="L2.2",label="Rudimenti di base"]
     L2.3[numbered="L2.3",label="Propedeuticità dei rudimenti"]
-    L3.1[numbered="L4.1",label="Introduzione agli accenti"]
-    L3.2[numbered="L4.2",label="Accenti di base"]
+    L3.1[numbered="L3.1",label="Introduzione agli accenti"]
+    L3.2[numbered="L3.2",label="Accenti di base"]
     
     A -> M1
     M1 -> L1.1
