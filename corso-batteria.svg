@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg viewBox="0 0 640 680" xmlns="http://www.w3.org/2000/svg" xmlns:inkspace="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs id="defs_block">
+    <filter height="1.504" id="filter_blur" inkspace:collect="always" width="1.1575" x="-0.07875" y="-0.252">
+      <feGaussianBlur id="feGaussianBlur3780" inkspace:collect="always" stdDeviation="4.2" />
+    </filter>
+  </defs>
+  <title>blockdiag</title>
+  <desc>blockdiag {
+    A[label="Corso di Batteria:\nLivello base"]
+    M1[numbered="M1",label="Introduzione allo strumento"]
+    M2[numbered="M2",label="Rudimenti"]
+    M3[numbered="M3",label="Accenti"]
+
+
+    L1.1[numbered="L1.1",label="Struttura della batteria"]
+    L1.2[numbered="L1.2",label="I concetti fondamentali della batteria"]
+    L1.3[numbered="L1.3",label="Impugnatura della bacchetta"]
+    L2.1[numbered="L2.1",label="Introduzione ai rudimenti"]
+    L2.2[numbered="L2.2",label="Rudimenti di base"]
+    L2.3[numbered="L2.3",label="Propedeuticità dei rudimenti"]
+    L3.1[numbered="L3.1",label="Introduzione agli accenti"]
+    L3.2[numbered="L3.2",label="Accenti di base"]
+
+    A -&gt; M1
+    M1 -&gt; L1.1
+    M1 -&gt; L1.2
+    M1 -&gt; L1.3
+
+    A -&gt; M2
+    M2 -&gt; L2.1
+    M2 -&gt; L2.2
+    M2 -&gt; L2.3
+
+    A -&gt; M3
+    M3 -&gt; L3.1
+    M3 -&gt; L3.2
+
+}</desc>
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="67" y="46" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="259" y="46" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="259" y="286" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="259" y="526" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="451" y="46" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="451" y="126" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="451" y="206" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="451" y="286" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="451" y="366" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="451" y="446" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="451" y="526" />
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="451" y="606" />
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="64" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="108" x="128.0" y="59">Corso di Batteria:</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="72" x="128.0" y="72">Livello base</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="256" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="126" x="320.0" y="59">Introduzione allo str</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="36" x="320.0" y="72">umento</text>
+  <ellipse cx="256" cy="40" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="12" x="256.0" y="46">M1</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="256" y="280" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="54" x="320.0" y="306">Rudimenti</text>
+  <ellipse cx="256" cy="280" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="12" x="256.0" y="286">M2</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="256" y="520" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="42" x="320.0" y="546">Accenti</text>
+  <ellipse cx="256" cy="520" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="12" x="256.0" y="526">M3</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="448" y="40" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="126" x="512.0" y="59">Struttura della batte</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="18" x="512.0" y="72">ria</text>
+  <ellipse cx="448" cy="40" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="24" x="448.0" y="46">L1.1</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="448" y="120" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="126" x="512.0" y="139">I concetti fondamenta</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="102" x="512.0" y="152">li della batteria</text>
+  <ellipse cx="448" cy="120" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="24" x="448.0" y="126">L1.2</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="448" y="200" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="126" x="512.0" y="219">Impugnatura della bac</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="36" x="512.0" y="232">chetta</text>
+  <ellipse cx="448" cy="200" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="24" x="448.0" y="206">L1.3</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="448" y="280" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="126" x="512.0" y="299">Introduzione ai rudim</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="24" x="512.0" y="312">enti</text>
+  <ellipse cx="448" cy="280" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="24" x="448.0" y="286">L2.1</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="448" y="360" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="102" x="512.0" y="386">Rudimenti di base</text>
+  <ellipse cx="448" cy="360" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="24" x="448.0" y="366">L2.2</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="448" y="440" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="126" x="512.0" y="459">Propedeuticità dei ru</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="42" x="512.0" y="472">dimenti</text>
+  <ellipse cx="448" cy="440" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="24" x="448.0" y="446">L2.3</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="448" y="520" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="126" x="512.0" y="539">Introduzione agli acc</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="24" x="512.0" y="552">enti</text>
+  <ellipse cx="448" cy="520" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="24" x="448.0" y="526">L3.1</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="448" y="600" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="90" x="512.0" y="626">Accenti di base</text>
+  <ellipse cx="448" cy="600" fill="pink" rx="12.0" ry="12.0" stroke="rgb(0,0,0)" />
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="11" font-style="normal" font-weight="normal" text-anchor="middle" textLength="24" x="448.0" y="606">L3.2</text>
+  <path d="M 192 60 L 248 60" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="255,60 248,56 248,64 255,60" stroke="rgb(0,0,0)" />
+  <path d="M 192 60 L 224 60" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 224 60 L 224 300" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 224 300 L 248 300" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="255,300 248,296 248,304 255,300" stroke="rgb(0,0,0)" />
+  <path d="M 192 60 L 224 60" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 224 60 L 224 540" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 224 540 L 248 540" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="255,540 248,536 248,544 255,540" stroke="rgb(0,0,0)" />
+  <path d="M 384 60 L 440 60" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="447,60 440,56 440,64 447,60" stroke="rgb(0,0,0)" />
+  <path d="M 384 60 L 416 60" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 416 60 L 416 140" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 416 140 L 440 140" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="447,140 440,136 440,144 447,140" stroke="rgb(0,0,0)" />
+  <path d="M 384 60 L 416 60" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 416 60 L 416 220" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 416 220 L 440 220" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="447,220 440,216 440,224 447,220" stroke="rgb(0,0,0)" />
+  <path d="M 384 300 L 440 300" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="447,300 440,296 440,304 447,300" stroke="rgb(0,0,0)" />
+  <path d="M 384 300 L 416 300" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 416 300 L 416 380" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 416 380 L 440 380" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="447,380 440,376 440,384 447,380" stroke="rgb(0,0,0)" />
+  <path d="M 384 300 L 416 300" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 416 300 L 416 460" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 416 460 L 440 460" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="447,460 440,456 440,464 447,460" stroke="rgb(0,0,0)" />
+  <path d="M 384 540 L 440 540" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="447,540 440,536 440,544 447,540" stroke="rgb(0,0,0)" />
+  <path d="M 384 540 L 416 540" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 416 540 L 416 620" fill="none" stroke="rgb(0,0,0)" />
+  <path d="M 416 620 L 440 620" fill="none" stroke="rgb(0,0,0)" />
+  <polygon fill="rgb(0,0,0)" points="447,620 440,616 440,624 447,620" stroke="rgb(0,0,0)" />
+</svg>
