@@ -122,6 +122,44 @@ blockdiag {
 }
 -----
 
+=== Corso di batteria di livello base
+
+.La struttura del corso di batteria (livello base). Il corso è suddiviso in 3 moduli, ciascun modulo è poi diviso in diverse lezioni.
+[blockdiag,"corso-batteria", svg, width="80%"]
+-----
+blockdiag {    
+    A[label="Corso di Batteria:\nLivello base"]
+    M1[numbered="M1",label="Introduzione allo strumento"]
+    M2[numbered="M2",label="Rudimenti"]
+    M3[numbered="M3",label="Accenti"]
+   
+
+    L1.1[numbered="L1.1",label="Struttura della batteria"]
+    L1.2[numbered="L1.2",label="I concetti fondamentali della batteria"]
+    L1.3[numbered="L1.3",label="Impugnatura della bacchetta"]
+    L2.1[numbered="L2.1",label="Introduzione ai rudimenti"]
+    L2.2[numbered="L2.2",label="Rudimenti di base"]
+    L2.3[numbered="L2.3",label="Propedeuticità dei rudimenti"]
+    L3.1[numbered="L3.1",label="Introduzione agli accenti"]
+    L3.2[numbered="L3.2",label="Accenti di base"]
+    
+    A -> M1
+    M1 -> L1.1
+    M1 -> L1.2
+    M1 -> L1.3
+    
+    A -> M2
+    M2 -> L2.1
+    M2 -> L2.2
+    M2 -> L2.3
+    
+    A -> M3
+    M3 -> L3.1
+    M3 -> L3.2
+    
+}
+-----
+
 === Corso di chitarra di livello base
 
 .La struttura del corso di chitarra (livello base). Il corso è diviso in 3 moduli, ciascun modulo è poi diviso in diverse lezioni.
@@ -233,7 +271,7 @@ blockdiag {
 
 === Corso di teoria di livello avanzato
 
-.Storyboard: Modulo 1, "`Introduzione allo strumento`"
+.Storyboard: Modulo 1, "`Tono, semitono e alterazioni`"
 [cols="<.^20h,<.^80"]
 |===
 | Argomento | Il tono e il semitono
@@ -245,6 +283,23 @@ semitono.
 | Immagini | 1
 | Audio | Nessuno
 | Video | Nessuno
+// | Strumenti di comunicazione | Forum, chat
+| Link | 
+|===
+
+=== Corso di batteria di livello base
+
+.Storyboard: Modulo 1, "`Introduzione allo strumento`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Struttura della batteria
+| Numero pagina | 
+| Descrizione | Viene descritto che tipo di strumento è la batteria e quali sono le sue componenti (cassa, rullante, piatti, ecc.).
+// | Template | 
+// | Testo | 
+| Immagini | 
+| Audio | 
+| Video | 
 // | Strumenti di comunicazione | Forum, chat
 | Link | 
 |===

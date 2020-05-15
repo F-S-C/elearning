@@ -28,6 +28,10 @@ o più strumenti avendo, al contempo, una base solida.
 Sono stati presi in esame diversi aspetti (discussi nelle sezioni
 seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
 
+==== Corso di batteria di livello base
+
+Gli utenti a cui è rivolto il corso di batteria di livello base possono avere età e competenze differenti, l'importante è che siano interessati a imparare a suonare questo strumento . Sono stati presi in esame diversi aspetti (che sono stati discussi nelle sezioni seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
+
 ==== Corso di chitarra di livello base
 
 Il corso di chitarra di livello base è rivolto a tutti coloro che sono interessati 
@@ -49,8 +53,8 @@ seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
 
 Gli utenti possono potenzialmente essere sparsi in tutto il globo, ma si
 presuppone una buona padronanza della lingua italiana. Inoltre, sia per
-problematiche legate alla disponibilità temporale degli utenti ma anche per la
-loro potenziale locazione geografica, non è possibile presupporre la possibilità
+problematiche legate alla disponibilità temporale degli utenti, per la
+loro potenziale locazione geografica e ma anche per i problemi legati alla pandemia che si sta vivendo, non è possibile presupporre la possibilità
 di partecipare fisicamente in sede alle attività. Per questo motivo l'utente,
 accedendo alla piattaforma, deve poter usufruire del materiale didattico in
 qualsiasi momento. Inoltre, il fattore della distanza fisica agisce direttamente
@@ -64,7 +68,9 @@ materiale didattico deve essere fruibile senza limiti di utenti attivi
 contemporaneamente. Una eccezione riguarda gli incontri online organizzati:
 qualora il numero di iscritti al corso fosse ingestibile per una singola
 conferenza, è possibile suddividere il gruppo in gruppi di lavoro con cui
-organizzare singolarmente degli incontri.
+organizzare singolarmente degli incontri (per esempio, nel caso in cui ci sia bisogno di effettuare un workshop con tutti gli allievi in un unico incontro).
+
+Nel caso in cui, invece, fosse necessario l'incontro online per perfezionare determinate tecniche e/o la postura dell'allievo (quindi un ricevimento per ulteriori chiarimenti) sarà necessario avere una video lezione online con il singolo studente in quanto si potrebbe creare confusione tra i partecipanti (specialmente nel caso specifico di alcuni strumenti musicali, come la batteria).
 
 ==== Accesso dell'utente alla tecnologia
 
@@ -95,6 +101,9 @@ mai avuto alcun contatto con il mondo della musica. Per questo motivo, deve
 essere fornito un vocabolario di base minimo che permetta la comunicazione, ma
 tale vocabolario non deve e non può sostituire un corso di teoria musicale di
 base, che resta un prerequisito consigliato del corso.
+
+// NOTE: Inserire dei glossari sui termini non inerenti alla teoria ma utili?
+//  esempio: "membranofono" per la tipologia di strumento
 
 ==== Omogeneità o disomogeneità di interesse tra i partecipanti
 
@@ -195,7 +204,7 @@ I casi specifici per ogni lezione sono riportati nella <<sec-lezioni-bloom>>.
 
 [#tab-lezioni-bloom-teoria-avanzate]
 [options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
-.Attività, obiettivi e livelli della tassonomia di Bloom per ogni unità
+.Attività, obiettivi e livelli della tassonomia di Bloom per ogni unità del corso di teoria di livello avanzato
 |===
 | N.ro Unità | Titolo unità | Attività | Obiettivo | Tassonomia di Bloom
 
@@ -232,9 +241,46 @@ l'accordo tonale e la nota differenziale e personale.
   * Comprensione
 |===
 
+[#tab-lezioni-bloom-batteria-base]
+[options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
+.Attività, obiettivi e livelli della tassonomia di Bloom per ogni modulo del corso di batteria di livello base
+|===
+| N.ro Modulo | Titolo modulo | Attività | Obiettivo | Tassonomia di Bloom
+
+| 1
+| Introduzione allo strumento
+| * Conoscenza delle componenti principali dello strumento, dei suoi principi
+  fondamentali e l'importanza dell'impugnatura della bacchetta
+| Lo studente deve conoscere quali sono le componenti fondamentali dello
+  strumento che sta utilizzando e deve conoscere quali sono le "`regole`" e i
+  principi basilari della disciplina
+| * Conoscenza
+
+| 2
+| Rudimenti
+| * Comprendere cosa sono i rudimenti
+  * Comprendere quali sono i rudimenti di base
+  * Applicazione della teoria dei rudimenti per poter iniziare a riprodurli sulla percussione scelta (o direttamente sulla batteria, o su un pad)
+| Lo studente deve essere in grado di comprendere cosa sono i rudimenti, quali sono quelli di base e deve essere in grado di applicare i rudimenti suonandoli su una batteria (o su un pad, o su una qualsiasi percussione)
+| * Conoscenza
+  * Comprensione
+  * Applicazione
+
+| 3
+| Accenti
+| * Comprendere cosa sono gli accenti
+  * Comprendere quali sono gli accenti
+  * Applicare questi accenti riproducendoli su una batteria (o su un pad, o su una qualsiasi percussione)
+| Lo studente deve essere in grado comprendere cosa sono gli accenti e quali sono quelli fondamentali.
+  Deve essere inoltre in grado di riprodurre gli accenti studiati su una batteria (o su un pad, o su una qualsiasi percussione)
+| * Conoscenza
+  * Comprensione
+  * Applicazione
+|===
+
 [#tab-lezioni-bloom-chitarra-base]
 [options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
-.Attività, obiettivi e livelli della tassonomia di Bloom per ogni modulo
+.Attività, obiettivi e livelli della tassonomia di Bloom per ogni modulo del corso di chitarra di livello base
 |===
 | N.ro Modulo | Titolo modulo | Attività | Obiettivo | Tassonomia di Bloom
 
@@ -416,6 +462,41 @@ Corso di teoria musicale di livello avanzato::
   * La scala diatonica
   * La tonalità e il modo
 
+|===
+
+Corso di batteria di livello base::
+  * Modulo 1: Introduzione allo strumento
+    ** Lezione 1.1: Struttura dello strumento
+    ** Lezione 1.2: I concetti fondamentali della batteria
+    ** Lezione 1.3: Impugnatura della bacchetta
+  * Modulo 2: Rudimenti 
+    ** Lezione 2.1: Introduzione ai rudimenti
+    ** Lezione 2.2: Rudimenti di base
+    ** Lezione 2.3: Propedeuticità dei rudimenti
+  * Modulo 3: Accenti 
+    ** Lezione 3.1: Introduzione agli accenti
+    ** Lezione 3.2: Accenti di base
+  * Esame finale
++
+[options="header", cols="^.^20h, ^.^40, ^.^40a"]
+.I contenuti del corso di batteria di livello base
+|===
+| Tipo di contenuto | Descrizione | Esempi
+
+| Fatti (chiuso)
+| Un insieme di dati dal carattere specifico e unico
+| * Struttura dello strumento
+  * Introduzione ai rudimenti
+  * Introduzione agli accenti
+| Concetti (chiuso/aperto)
+| Categoria che include al suo interno molteplici esemplificazioni
+| * L'impugnatura della bacchetta
+  * Rudimenti di base
+  * Propedeuticità dei rudimenti
+  * Accenti di base
+| Principi (aperto)
+| Indicazioni generali e linee guida
+| * I concetti fondamentali della batteria
 |===
 
 Corso di chitarra di livello base::
