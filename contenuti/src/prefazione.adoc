@@ -1,6 +1,13 @@
-:course-name: pianoforte (livello base)
+[preface]
+= Prefazione
 
-include::../../prefazione.adoc[]
+:hide-uri-scheme:
+
+Questo documento è la documentazione di progettazione del corso di
+{course-name}. L'intero documento e il relativo corso sono scritti e gestiti da
+{author}, che è possibile contattare personalmente all'indirizzo email {email}.
+
+:!hide-uri-scheme:
 
 La seguente progettazione ha quindi la funzione di spiegare in che modo sarà
 sviluppato il corso di pianoforte di livello base. In questo corso ci si
