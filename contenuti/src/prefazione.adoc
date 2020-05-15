@@ -3,28 +3,26 @@
 
 :hide-uri-scheme:
 
-Questo documento è la documentazione di progettazione del corso di
-{course-name}. L'intero documento e il relativo corso sono scritti e gestiti da
-{author}, che è possibile contattare personalmente all'indirizzo email {email}.
+Questo documento è la documentazione di progettazione dei corsi di Marley
+Academy. Nella <<tab-autori>> sono elencati, per ogni corso, i rispettivi autori
+con i relativi contatti.
+
+[options="header", cols="30,30,40"]
+.Autori dei corsi
+|===
+| Corso | Autore | E-mail
+| Teoria base | {author_4} | {email_4}
+| Teoria avanzata | {author_2} | {email_2}
+| Batteria base | {author_5} | {email_5}
+| Chitarra base | {author_3} | {email_3}
+| Pianoforte base | {author} | {email}
+|===
 
 :!hide-uri-scheme:
 
 La seguente progettazione ha quindi la funzione di spiegare in che modo sarà
-sviluppato il corso di pianoforte di livello base. In questo corso ci si
-occuperà di introdurre gli utenti allo strumento e fornire alcune metodologie e
-tecniche d'uso di base che permettano allo studente di suonare composizioni già
-conosciute o impararne autonomamente delle nuove.
-
-Tale corso appartiene al più largo modulo "`Corso di Pianoforte`" che è
-disponibile all'interno della piattaforma.
-
-[#sect-moduli]
-== Suddivisione in moduli
-
-Il corso può essere suddiviso in quattro unità didattiche, riportate di seguito.
-
-[#list-moduli]
-. Introduzione allo strumento
-. Utilizzare il pianoforte
-. Leggere uno spartito
-. Suonare il pianoforte
+sviluppato ciascun corso, partendo da alcune decisioni comuni. Più nel
+dettaglio, in questo documento saranno riportate tutte le decisioni prese
+durante la progettazione dei singoli corsi: per ogni sezione, se non vi sono
+sottosezioni specifiche per i vari corsi, significa che tutte le decisioni prese
+sono in comune fra i vari corsi.

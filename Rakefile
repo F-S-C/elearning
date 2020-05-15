@@ -45,11 +45,16 @@ def build_phase(phase_name, input, output)
   puts "\r✓ Builded '#{phase_name}'   "
 end
 
-task :default => %w(features ambiente manuali main contenuti)
+task :default => %w(clean features ambiente manuali main contenuti)
+
+task :clean do
+  FileUtils.rm_rf Pathname.new(__FILE__).dirname + 'docs/'
+end
 
 task :main do
   print "Building main document..."
   $stdout.flush
+  Dir.chdir Pathname.new(__FILE__).dirname
   AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname
   puts "\r✓ Builded main document   "
 end
@@ -58,6 +63,7 @@ task :manuali do
   %w(studente docente).each do |type|
     print "Building guide for '#{type}'..."
     $stdout.flush
+    Dir.chdir Pathname.new(__FILE__).dirname + "manuali/#{type}"
     AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname + "manuali/#{type}"
     FileUtils.mkdir_p Pathname.new(__FILE__).dirname + "docs/manuali/#{type}"
     FileUtils.mv Dir.glob(Pathname.new(__FILE__).dirname + "manuali/#{type}/docs/*"), Pathname.new(__FILE__).dirname + "docs/manuali/#{type}", force: true
@@ -66,16 +72,14 @@ task :manuali do
 end
 
 task :contenuti do
-  Dir.glob(Pathname.new(__FILE__).dirname + 'contenuti/**/document.yml') do |doc|
-    doc = Pathname.new(doc)
-    print "Building '#{doc.dirname.basename}'..."
+    doc = Pathname.new(__FILE__).dirname + 'contenuti/document.yml'
+    print "Building 'contenuti'..."
     $stdout.flush
+    Dir.chdir doc.dirname
     AsciiDocPublishingToolbox.build dir: doc.dirname
-    FileUtils.mkdir_p Pathname.new(__FILE__).dirname + 'docs/contenuti/' + doc.dirname.basename
-    FileUtils.mv Dir[doc.dirname + "out/*"], Pathname.new(__FILE__).dirname + 'docs/contenuti/' + doc.dirname.basename, force: true
-    FileUtils.mv Dir[doc.dirname + "docs/*"], Pathname.new(__FILE__).dirname + 'docs/contenuti/' + doc.dirname.basename, force: true
-    puts "\r✓ Builded '#{doc.dirname.basename}'   "
-  end
+    FileUtils.mkdir_p Pathname.new(__FILE__).dirname + 'docs/contenuti/'
+    FileUtils.mv Dir[doc.dirname + "docs/*"], Pathname.new(__FILE__).dirname + 'docs/contenuti/', force: true
+    puts "\r✓ Builded 'contenuti'   "
 end
 
 task :features do

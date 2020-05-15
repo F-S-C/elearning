@@ -4,13 +4,13 @@
 
 === Analisi dei bisogni
 
-Il committente è un'accademia musicale ("`X`"). Il sistema deve essere una
-piattaforma di e-learning per tale accademia. L'accademia ("`X`") richiede una
-strutturazione della piattaforma semplice, in modo tale da ridurne al minimo la
-curva di apprendimento. È stato richiesto di avere un unico corso per singolo
-strumento, nel quale sia possibile suddividere gli studenti in gruppi diversi
-(per esempio, per età in modo da non rendere difficile la comunicazione tra
-docenti e studenti).
+Il committente è l'accademia musicale "`Marley Academy`". Il sistema deve essere
+una piattaforma di e-learning per tale accademia. L'accademia "`Marley Academy`"
+richiede una strutturazione della piattaforma semplice, in modo tale da ridurne
+al minimo la curva di apprendimento. È stato richiesto di avere un unico corso
+per singolo strumento, nel quale sia possibile suddividere gli studenti in
+gruppi diversi (per esempio, per età in modo da non rendere difficile la
+comunicazione tra docenti e studenti).
 
 L'accademia ha espresso la necessità di avere un ambiente per i propri studenti
 che funda da supporto, sostegno e anche di rimpiazzo ai suoi corsi tenuti nella

@@ -15,50 +15,56 @@ presente documento di lavoro.
 L'utenza a cui è destinato il corso di teoria base è ampia e variegata. Questo
 principalmente poichè il corso non richiede di averne seguiti altri, essendo
 esso il corso propedeutico a tutti gli altri. Per tal motivo non vi sono delle
-limitazioni legate all'età, sia bambini che adulti possono fruire del corso 
+limitazioni legate all'età, sia bambini che adulti possono fruire del corso
 senza problemi.
 
 ==== Corso di teoria musicale di livello avanzato
 
-L'utenza a cui si rivolge il corso di teoria avanzata è ampia (in età) ma 
-richiede una conoscenza musicale di base che è fondamentale per 
-la corretta comprensione dei contenuti che il corso propone. Il corso in sè 
-può fungere da "`trampolino di lancio`" per permettere all'utente di imparare uno
-o più strumenti avendo, al contempo, una base solida.
-Sono stati presi in esame diversi aspetti (discussi nelle sezioni
-seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
+L'utenza a cui si rivolge il corso di teoria avanzata è ampia (in età) ma
+richiede una conoscenza musicale di base che è fondamentale per la corretta
+comprensione dei contenuti che il corso propone. Il corso in sè può fungere da
+"`trampolino di lancio`" per permettere all'utente di imparare uno o più
+strumenti avendo, al contempo, una base solida. Sono stati presi in esame
+diversi aspetti (discussi nelle sezioni seguenti) per comprendere quali sono le
+caratteristiche dei potenziali utenti.
 
 ==== Corso di batteria di livello base
 
-Gli utenti a cui è rivolto il corso di batteria di livello base possono avere età e competenze differenti, l'importante è che siano interessati a imparare a suonare questo strumento . Sono stati presi in esame diversi aspetti (che sono stati discussi nelle sezioni seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
+Gli utenti a cui è rivolto il corso di batteria di livello base possono avere
+età e competenze differenti, l'importante è che siano interessati a imparare a
+suonare questo strumento . Sono stati presi in esame diversi aspetti (che sono
+stati discussi nelle sezioni seguenti) per comprendere quali sono le
+caratteristiche dei potenziali utenti.
 
 ==== Corso di chitarra di livello base
 
-Il corso di chitarra di livello base è rivolto a tutti coloro che sono interessati 
-a imparare a suonare la chitarra. Per quanto riguarda le competenze, l'utente dovrebbe
-conoscere alcuni concetti base della teoria della musica. Essendo 
-di livello base, il corso risulterebbe inutile ad utenti che hanno già una buona affinità 
-con la chitarra. Sono stati presi in esame diversi aspetti
-(discussi nelle sezioni seguenti) per comprendere quali sono le caratteristiche dei 
-potenziali utenti.
+Il corso di chitarra di livello base è rivolto a tutti coloro che sono
+interessati a imparare a suonare la chitarra. Per quanto riguarda le competenze,
+l'utente dovrebbe conoscere alcuni concetti base della teoria della musica.
+Essendo di livello base, il corso risulterebbe inutile ad utenti che hanno già
+una buona affinità con la chitarra. Sono stati presi in esame diversi aspetti
+(discussi nelle sezioni seguenti) per comprendere quali sono le caratteristiche
+dei potenziali utenti.
 
 ==== Corso di pianoforte di livello base
 
-L'utenza a cui è rivolta la piattaforma è ampia (sia in
-età che in competenze) e include tutti coloro interessati a conoscere il mondo della musica e a imparare a suonare
-uno strumento. Sono stati presi in esame diversi aspetti (discussi nelle sezioni
-seguenti) per comprendere quali sono le caratteristiche dei potenziali utenti.
+L'utenza a cui è rivolta la piattaforma è ampia (sia in età che in competenze) e
+include tutti coloro interessati a conoscere il mondo della musica e a imparare
+a suonare uno strumento. Sono stati presi in esame diversi aspetti (discussi
+nelle sezioni seguenti) per comprendere quali sono le caratteristiche dei
+potenziali utenti.
 
 ==== Distanza fisica
 
 Gli utenti possono potenzialmente essere sparsi in tutto il globo, ma si
 presuppone una buona padronanza della lingua italiana. Inoltre, sia per
-problematiche legate alla disponibilità temporale degli utenti, per la
-loro potenziale locazione geografica e ma anche per i problemi legati alla pandemia che si sta vivendo, non è possibile presupporre la possibilità
-di partecipare fisicamente in sede alle attività. Per questo motivo l'utente,
-accedendo alla piattaforma, deve poter usufruire del materiale didattico in
-qualsiasi momento. Inoltre, il fattore della distanza fisica agisce direttamente
-sugli incontri in presenza organizzabili, che (qualora necessari) devono essere necessariamente
+problematiche legate alla disponibilità temporale degli utenti, per la loro
+potenziale locazione geografica e ma anche per i problemi legati alla pandemia
+che si sta vivendo, non è possibile presupporre la possibilità di partecipare
+fisicamente in sede alle attività. Per questo motivo l'utente, accedendo alla
+piattaforma, deve poter usufruire del materiale didattico in qualsiasi momento.
+Inoltre, il fattore della distanza fisica agisce direttamente sugli incontri in
+presenza organizzabili, che (qualora necessari) devono essere necessariamente
 sostituiti da incontri online.
 
 ==== Numero
@@ -68,9 +74,15 @@ materiale didattico deve essere fruibile senza limiti di utenti attivi
 contemporaneamente. Una eccezione riguarda gli incontri online organizzati:
 qualora il numero di iscritti al corso fosse ingestibile per una singola
 conferenza, è possibile suddividere il gruppo in gruppi di lavoro con cui
-organizzare singolarmente degli incontri (per esempio, nel caso in cui ci sia bisogno di effettuare un workshop con tutti gli allievi in un unico incontro).
+organizzare singolarmente degli incontri (per esempio, nel caso in cui ci sia
+bisogno di effettuare un workshop con tutti gli allievi in un unico incontro).
 
-Nel caso in cui, invece, fosse necessario l'incontro online per perfezionare determinate tecniche e/o la postura dell'allievo (quindi un ricevimento per ulteriori chiarimenti) sarà necessario avere una video lezione online con il singolo studente in quanto si potrebbe creare confusione tra i partecipanti (specialmente nel caso specifico di alcuni strumenti musicali, come la batteria).
+Nel caso in cui, invece, fosse necessario l'incontro online per perfezionare
+determinate tecniche e/o la postura dell'allievo (quindi un ricevimento per
+ulteriori chiarimenti) sarà necessario avere una video lezione online con il
+singolo studente in quanto si potrebbe creare confusione tra i partecipanti
+(specialmente nel caso specifico di alcuni strumenti musicali, come la
+batteria).
 
 ==== Accesso dell'utente alla tecnologia
 
@@ -90,7 +102,7 @@ essere fornito un vocabolario di base minimo che permetta la comunicazione.
 
 ===== Corso di teoria musicale di livello avanzato
 
-Si presume che i partecipanti del corso abbiano già una base di teoria della 
+Si presume che i partecipanti del corso abbiano già una base di teoria della
 musica conoscendo già le terminologie di base, lo spartito, le note i valori e
 le pause.
 
@@ -113,7 +125,9 @@ proprie inclinazioni. Inoltre, al superamento di una prova finale, sarà
 consegnato ai partecipanti un attestato di partecipazione e superamento del
 corso: questo terrà vivo l'interesse dei partecipanti.
 
-Gli interessi medi potrebbero, tuttavia, non essere omogenei fra tutti i partecipanti nel lungo termine. Per questo motivo, gli studenti che perdono il piacere di imparare le nozioni trattate sono liberi di abbandonare il corso.
+Gli interessi medi potrebbero, tuttavia, non essere omogenei fra tutti i
+partecipanti nel lungo termine. Per questo motivo, gli studenti che perdono il
+piacere di imparare le nozioni trattate sono liberi di abbandonare il corso.
 
 ==== Disponibilità del partecipante alla condivisione e alla collaborazione
 
@@ -122,7 +136,8 @@ il partecipante, nel suo interesse, sarà invogliato alla collaborazione con
 altri iscritti per approfondire argomenti, chiarire dubbi, risolvere problemi e
 confrontarsi. Tali comunicazioni possono avvenire mediante gli strumenti
 disposti dalla piattaforma (forum, chat, ecc.) ma anche con modalità esterne
-(social network, software di _Instant Messaging_, ecc.). Da non dimenticare però il mezzo di comunicazione più importante, "`la musica`".
+(social network, software di _Instant Messaging_, ecc.). Da non dimenticare però
+il mezzo di comunicazione più importante, "`la musica`".
 
 == Analisi dell'obiettivo
 
@@ -381,7 +396,9 @@ I contenuti del corso sono analizzati in base alle seguenti caratteristiche:
 
 Apertura o chiusura:: Il contenuto è principalmente (ma non totalmente) chiuso,
 in quanto trattasi di fatti e concetti. Tuttavia vi sono alcune eccezioni in cui
-i contenuti risultano aperti in quanto principi o processi. Nel caso specifico del corso di teoria di livello avanzato, il contenuto è totalmente chiuso in quanto trattasi di fatti e concetti
+i contenuti risultano aperti in quanto principi o processi. Nel caso specifico
+del corso di teoria di livello avanzato, il contenuto è totalmente chiuso in
+quanto trattasi di fatti e concetti
 
 Stabilità o instabilità:: I contenuti delle lezioni sono stabili, in quanto il
 corso tratta di argomenti ben radicati nell'ambito musicale. È possibile
@@ -620,8 +637,8 @@ il più possibile specifica. Su suppone che lo studente partecipi attivamente
 alla vita della didattica partecipando mediante varie modalità alle
 comunicazioni. Inoltre, il tutor (il docente) sarà sempre presente
 nell'accompagnamento dello studente: il percorso si pone l'obiettivo di
-raggiungere il livello di "`Applicazione`" (o di "`Comprensione`") della tassonomia di Bloom e la
-presenza del docente è, quindi, necessaria.
+raggiungere il livello di "`Applicazione`" (o di "`Comprensione`") della
+tassonomia di Bloom e la presenza del docente è, quindi, necessaria.
 
 In definitiva, la tipologia di e-learning stando alla classificazione di Mason è
 quella del "`__Support Online Learning__`".
