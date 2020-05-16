@@ -213,40 +213,36 @@ blockdiag {
 blockdiag {    
     A[label="Corso di Pianoforte:\nLivello base"]
     U1[numbered="M1",label="Introduzione allo strumento"]
-    U2[numbered="M2",label="Utilizzare il pianoforte"]
-    U3[numbered="M3",label="Leggere uno spartito"]
-    U4[numbered="M4",label="Suonare il pianoforte"]
+    U2[numbered="M2",label="Apprendimento degli accordi principali"]
+    U3[numbered="M3",label="Suonare il pianoforte"]
 
     L1.1[numbered="L1.1",label="Le componenti dello strumento"]
     L1.2[numbered="L1.2",label="I principi fondamentali del pianoforte"]
-    L2.1[numbered="L2.1",label="La posizione della mano"]
-    L2.2[numbered="L2.2",label="L'indipendenza delle dita"]
-    L2.3[numbered="L2.3",label="La diteggiatura"]
-    L3.1[numbered="L3.1",label="Le basi della partitura musicale"]
-    L3.2[numbered="L3.2",label="La notazione internazionale"]
-    L4.1[numbered="L4.1",label="Le note sul pianoforte"]
-    L4.2[numbered="L4.2",label="Gli accordi"]
-    L4.3[numbered="L4.3",label="Semplificare gli accordi: i rivolti"]
-    L4.4[numbered="L4.4",label="Applicare in pratica"]
+    L1.3[numbered="L1.3",label="Le note sul pianoforte"]
+    L1.4[numbered="L1.4",label="La diteggiatura"]
+    L2.1[numbered="L2.1",label="Accordi maggiori"]
+    L2.2[numbered="L2.2",label="Accordi minori"]
+    L2.3[numbered="L2.3",label="Accordi diesis maggiori"]
+    L2.4[numbered="L2.4",label="Accordi diesis minori"]
+    L3.1[numbered="L3.1",label="Semplificare gli accordi: i rivolti"]
+    L3.2[numbered="L3.2",label="Applicare in pratica"]
 
     A -> U1
     U1 -> L1.1
     U1 -> L1.2
+    U1 -> L1.3
+    U1 -> L1.4
     
     A -> U2
     U2 -> L2.1
     U2 -> L2.2
     U2 -> L2.3
+    U2 -> L2.4
     
     A -> U3
     U3 -> L3.1
     U3 -> L3.2
     
-    A -> U4
-    U4 -> L4.1
-    U4 -> L4.2
-    U4 -> L4.3
-    U4 -> L4.4
 }
 -----
 
@@ -258,15 +254,36 @@ blockdiag {
 [cols="<.^20h,<.^80"]
 |===
 | Argomento | Fondamenti della musica
-| Numero pagina | 2
+| Numero lezioni | 2
 | Descrizione | Sono descritti gli elementi fondamentali della musica: il suono e le note.
-// | Template | 
-// | Testo | 
-| Immagini | 1
-| Audio | Nessuno
-| Video | Nessuno
-// | Strumenti di comunicazione | Forum, chat
-| Link | 
+| Immagini | Assenti
+| Audio | Assenti
+| Video | Assenti
+| Link | Assenti
+|===
+
+.Storyboard:  Modulo 2, "`Elementi dello spartito`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Gli elementi dello spartito
+| Numero lezioni | 3
+| Descrizione | Sono descritti gli elementi fondamentali che compongono lo spartito (rigo, chiavi, valori e pause).
+| Immagini | Presenti
+| Audio | Assenti
+| Video | Assenti
+| Link | Assenti
+|===
+
+.Storyboard:  Modulo 3, "`Introduzione al tempo`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Il tempo
+| Numero lezioni | 2
+| Descrizione | Sono descritti gli elementi fondamentali del tempo musicale.
+| Immagini | Assenti
+| Audio | Assenti
+| Video | Assenti
+| Link | Assenti
 |===
 
 === Corso di teoria di livello avanzato
@@ -274,17 +291,37 @@ blockdiag {
 .Storyboard: Modulo 1, "`Tono, semitono e alterazioni`"
 [cols="<.^20h,<.^80"]
 |===
-| Argomento | Il tono e il semitono
-| Numero pagina | 1
-| Descrizione | Sono descritte le differenze tra la distanza, il tono e il 
-semitono.
-// | Template | 
-// | Testo | 
-| Immagini | 1
-| Audio | Nessuno
-| Video | Nessuno
-// | Strumenti di comunicazione | Forum, chat
-| Link | 
+| Argomento | Tono, semitono e alterazioni
+| Numero lezioni | 2
+| Descrizione | Sono descritte le differenze tra la distanza, il tono e il semitono.
+| Immagini | Assenti
+| Audio | Assenti
+| Video | Assenti
+| Link | Assenti
+|===
+
+.Storyboard: Modulo 2, "`La scala diatonica, gli intervalli e il cromatismo`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | La scala diatonica, gli intervalli e il cromatismo
+| Numero pagina | 3
+| Descrizione | Sono descritte la scala diatonica, gli intervalli e il cromatismo.
+| Immagini | Presenti
+| Audio | Assenti
+| Video | Assenti
+| Link | Assenti
+|===
+
+.Storyboard: Modulo 3, "`La tonalità, il modo e l'accordo tonale`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | La tonalità, il modo e l'accordo tonale
+| Numero pagina | 2
+| Descrizione | Sono descritte la tonalità, il modo e l'accordo tonale.
+| Immagini | Presenti
+| Audio | Assenti
+| Video | Assenti
+| Link | Assenti
 |===
 
 === Corso di batteria di livello base
@@ -292,16 +329,37 @@ semitono.
 .Storyboard: Modulo 1, "`Introduzione allo strumento`"
 [cols="<.^20h,<.^80"]
 |===
-| Argomento | Struttura della batteria
-| Numero pagina | 
+| Argomento | Introduzione allo strumento
+| Numero lezioni | 3
 | Descrizione | Viene descritto che tipo di strumento è la batteria e quali sono le sue componenti (cassa, rullante, piatti, ecc.).
-// | Template | 
-// | Testo | 
-| Immagini | 
-| Audio | 
-| Video | 
-// | Strumenti di comunicazione | Forum, chat
-| Link | 
+| Immagini | Presenti
+| Audio | Assenti
+| Video | Assenti
+| Link | Assenti
+|===
+
+.Storyboard: Modulo 2, "`Rudimenti`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | I rudimenti
+| Numero lezioni | 3
+| Descrizione | Vengono descriti quali e cosa sono i rudimenti principali e le loro propedeuticità.
+| Immagini | Assenti
+| Audio | Assenti
+| Video | Presenti
+| Link | Assenti
+|===
+
+.Storyboard: Modulo 3, "`Accenti`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Gli accenti
+| Numero lezioni | 2
+| Descrizione | Cosa e quali sono gli accenti.
+| Immagini | Assenti
+| Audio | Assenti
+| Video | Presenti
+| Link | Assenti
 |===
 
 === Corso di chitarra di livello base
@@ -310,69 +368,99 @@ semitono.
 [cols="<.^20h,<.^80"]
 |===
 | Argomento | Introduzione e utilizzo della chitarra
-| Numero pagina | 1
+| Numero lezioni | 4
 | Descrizione | Sono descritte le componenti principali di una chitarra e sono 
   mostrati alcuni esercizi per rendere indipendenti le dita e per rafforzarle. 
-// | Template | 
-// | Testo | 
-| Immagini | 9
-| Audio | Nessuno
-| Video | 1
-// | Strumenti di comunicazione | Forum, chat
-| Link | 
+| Immagini | Presenti
+| Audio | Assenti
+| Video | Presenti
+| Link | Assenti
 |===
 
 .Storyboard: Modulo 2, "`Apprendimento degli accordi principali`"
 [cols="<.^20h,<.^80"]
 |===
 | Argomento | Apprendimento degli accordi principali
-| Numero pagina | 1
+| Numero lezioni | 4
 | Descrizione | Vengono mostrate le corrette esecuzioni dei 24 accordi principali. 
-// | Template | 
-// | Testo | 
-| Immagini | 48
-| Audio | 24
-| Video | 0
-// | Strumenti di comunicazione | Forum, chat
-| Link | 
+| Immagini | Presenti
+| Audio | Presenti
+| Video | Assenti
+| Link | Assenti
 |===
 
 .Storyboard: Modulo 3, "`Suonare la chitarra`"
 [cols="<.^20h,<.^80"]
 |===
 | Argomento | Suonare la chitarra
-| Numero pagina | 1
+| Numero lezioni | 4
 | Descrizione | Viene mostrato il corretto utilizzo della mano destra 
   e le varie tipologie di suonare una chitarra.
-// | Template | 
-// | Testo | 
-| Immagini | 1
-| Audio | Nessuno
-| Video | Nessuno
-// | Strumenti di comunicazione | Forum, chat
-| Link | 
+| Immagini | Presenti
+| Audio | Assenti
+| Video | Assenti
+| Link | Assenti
 |===
 
 === Corso di pianoforte di livello base
 
-.Storyboard: Modulo 1, "`Le componenti dello strumento`"
+.Storyboard: Modulo 1, "`Introduzione allo strumento`"
 [cols="<.^20h,<.^80"]
 |===
-| Argomento | Le componenti dello strumento
-| Numero pagina | 1
-| Descrizione | Sono descritte le parti del pianoforte (tastiera, pedali, ecc.).
-// | Template | 
-// | Testo | 
-| Immagini | 1
-| Audio | Nessuno
-| Video | Nessuno
-// | Strumenti di comunicazione | Forum, chat
-| Link | 
+| Argomento | Introduzione allo strumento
+| Numero lezioni | 4
+| Descrizione | Un'introduzione alla struttura dello strumento, ai suoi principi e al modo di utilizzarlo.
+| Immagini | Presenti
+| Audio | Assenti
+| Video | Assenti
+| Link | Presenti
 |===
 
-== Gabbie logiche
+.Storyboard: Modulo 2, "`Apprendimento degli accordi principali`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Apprendimento degli accordi principali
+| Numero lezioni | 4
+| Descrizione | Un'introduzione ai 24 accordi principali
+| Immagini | Presenti
+| Audio | Presenti
+| Video | Presenti
+| Link | Assenti
+|===
+
+.Storyboard: Modulo 3, "`Suonare il pianoforte`"
+[cols="<.^20h,<.^80"]
+|===
+| Argomento | Suonare il pianoforte
+| Numero lezioni | 2
+| Descrizione | Un caso di studio per mettere in pratica quel che si è imparato.
+| Immagini | Presenti
+| Audio | Assenti
+| Video | Presenti
+| Link | Assenti
+|===
 
 == Layout
+
+Si presentano di seguito i layout della piattaforma. Si sono individuati
+all'interno dell'ipermedia diversi tipi di nodo strutturato. Inoltre, per
+mantenere una coerenza visiva delle pagine della piattaforma e dei corsi, si
+sono utilizzati gli stessi layout per pagine diverse ma dello stesso tipo.
+Quindi, per mantenere leggero il presente documento, si riporta di seguito un
+layout di esempio per ogni tipo di nodo individuato.
+
+I tipi di nodo individuati sono i seguenti:
+
+* Accordi (<<fig-layout-accordi>>)
+* Pagina di teoria (<<fig-layout-teoria>>)
+
+[#fig-layout-accordi]
+.Layout del nodo tipizzato "`Accordi`"
+image::images/layout-accordi.png[]
+
+[#fig-layout-teoria]
+.Layout del nodo tipizzato "`Pagina di teoria`"
+image::images/layout-teoria.png[]
 
 == Contenuto e interazione
 

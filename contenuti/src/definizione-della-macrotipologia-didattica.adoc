@@ -10,6 +10,12 @@ presente documento di lavoro.
 
 === Analisi dell'utenza
 
+L'utenza a cui è destinata la piattaforma è ampia e variegata. Tuttavia si
+presuppone una età minima di circa tredici anni, in quanto si ritiene che
+l'insegnamento della musica ai bambini debba essere meno rigoroso e basato sul
+"`divertirsi per apprendere`". Di seguito si riportano i vincoli dell'utenza dei
+vari corsi, mantenendo però validi i vincoli generali appena presentati.
+
 ==== Corso di teoria musicale di livello base
 
 L'utenza a cui è destinato il corso di teoria base è ampia e variegata. Questo
@@ -178,9 +184,10 @@ didattico, ma dovrà partecipare a una conferenza con il docente per valutare la
 sua capacità di suonare effettivamente lo strumento con composizione nuove.
 
 Si sottolinea che non tutte le lezioni (elencate nella sezione
-"`<<sect-moduli>>`") potrebbero avere la necessità di coprire tutti i tre
-livelli: in alcuni casi può essere sufficiente fermarsi a un livello inferiore.
-I casi specifici per ogni lezione sono riportati nella <<sec-lezioni-bloom>>.
+"`<<sect-lezioni>>`") potrebbero avere la necessità di
+coprire tutti i tre livelli: in alcuni casi può essere sufficiente fermarsi a un
+livello inferiore. I casi specifici per ogni lezione sono riportati nella
+<<sec-lezioni-bloom>>.
 
 [#sec-lezioni-bloom]
 === Attività, obiettivi e livelli della tassonomia di Bloom
@@ -193,65 +200,68 @@ I casi specifici per ogni lezione sono riportati nella <<sec-lezioni-bloom>>.
 
 | 1
 | Fondamenti della musica
-| * Conoscenza degli elementi fondamentali della 
-    musica
-| Lo studente deve conoscere quali sono gli elementi fondamentali alla base della musica, comprenderli e saperli utilizzare nel loro insieme.
+| * Autoapprendimento da ipertesti
+| Lo studente deve conoscere quali sono gli elementi fondamentali alla base
+  della musica, comprenderli e saperli utilizzare nel loro insieme.
+  *Valutazione:* test a risposta multipla.
 | * Conoscenza
 
 | 2
 | Elementi di uno spartito
-| * Comprendere quali sono gli elementi che compongono uno spartito e saperli individuare. 
-  * Comprendere come tali elementi vengono utilizzati nello spartito e che ruolo hanno al suo interno.
-| Lo studente deve essere in grado di comprendere quali sono gli elementi alla base di uno spartito, che funzioni svolgono e come vengono messi insieme.
+| * Autoapprendimento da ipertesti
+| Lo studente deve essere in grado di comprendere quali sono gli elementi alla
+  base di uno spartito, che funzioni svolgono e come vengono messi insieme.
+  *Valutazione:* test a risposta multipla con domande formulate in modo diverso
+  rispetto al testo.
 | * Conoscenza
   * Comprensione
 
 | 3
 | Introduzione al tempo
-| * Comprensione della terminologia basilare riferita al tempo.
-  * Comprensione del ritmo e della differenza tra tempi semplici e composti.
-| Lo studente deve essere in grado di definire il termine _ritmo_ e spiegare i metodi di rappresentazione del _tempo_
+| * Autoapprendimento da ipertesti
+| Lo studente deve essere in grado di definire il termine _ritmo_ e spiegare i
+  metodi di rappresentazione del _tempo_. *Valutazione:* test a risposta
+  multipla con domande formulate in modo diverso; la valutazione dell'obiettivo
+  di applicazione è rimandato all'esame finale.
 | * Conoscenza
   * Comprensione
   * Applicazione
 
 |===
 
-[#tab-lezioni-bloom-teoria-avanzate]
+[#tab-lezioni-bloom-teoria-avanzata]
 [options="header", cols="^.^10h,^.^15,^.^25a,^.^20,^.^20a", stripes=even]
-.Attività, obiettivi e livelli della tassonomia di Bloom per ogni unità del corso di teoria di livello avanzato
+.Attività, obiettivi e livelli della tassonomia di Bloom per ogni modulo del corso di teoria di livello avanzato
 |===
-| N.ro Unità | Titolo unità | Attività | Obiettivo | Tassonomia di Bloom
+| N.ro Modulo | Titolo modulo | Attività | Obiettivo | Tassonomia di Bloom
 
 | 1
 | Tono, semitono e alterazioni
-| * Conoscenza delle differenze tra toni e semitoni.
-  * Comprensione delle Alterazioni costanti, momentanee e di 
-  precauzione.
+| * Apprendimento da ipertesti
 | Lo studente deve essere in grado di comprendere le principali differenze tra
-toni e semitoni e deve saper comprendere e giustificare le scelte delle 
-alterazioni all'interno dello spartito.
+  toni e semitoni e deve saper comprendere e giustificare le scelte delle
+  alterazioni all'interno dello spartito. *Valutazione:* test vero/falso con
+  domande formulate in modo diverso rispetto al testo.
 | * Conoscenza
   * Comprensione
 
 | 2
 | Scala diatonica, gli intervalli e il cromatismo
-| * Comprensione delle scale di Do _Maggiore_ e La _Minore_
-  * Conoscenza degli intervalli tra note
-  * Comprensione dei toni e dei semitoni diatonici e cromatici
+| * Apprendimento da ipertesti
 | Lo studente deve comprendere l'importanza delle scale diatoniche e conoscere 
-gli intervalli congiunti, disgiunti e melodici. Inoltre, deve comprendere le 
-differenze tra toni, semitoni diatonici e semitoni cromatici.
+  gli intervalli congiunti, disgiunti e melodici. Inoltre, deve comprendere le
+  differenze tra toni, semitoni diatonici e semitoni cromatici. *Valutazione:*
+  test vero/falso con domande formulate in modo diverso rispetto al testo.
 | * Conoscenza
   * Comprensione
 
 | 3
 | La tonalità, il modo e l'accordo tonale
-| * Conoscenza della tonalità, del modo maggiore e del modo minore
-  * Comprensione dell'accordo tonale
+| * Apprendimento da ipertesti
 | Lo studente deve conoscere le tonalità delle varie note e il loro grado,
-i due possibili modi delle tonalità ovvero maggiore e minore, comprendere 
-l'accordo tonale e la nota differenziale e personale.
+  i due possibili modi delle tonalità ovvero maggiore e minore, comprendere
+  l'accordo tonale e la nota differenziale e personale. *Valutazione:* test
+  vero/falso con domande formulate in modo diverso rispetto al testo.
 | * Conoscenza
   * Comprensione
 |===
@@ -264,30 +274,41 @@ l'accordo tonale e la nota differenziale e personale.
 
 | 1
 | Introduzione allo strumento
-| * Conoscenza delle componenti principali dello strumento, dei suoi principi
-  fondamentali e l'importanza dell'impugnatura della bacchetta
+| * Autoapprendimento da ipertesti
 | Lo studente deve conoscere quali sono le componenti fondamentali dello
   strumento che sta utilizzando e deve conoscere quali sono le "`regole`" e i
-  principi basilari della disciplina
+  principi basilari della disciplina. *Valutazione:* test a risposta multipla
+  con domande formulate in modo diverso rispetto al testo e consegna di una
+  foto/video dimostrativo sull'impugnatura delle bacchette.
 | * Conoscenza
+  * Comprensione
+  * Applicazione
 
 | 2
 | Rudimenti
-| * Comprendere cosa sono i rudimenti
-  * Comprendere quali sono i rudimenti di base
-  * Applicazione della teoria dei rudimenti per poter iniziare a riprodurli sulla percussione scelta (o direttamente sulla batteria, o su un pad)
-| Lo studente deve essere in grado di comprendere cosa sono i rudimenti, quali sono quelli di base e deve essere in grado di applicare i rudimenti suonandoli su una batteria (o su un pad, o su una qualsiasi percussione)
+| * Autoapprendimento da ipertesti
+  * Videolezioni preregistrate
+  * Video di esempio
+| Lo studente deve essere in grado di comprendere cosa sono i rudimenti, quali
+  sono quelli di base e deve essere in grado di applicare i rudimenti suonandoli
+  su una batteria (o su un pad, o su una qualsiasi percussione). *Valutazione:*
+  test a risposta multipla con domande formulate in modo diverso rispetto al
+  testo e consegna di un video registrato per valutare la pratica.
 | * Conoscenza
   * Comprensione
   * Applicazione
 
 | 3
 | Accenti
-| * Comprendere cosa sono gli accenti
-  * Comprendere quali sono gli accenti
-  * Applicare questi accenti riproducendoli su una batteria (o su un pad, o su una qualsiasi percussione)
-| Lo studente deve essere in grado comprendere cosa sono gli accenti e quali sono quelli fondamentali.
-  Deve essere inoltre in grado di riprodurre gli accenti studiati su una batteria (o su un pad, o su una qualsiasi percussione)
+| * Autoapprendimento da ipertesti
+  * Videolezioni preregistrate
+  * Video di esempio
+| Lo studente deve essere in grado comprendere cosa sono gli accenti e quali
+  sono quelli fondamentali. Deve essere inoltre in grado di riprodurre gli
+  accenti studiati su una batteria (o su un pad, o su una qualsiasi
+  percussione). *Valutazione:* test a risposta multipla con domande formulate in
+  modo diverso rispetto al testo e consegna di un video registrato per valutare
+  la pratica.
 | * Conoscenza
   * Comprensione
   * Applicazione
@@ -301,35 +322,37 @@ l'accordo tonale e la nota differenziale e personale.
 
 | 1
 | Introduzione e utilizzo della chitarra
-| * Conoscenza delle componenti principali dello strumento e comprensione degli esercizi
- per rendere indipendenti le dita e per rafforzarle. 
+| * Autoapprendimento da ipertesti
 | Lo studente deve conoscere quali sono le componenti fondamentali dello
   strumento che sta utilizzando e deve conoscere quali sono le "`regole`" e i
-  principi basilari della disciplina
-  Lo studente deve rafforzare i muscoli delle dita e della mano per essere in grado di 
-  utilizzare al meglio lo strumento e per suonare, in futuro, correttamente gli accordi.
+  principi basilari della disciplina Lo studente deve rafforzare i muscoli delle
+  dita e della mano per essere in grado di utilizzare al meglio lo strumento e
+  per suonare, in futuro, correttamente gli accordi. *Valutazione:* test a
+  risposta multipla con domande formulate in modo diverso rispetto al testo.
 | * Conoscenza
   * Comprensione
 
 | 2
 | Apprendimento degli accordi principali
-| * Comprensione e utilizzo dei 24 accordi principali di base.
+| * Autoapprendimento mediante schema dell'accordo, foto e audio di validazione
 | Lo studente deve essere in grado di ricordare a memoria e correttamente eseguire
-  tutti i 24 accordi principali di base.
+  tutti i 24 accordi principali di base. *Valutazione:* test a risposta multipla
+  con domande formulate in modo diverso rispetto al testo e consegne multiple di
+  video registrati per valutare la pratica.
 | * Conoscenza
   * Comprensione
   * Applicazione
 
 | 3
 | Suonare la chitarra
-| * Utilizzo degli accordi per iniziare a suonare le prime canzoni.
-  * Imparare a cambiare gli accordi in modo veloce e pulito.
-  * Comprensione e corretta esecuzione del ritmo di una canzone.
+| * Autoapprendimento da ipertesti
 | Lo studente deve essere in grado di effettuare correttamente gli accordi che dovrebbe
-  ricordare a memoria e deve essere in grado di cambiarli il più velocemente possibile
-  per l'esecuzione di una canzone
-  Lo studente deve anche imparare a rendere indipendenti le due mani e deve riuscire a comprendere
-  il ritmo di una canzone e successivamente replicarla.
+  ricordare a memoria e deve essere in grado di cambiarli il più velocemente
+  possibile per l'esecuzione di una canzone Lo studente deve anche imparare a
+  rendere indipendenti le due mani e deve riuscire a comprendere il ritmo di una
+  canzone e successivamente replicarla. *Valutazione:* test a risposta multipla
+  con domande formulate in modo diverso rispetto al testo. La valutazione
+  dell'obiettivo di applicazione è posticipato all'esame finale.
 | * Conoscenza
   * Comprensione
   * Applicazione
@@ -344,46 +367,34 @@ l'accordo tonale e la nota differenziale e personale.
 
 | 1
 | Introduzione allo strumento
-| * Conoscenza delle componenti principali dello strumento e dei suoi principi
-  fondamentali
+| * Autoapprendimento da ipertesti
 | Lo studente deve conoscere quali sono le componenti fondamentali dello
   strumento che sta utilizzando e deve conoscere quali sono le "`regole`" e i
-  principi basilari della disciplina
+  principi basilari della disciplina. *Valutazione:* test a risposta multipla.
 | * Conoscenza
 
 | 2
-| Utilizzare il pianoforte
-| * Comprendere come posizionarsi per suonare lo strumento e come rendere
-  indipendenti le dita. 
-  * Comprendere come una diteggiatura corretta può migliorare la qualità
-  dell'attività
-| Lo studente deve essere in grado di comprendere quali sono le posizioni
-  corrette da assumere allo strumento, in modo da poterne sviluppare delle
-  proprie in modo cosciente. Inoltre, deve essere in grado di comprendere la
-  simbologia utilizzata per indicare la diteggiatura.
-| * Conoscenza
-  * Comprensione
-
-| 3
-| Leggere uno spartito
-| * Comprensione della simbologia basilare della partitura musicale.
-  * Comprensione delle differenze fra la notazione italiana e quella
-  internazionale.
-| Lo studente deve essere in grado di leggere una partitura musicale di base.
-  Deve essere inoltre in grado di trasporre le informazioni lette in notazione
-  internazionale.
+| Apprendimento degli accordi principali
+| * Autoapprendimento da ipertesti
+  * Autoapprendimento mediante schemi, video e audio
+| Lo studente deve essere in grado di ricordare correttamente ed eseguire
+  tutti i 24 accordi principali di base. *Valutazione:* test a risposta multipla
+  con domande formulate in modo diverso rispetto al testo e consegne multiple di
+  foto per valutare la pratica.
 | * Conoscenza
   * Comprensione
   * Applicazione
 
-| 4
+| 3
 | Suonare il pianoforte
-| * Individuazione delle note nel pianoforte.
-  * Utilizzo degli accordi e dei rivolti, in modo basilare.
-  * Applicazione della teoria in un caso di studio.
+| * Autoapprendimento da ipertesti
+  * Autoapprendimento mediante schemi
+  * Videolezioni preregistrate
 | Lo studente deve essere in grado di applicare tutto quel che ha studiato
   durante il corso per suonare un semplice pezzo senza la necessità di un
-  accompagnamento del docente.
+  accompagnamento del docente.*Valutazione:* test a risposta multipla con
+  domande formulate in modo diverso rispetto al testo; la valutazione
+  dell'obiettivo di applicazione è rimandata all'esame finale.
 | * Conoscenza
   * Comprensione
   * Applicazione
@@ -567,18 +578,16 @@ Corso di pianoforte di livello base::
   * Modulo 1: Introduzione allo strumento
     ** Lezione 1.1: Le componenti dello strumento
     ** Lezione 1.2: I principi fondamentali del pianoforte
-  * Modulo 2: Utilizzare il pianoforte
-    ** Lezione 2.1: La posizione della mano
-    ** Lezione 2.2: L'indipendenza delle dita
-    ** Lezione 2.3: La diteggiatura
-  * Modulo 3: Leggere uno spartito
-    ** Lezione 3.1: Le basi della partitura musicale
-    ** Lezione 3.2: La notazione internazionale
-  * Modulo 4: Suonare il pianoforte
-    ** Lezione 4.1: Le note sul pianoforte
-    ** Lezione 4.2: Gli accordi
-    ** Lezione 4.3: Semplificare gli accordi: i rivolti
-    ** Lezione 4.4: Applicare in pratica: "`No Woman No Cry`"
+    ** Lezione 1.3: Le note sul pianoforte
+    ** Lezione 1.4: La diteggiatura
+  * Modulo 2: Apprendimento degli accordi principali
+    ** Lezione 2.1: Accordi maggiori
+    ** Lezione 2.2: Accordi minori
+    ** Lezione 2.3: Accordi diesis maggiori
+    ** Lezione 2.4: Accordi diesis minori
+  * Modulo 3: Suonare il pianoforte
+    ** Lezione 3.1: Semplificare gli accordi: i rivolti
+    ** Lezione 3.2: Applicare in pratica: "`No Woman No Cry`"
   * Esame finale
 +
 [options="header", cols="^.^20h, ^.^40, ^.^40a"]
@@ -589,16 +598,16 @@ Corso di pianoforte di livello base::
 | Fatti (chiuso)
 | Un insieme di dati dal carattere specifico e unico
 | * I componenti dello strumento
-  * La diteggiatura
-  * La notazione internazionale
   * Le note sul pianoforte
+  * La diteggiatura
+  * Accordi maggiori
+  * Accordi minori
+  * Accordi diesis maggiori
+  * Accordi diesis minori
+
 
 | Concetti (chiuso/aperto)
 | Categoria che include al suo interno molteplici esemplificazioni
-| * La posizione della mano
-  * L'indipendenza delle dita
-  * Le basi della partitura musicale
-  * Gli accordi
   * Semplificare gli accordi: i rivolti
 
 | Principi (aperto)
