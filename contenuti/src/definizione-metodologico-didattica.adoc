@@ -453,6 +453,11 @@ I tipi di nodo individuati sono i seguenti:
 
 * Accordi (<<fig-layout-accordi>>)
 * Pagina di teoria (<<fig-layout-teoria>>)
+* Pagina di teoria con contenuti multimediali (<<fig-layout-teoria-immagine>>)
+* Pagina del quiz (<<fig-layout-quiz>>)
+
+Inoltre, poiché una possibile forma di acquisizione di informazioni è quella del
+forum, vi è la tipologia di nodo di pagina del forum (<<fig-layout-forum>>).
 
 [#fig-layout-accordi]
 .Layout del nodo tipizzato "`Accordi`"
@@ -461,6 +466,18 @@ image::images/layout-accordi.png[]
 [#fig-layout-teoria]
 .Layout del nodo tipizzato "`Pagina di teoria`"
 image::images/layout-teoria.png[]
+
+[#fig-layout-teoria-immagine]
+.Layout del nodo tipizzato "`Pagina di teoria con contenuti multimediali`"
+image::images/layout-teoria-immagine.png[]
+
+[#fig-layout-quiz]
+.Layout del nodo tipizzato "`Pagina del quiz`"
+image::images/layout-quiz.png[]
+
+[#fig-layout-forum]
+.Layout del nodo tipizzato "`Pagina del forum`"
+image::images/layout-forum.png[]
 
 == Contenuto e interazione
 
