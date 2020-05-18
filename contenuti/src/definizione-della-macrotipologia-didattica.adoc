@@ -184,10 +184,9 @@ didattico, ma dovrà partecipare a una conferenza con il docente per valutare la
 sua capacità di suonare effettivamente lo strumento con composizione nuove.
 
 Si sottolinea che non tutte le lezioni (elencate nella sezione
-"`<<sect-lezioni>>`") potrebbero avere la necessità di
-coprire tutti i tre livelli: in alcuni casi può essere sufficiente fermarsi a un
-livello inferiore. I casi specifici per ogni lezione sono riportati nella
-<<sec-lezioni-bloom>>.
+"`<<sect-lezioni>>`") potrebbero avere la necessità di coprire tutti i tre
+livelli: in alcuni casi può essere sufficiente fermarsi a un livello inferiore.
+I casi specifici per ogni lezione sono riportati nella <<sec-lezioni-bloom>>.
 
 [#sec-lezioni-bloom]
 === Attività, obiettivi e livelli della tassonomia di Bloom
@@ -240,8 +239,9 @@ livello inferiore. I casi specifici per ogni lezione sono riportati nella
 | * Apprendimento da ipertesti
 | Lo studente deve essere in grado di comprendere le principali differenze tra
   toni e semitoni e deve saper comprendere e giustificare le scelte delle
-  alterazioni all'interno dello spartito. *Valutazione:* test vero/falso con
-  domande formulate in modo diverso rispetto al testo.
+  alterazioni all'interno dello spartito. *Valutazione:* test vero/falso, a
+  risposta multipla o a corrispondenza con domande formulate in modo diverso
+  rispetto al testo.
 | * Conoscenza
   * Comprensione
 
@@ -251,7 +251,8 @@ livello inferiore. I casi specifici per ogni lezione sono riportati nella
 | Lo studente deve comprendere l'importanza delle scale diatoniche e conoscere 
   gli intervalli congiunti, disgiunti e melodici. Inoltre, deve comprendere le
   differenze tra toni, semitoni diatonici e semitoni cromatici. *Valutazione:*
-  test vero/falso con domande formulate in modo diverso rispetto al testo.
+  test vero/falso e/o risposta multipla con domande formulate in modo diverso
+  rispetto al testo.
 | * Conoscenza
   * Comprensione
 
@@ -261,7 +262,8 @@ livello inferiore. I casi specifici per ogni lezione sono riportati nella
 | Lo studente deve conoscere le tonalità delle varie note e il loro grado,
   i due possibili modi delle tonalità ovvero maggiore e minore, comprendere
   l'accordo tonale e la nota differenziale e personale. *Valutazione:* test
-  vero/falso con domande formulate in modo diverso rispetto al testo.
+  vero/falso e/o a corrispondenza con domande formulate in modo diverso rispetto
+  al testo.
 | * Conoscenza
   * Comprensione
 |===
@@ -277,8 +279,9 @@ livello inferiore. I casi specifici per ogni lezione sono riportati nella
 | * Autoapprendimento da ipertesti
 | Lo studente deve conoscere quali sono le componenti fondamentali dello
   strumento che sta utilizzando e deve conoscere quali sono le "`regole`" e i
-  principi basilari della disciplina. *Valutazione:* test vero/falso a fine lezione teorica, test propedeutico a risposta multipla
-  con domande formulate in modo diverso rispetto al testo (presente a fine modulo) e consegna di una
+  principi basilari della disciplina. *Valutazione:* test vero/falso a fine 
+  lezione teorica, test propedeutico a risposta multipla con domande formulate
+  in modo diverso rispetto al testo (presente a fine modulo) e consegna di una
   foto/video dimostrativo sull'impugnatura delle bacchette.
 | * Conoscenza
   * Comprensione
@@ -291,9 +294,10 @@ livello inferiore. I casi specifici per ogni lezione sono riportati nella
   * Video di esempio
 | Lo studente deve essere in grado di comprendere cosa sono i rudimenti, quali
   sono quelli di base e deve essere in grado di applicare i rudimenti suonandoli
-  su una batteria (o su un pad, o su una qualsiasi percussione). *Valutazione:* test vero/falso a fine lezione teorica,
-  test propedeutico a risposta multipla con domande formulate in modo diverso rispetto al
-  testo (presente a fine modulo) e consegna di uno o più video registrati per valutare la pratica.
+  su una batteria (o su un pad, o su una qualsiasi percussione). *Valutazione:*
+  test vero/falso a fine lezione teorica, test propedeutico a risposta multipla
+  con domande formulate in modo diverso rispetto al testo (presente a fine
+  modulo) e consegna di uno o più video registrati per valutare la pratica.
 | * Conoscenza
   * Comprensione
   * Applicazione
@@ -306,9 +310,10 @@ livello inferiore. I casi specifici per ogni lezione sono riportati nella
 | Lo studente deve essere in grado comprendere cosa sono gli accenti e quali
   sono quelli fondamentali. Deve essere inoltre in grado di riprodurre gli
   accenti studiati su una batteria (o su un pad, o su una qualsiasi
-  percussione). *Valutazione:* test vero/falso a fine lezione teorica, test propedeutico a risposta multipla con domande formulate in
-  modo diverso rispetto al testo (presente a fine modulo) e consegna di uno o più video registrati per valutare
-  la pratica.
+  percussione). *Valutazione:* test vero/falso a fine lezione teorica, test 
+  propedeutico a risposta multipla con domande formulate in modo diverso
+  rispetto al testo (presente a fine modulo) e consegna di uno o più video
+  registrati per valutare la pratica.
 | * Conoscenza
   * Comprensione
   * Applicazione
@@ -370,7 +375,8 @@ livello inferiore. I casi specifici per ogni lezione sono riportati nella
 | * Autoapprendimento da ipertesti
 | Lo studente deve conoscere quali sono le componenti fondamentali dello
   strumento che sta utilizzando e deve conoscere quali sono le "`regole`" e i
-  principi basilari della disciplina. *Valutazione:* test a risposta multipla.
+  principi basilari della disciplina. *Valutazione:* test a risposta multipla
+  e/o vero/falso.
 | * Conoscenza
 
 | 2
@@ -379,8 +385,8 @@ livello inferiore. I casi specifici per ogni lezione sono riportati nella
   * Autoapprendimento mediante schemi, video e audio
 | Lo studente deve essere in grado di ricordare correttamente ed eseguire
   tutti i 24 accordi principali di base. *Valutazione:* test a risposta multipla
-  con domande formulate in modo diverso rispetto al testo e consegne multiple di
-  foto per valutare la pratica.
+  e/o vero/falso con domande formulate in modo diverso rispetto al testo e
+  consegne multiple di foto per valutare la pratica.
 | * Conoscenza
   * Comprensione
   * Applicazione
@@ -392,9 +398,9 @@ livello inferiore. I casi specifici per ogni lezione sono riportati nella
   * Videolezioni preregistrate
 | Lo studente deve essere in grado di applicare tutto quel che ha studiato
   durante il corso per suonare un semplice pezzo senza la necessità di un
-  accompagnamento del docente.*Valutazione:* test a risposta multipla con
-  domande formulate in modo diverso rispetto al testo; la valutazione
-  dell'obiettivo di applicazione è rimandata all'esame finale.
+  accompagnamento del docente.*Valutazione:* La valutazione è rimandata 
+  all'esame finale, un'esame "`orale`" in videoconferenza con il docente in cui
+  lo studente dovrà mostrare ciò che ha imparato.
 | * Conoscenza
   * Comprensione
   * Applicazione
