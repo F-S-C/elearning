@@ -141,7 +141,7 @@ blockdiag {
     L2.2[numbered="L2.2",label="Rudimenti di base"]
     L2.3[numbered="L2.3",label="Propedeuticità dei rudimenti"]
     L3.1[numbered="L3.1",label="Introduzione agli accenti"]
-    L3.2[numbered="L3.2",label="Accenti di base"]
+    L3.2[numbered="L3.2",label="Rudimenti con gli accenti"]
     
     A -> M1
     M1 -> L1.1
@@ -343,7 +343,7 @@ blockdiag {
 |===
 | Argomento | I rudimenti
 | Numero lezioni | 3
-| Descrizione | Vengono descriti quali e cosa sono i rudimenti principali e le loro propedeuticità.
+| Descrizione | Vengono descritti quali e cosa sono i rudimenti principali e le loro propedeuticità.
 | Immagini | Assenti
 | Audio | Assenti
 | Video | Presenti
@@ -355,7 +355,7 @@ blockdiag {
 |===
 | Argomento | Gli accenti
 | Numero lezioni | 2
-| Descrizione | Cosa e quali sono gli accenti.
+| Descrizione | Cosa sono gli accenti e come applicarli a rudimenti più complessi.
 | Immagini | Assenti
 | Audio | Assenti
 | Video | Presenti

@@ -277,8 +277,8 @@ livello inferiore. I casi specifici per ogni lezione sono riportati nella
 | * Autoapprendimento da ipertesti
 | Lo studente deve conoscere quali sono le componenti fondamentali dello
   strumento che sta utilizzando e deve conoscere quali sono le "`regole`" e i
-  principi basilari della disciplina. *Valutazione:* test a risposta multipla
-  con domande formulate in modo diverso rispetto al testo e consegna di una
+  principi basilari della disciplina. *Valutazione:* test vero/falso a fine lezione teorica, test propedeutico a risposta multipla
+  con domande formulate in modo diverso rispetto al testo (presente a fine modulo) e consegna di una
   foto/video dimostrativo sull'impugnatura delle bacchette.
 | * Conoscenza
   * Comprensione
@@ -291,9 +291,9 @@ livello inferiore. I casi specifici per ogni lezione sono riportati nella
   * Video di esempio
 | Lo studente deve essere in grado di comprendere cosa sono i rudimenti, quali
   sono quelli di base e deve essere in grado di applicare i rudimenti suonandoli
-  su una batteria (o su un pad, o su una qualsiasi percussione). *Valutazione:*
-  test a risposta multipla con domande formulate in modo diverso rispetto al
-  testo e consegna di un video registrato per valutare la pratica.
+  su una batteria (o su un pad, o su una qualsiasi percussione). *Valutazione:* test vero/falso a fine lezione teorica,
+  test propedeutico a risposta multipla con domande formulate in modo diverso rispetto al
+  testo (presente a fine modulo) e consegna di uno o più video registrati per valutare la pratica.
 | * Conoscenza
   * Comprensione
   * Applicazione
@@ -306,8 +306,8 @@ livello inferiore. I casi specifici per ogni lezione sono riportati nella
 | Lo studente deve essere in grado comprendere cosa sono gli accenti e quali
   sono quelli fondamentali. Deve essere inoltre in grado di riprodurre gli
   accenti studiati su una batteria (o su un pad, o su una qualsiasi
-  percussione). *Valutazione:* test a risposta multipla con domande formulate in
-  modo diverso rispetto al testo e consegna di un video registrato per valutare
+  percussione). *Valutazione:* test vero/falso a fine lezione teorica, test propedeutico a risposta multipla con domande formulate in
+  modo diverso rispetto al testo (presente a fine modulo) e consegna di uno o più video registrati per valutare
   la pratica.
 | * Conoscenza
   * Comprensione
@@ -503,7 +503,7 @@ Corso di batteria di livello base::
     ** Lezione 2.3: Propedeuticità dei rudimenti
   * Modulo 3: Accenti 
     ** Lezione 3.1: Introduzione agli accenti
-    ** Lezione 3.2: Accenti di base
+    ** Lezione 3.2: Rudimenti con gli accenti
   * Esame finale
 +
 [options="header", cols="^.^20h, ^.^40, ^.^40a"]
@@ -521,7 +521,7 @@ Corso di batteria di livello base::
 | * L'impugnatura della bacchetta
   * Rudimenti di base
   * Propedeuticità dei rudimenti
-  * Accenti di base
+  * Rudimenti con gli accenti
 | Principi (aperto)
 | Indicazioni generali e linee guida
 | * I concetti fondamentali della batteria
