@@ -67,6 +67,7 @@ task :manuali do
     AsciiDocPublishingToolbox.build dir: Pathname.new(__FILE__).dirname + "manuali/#{type}"
     FileUtils.mkdir_p Pathname.new(__FILE__).dirname + "docs/manuali/#{type}"
     FileUtils.mv Dir.glob(Pathname.new(__FILE__).dirname + "manuali/#{type}/docs/*"), Pathname.new(__FILE__).dirname + "docs/manuali/#{type}", force: true
+    FileUtils.cp_r Pathname.new(__FILE__).dirname + "manuali/#{type}/images/", Pathname.new(__FILE__).dirname + "docs/manuali/#{type}"
     puts "\r✓ Builded guide for '#{type}'   "
   end
 end
@@ -79,6 +80,7 @@ task :contenuti do
     AsciiDocPublishingToolbox.build dir: doc.dirname
     FileUtils.mkdir_p Pathname.new(__FILE__).dirname + 'docs/contenuti/'
     FileUtils.mv Dir[doc.dirname + "docs/*"], Pathname.new(__FILE__).dirname + 'docs/contenuti/', force: true
+    FileUtils.cp_r doc.dirname + "images/", Pathname.new(__FILE__).dirname + 'docs/contenuti/'
     puts "\r✓ Builded 'contenuti'   "
 end
 
