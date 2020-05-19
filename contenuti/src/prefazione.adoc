@@ -8,6 +8,7 @@ Academy. Nella <<tab-autori>> sono elencati, per ogni corso, i rispettivi autori
 con i relativi contatti.
 
 [options="header", cols="30,30,40"]
+[#tab-autori]
 .Autori dei corsi
 |===
 | Corso | Autore | E-mail
