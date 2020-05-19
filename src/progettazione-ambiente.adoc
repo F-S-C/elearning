@@ -365,7 +365,7 @@ di una loro comparazione.
 
 | Editor visuale di ipertesti
 | Sì
-| ATutor
+| Sì
 | Sì
 | No
 | Sì
